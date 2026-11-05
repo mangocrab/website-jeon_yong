@@ -1,7 +1,7 @@
 """Build separate transparent SVG animations without changing source PNGs.
 
 Epic: stationary themed effect geometry, opacity only.
-Legendary: the same fade plus a small concentric rocking rotation.
+Legendary: themed articulation of individual ornaments, with a fixed base ring.
 The SVG retains the exact opaque inner contour and transparent aperture.
 """
 import argparse
@@ -15,6 +15,7 @@ from pathlib import Path
 
 import numpy as np
 from PIL import Image
+from profile_motion_rigs import MOTIONS,make_rig,part_transform
 
 ROOT = Path(__file__).resolve().parents[1]
 STATIC = ROOT / 'assets/profile-borders'
@@ -24,9 +25,9 @@ RADIUS = 358
 FRAME_MS = 80
 N_EPIC = 48
 N_LEGENDARY = 96
-PEAK_OPACITY = .55
-AMPLITUDES = {91: 1.15, 92: .9, 93: .7, 94: 1., 95: 1.1,
-              96: .6, 97: .8, 98: 1.2, 99: .85, 100: .9}
+EPIC_PEAK_OPACITY = .95
+LEGENDARY_PEAK_OPACITY = .75
+EPIC_EFFECT_SCALE = 2.2
 
 
 def point(degrees, radius):
@@ -197,12 +198,26 @@ BAND = (DISTANCE >= RADIUS) & (DISTANCE < RADIUS+2)
 OUTSIDE = DISTANCE > 480
 
 
-def opacity_at(t):
-    return PEAK_OPACITY * (.5-.5*math.cos(2*math.pi*t))
+def opacity_at(t,peak):
+    return peak * (.5-.5*math.cos(2*math.pi*t))
 
 
-def angle_at(t, amplitude):
-    return amplitude*math.sin(2*math.pi*t)
+def enlarge_effects(shapes):
+    """Bake larger geometry, not a moving scale animation."""
+    output=[]
+    for original in shapes:
+        s=dict(original)
+        s['width']=s.get('width',1)*2.4
+        s['contrast_outline']=True
+        if s['kind'] in ('line','polygon'):
+            points=np.array(s['points']);center=points.mean(axis=0)
+            s['points']=(center+(points-center)*EPIC_EFFECT_SCALE).tolist()
+        elif s['kind']=='ellipse':
+            x1,y1,x2,y2=s['box'];cx=(x1+x2)/2;cy=(y1+y2)/2
+            rx=(x2-x1)/2*EPIC_EFFECT_SCALE;ry=(y2-y1)/2*EPIC_EFFECT_SCALE
+            s['box']=[cx-rx,cy-ry,cx+rx,cy+ry]
+        output.append(s)
+    return output
 
 
 def svg_shape(s):
@@ -210,11 +225,12 @@ def svg_shape(s):
     width=s.get('width',1)
     if s['kind'] in ('line','polygon'):
         points=' '.join(f'{x:.3f},{y:.3f}' for x,y in s['points'])
-        if s['kind']=='polygon':return f'<polygon points="{points}" fill="{color}"/>'
-        return f'<polyline points="{points}" fill="none" stroke="{color}" stroke-width="{width}" stroke-linecap="round" stroke-linejoin="round"/>'
+        if s['kind']=='polygon':return f'<polygon points="{points}" fill="{color}"'+(' stroke="#25364a" stroke-width="2" stroke-linejoin="round" paint-order="stroke fill"' if s.get('contrast_outline') else '')+'/>'
+        under=f'<polyline points="{points}" fill="none" stroke="#25364a" stroke-width="{width+2}" stroke-linecap="round" stroke-linejoin="round"/>' if s.get('contrast_outline') else ''
+        return under+f'<polyline points="{points}" fill="none" stroke="{color}" stroke-width="{width}" stroke-linecap="round" stroke-linejoin="round"/>'
     if s['kind']=='ellipse':
         x1,y1,x2,y2=s['box'];cx=(x1+x2)/2;cy=(y1+y2)/2
-        style=f'fill="{color}"' if s['fill'] else f'fill="none" stroke="{color}" stroke-width="{width}"'
+        style=(f'fill="{color}"'+(' stroke="#25364a" stroke-width="2"' if s.get('contrast_outline') else '')) if s['fill'] else f'fill="none" stroke="{color}" stroke-width="{width}"'
         return f'<ellipse cx="{cx:.3f}" cy="{cy:.3f}" rx="{(x2-x1)/2:.3f}" ry="{(y2-y1)/2:.3f}" {style}/>'
     if s['kind']=='arc':
         x1,y1=point(s['start'],s['radius']);x2,y2=point(s['end'],s['radius']);r=s['radius']
@@ -230,23 +246,38 @@ def mask_uri(condition):
     return 'data:image/png;base64,'+base64.b64encode(buffer.getvalue()).decode('ascii')
 
 
-def write_svg(path,source,shapes,amplitude,n_frames,name):
+def write_svg(path,source,shapes,number,n_frames,name):
     data=base64.b64encode(source.read_bytes()).decode('ascii')
     duration=n_frames*FRAME_MS/1000
-    fades=''.join(f'{j*100/n_frames:.5f}%{{opacity:{opacity_at(j/n_frames):.6f}}}' for j in range(n_frames+1))
-    rocks=''.join(f'{j*100/n_frames:.5f}%{{transform:rotate({-angle_at(j/n_frames,amplitude):.6f}deg)}}' for j in range(n_frames+1))
+    peak=EPIC_PEAK_OPACITY if number<91 else LEGENDARY_PEAK_OPACITY
+    fades=''.join(f'{j*100/n_frames:.5f}%{{opacity:{opacity_at(j/n_frames,peak):.6f}}}' for j in range(n_frames+1))
     moving_mask=mask_uri((DISTANCE>=360)&~OUTSIDE)
     contour_mask=mask_uri(BAND)
+    part_defs=[];part_css=[];part_groups=[]
+    if number>=91:
+        parts,used=make_rig(number,np.array(Image.open(source).convert('RGBA')))
+        part_defs.append(f'<mask id="baseMask" maskUnits="userSpaceOnUse" x="0" y="0" width="1024" height="1024" style="mask-type:alpha"><image width="1024" height="1024" href="{mask_uri(~used)}"/></mask>')
+        for j,part in enumerate(parts):
+            part_defs.append(f'<mask id="partMask{j}" maskUnits="userSpaceOnUse" x="0" y="0" width="1024" height="1024" style="mask-type:alpha"><image width="1024" height="1024" href="{mask_uri(part["mask"])}"/></mask>')
+            keys=''.join(f'{k*100/n_frames:.5f}%{{transform:{part_transform(part,k/n_frames)}}}' for k in range(n_frames+1))
+            ox,oy=part['origin']
+            part_css.append(f'.part-{j}{{transform-origin:{ox:.4f}px {oy:.4f}px;animation:joint{j} {duration:.3f}s linear infinite}}@keyframes joint{j}{{{keys}}}')
+            part_groups.append(f'<g class="part part-{j}" data-part="{part["name"]}"><g mask="url(#partMask{j})"><use href="#art"/></g></g>')
+        frame=f'<g class="stationary" mask="url(#baseMask)"><use href="#art"/></g>'+''.join(part_groups)
+    else:
+        parts=[]
+        frame='<g class="stationary"><use href="#art"/></g>'
     title=html.escape(name)
     svg=f'''<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title">
 <title id="title">{title}</title>
-<defs><image id="art" width="1024" height="1024" href="data:image/png;base64,{data}"/><mask id="movingMask" maskUnits="userSpaceOnUse" x="0" y="0" width="1024" height="1024" style="mask-type:alpha"><image width="1024" height="1024" href="{moving_mask}"/></mask><mask id="contourMask" maskUnits="userSpaceOnUse" x="0" y="0" width="1024" height="1024" style="mask-type:alpha"><image width="1024" height="1024" href="{contour_mask}"/></mask></defs>
-<style>.fx{{opacity:0;animation:fade {duration:.3f}s linear infinite}}.motion{{transform-origin:512px 512px;animation:rock {duration:.3f}s linear infinite}}@keyframes fade{{{fades}}}@keyframes rock{{{rocks}}}@media(prefers-reduced-motion:reduce){{.fx{{animation:none;opacity:0}}.motion{{animation:none;transform:none}}}}</style>
-<g mask="url(#movingMask)"><g class="{'motion' if amplitude else 'stationary'}"><use href="#art"/></g></g>
+<defs><image id="art" width="1024" height="1024" href="data:image/png;base64,{data}"/><mask id="movingMask" maskUnits="userSpaceOnUse" x="0" y="0" width="1024" height="1024" style="mask-type:alpha"><image width="1024" height="1024" href="{moving_mask}"/></mask><mask id="contourMask" maskUnits="userSpaceOnUse" x="0" y="0" width="1024" height="1024" style="mask-type:alpha"><image width="1024" height="1024" href="{contour_mask}"/></mask>{''.join(part_defs)}</defs>
+<style>.fx{{opacity:0;animation:fade {duration:.3f}s linear infinite}}@keyframes fade{{{fades}}}{''.join(part_css)}@media(prefers-reduced-motion:reduce){{.fx{{animation:none;opacity:0}}.part{{animation:none;transform:none}}}}</style>
+<g mask="url(#movingMask)">{frame}</g>
 <g mask="url(#movingMask)"><g class="fx">{''.join(svg_shape(s) for s in shapes)}</g></g>
 <g mask="url(#contourMask)"><use href="#art"/></g>
 </svg>'''
     path.write_text(svg)
+    return parts
 
 
 def build(item,tool_hash):
@@ -254,18 +285,22 @@ def build(item,tool_hash):
     stem=f"profile_{item['id']:03}_{item['tier']}_animated"
     directory=OUT/item['tier'];directory.mkdir(parents=True,exist_ok=True)
     svg=directory/f'{stem}.svg'
-    amplitude=AMPLITUDES.get(item['id'],0)
-    n_frames=N_LEGENDARY if amplitude else N_EPIC
+    legendary=item['tier']=='legendary'
+    n_frames=N_LEGENDARY if legendary else N_EPIC
     shapes=effect_shapes(item['id'])
-    write_svg(svg,source,shapes,amplitude,n_frames,item['name'])
+    if not legendary:shapes=enlarge_effects(shapes)
+    parts=write_svg(svg,source,shapes,item['id'],n_frames,item['name'])
     record={k:item[k] for k in ('id','name','tier')}
     record.update(svg=str(svg.relative_to(OUT)),
                   static_fallback='../profile-borders/'+item['file'],
                   width=SIZE,height=SIZE,center=[512,512],inner_diameter_px=716,
                   loop=True,duration_ms=n_frames*FRAME_MS,keyframe_interval_ms=FRAME_MS,
-                  frame_motion='concentric_rock' if amplitude else 'none',
-                  max_rotation_degrees=amplitude,effect_motion='opacity_only',
-                  effect_peak_opacity=PEAK_OPACITY,lossless=True,
+                  frame_motion=MOTIONS[item['id']][0] if legendary else 'none',
+                  motion_description=MOTIONS[item['id']][1] if legendary else '고정 이펙트 점멸',
+                  whole_frame_motion='none',effect_motion='opacity_only',
+                  articulated_parts=[dict(name=p['name'],origin=p['origin'],source_pixels=int(p['mask'].sum())) for p in parts],
+                  effect_peak_opacity=LEGENDARY_PEAK_OPACITY if legendary else EPIC_PEAK_OPACITY,
+                  effect_geometry_scale=1 if legendary else EPIC_EFFECT_SCALE,lossless=True,
                   source_sha256=hashlib.sha256(source.read_bytes()).hexdigest(),
                   tool_sha256=tool_hash,
                   svg_sha256=hashlib.sha256(svg.read_bytes()).hexdigest(),
@@ -281,7 +316,7 @@ def main():
     OUT.mkdir(parents=True,exist_ok=True)
     manifest=OUT/'manifest.json'
     records={r['id']:r for r in json.loads(manifest.read_text())} if manifest.exists() else {}
-    tool_hash=hashlib.sha256(Path(__file__).read_bytes()).hexdigest()
+    tool_hash=hashlib.sha256(Path(__file__).read_bytes()+Path(__file__).with_name('profile_motion_rigs.py').read_bytes()).hexdigest()
     for item in items:
         old=records.get(item['id'])
         source_hash=hashlib.sha256((STATIC/item['file']).read_bytes()).hexdigest()

@@ -16,14 +16,17 @@
     "duration_ms": 3840,
     "keyframe_interval_ms": 80,
     "frame_motion": "none",
-    "max_rotation_degrees": 0,
+    "motion_description": "고정 이펙트 점멸",
+    "whole_frame_motion": "none",
     "effect_motion": "opacity_only",
-    "effect_peak_opacity": 0.55,
+    "articulated_parts": [],
+    "effect_peak_opacity": 0.95,
+    "effect_geometry_scale": 2.2,
     "lossless": true,
     "source_sha256": "6f3efbdcdfabc55bc171a00f3594c8f7783f0d3f3034162a3b273d367fe603f0",
-    "tool_sha256": "dc227d40f8e3d4052abd0951082ada4558d454f2452fa16ef59243afd74027fe",
-    "svg_sha256": "3e2b5c9e1b9945729805f13bdb2092cf59e121037f24f998fdb9ae6b9a60a16c",
-    "svg_bytes": 501200
+    "tool_sha256": "f118e73c6c554d3730a5df4b6c5170ea11fe3089ccbf591ed684db7900196f82",
+    "svg_sha256": "0114e3d0a5cce299183584c30f6b3bd3bf76a44d5509a45fcefbccb1eb61d547",
+    "svg_bytes": 499835
   },
   {
     "id": 77,
@@ -42,14 +45,17 @@
     "duration_ms": 3840,
     "keyframe_interval_ms": 80,
     "frame_motion": "none",
-    "max_rotation_degrees": 0,
+    "motion_description": "고정 이펙트 점멸",
+    "whole_frame_motion": "none",
     "effect_motion": "opacity_only",
-    "effect_peak_opacity": 0.55,
+    "articulated_parts": [],
+    "effect_peak_opacity": 0.95,
+    "effect_geometry_scale": 2.2,
     "lossless": true,
     "source_sha256": "3778a45e75ff7f764a34ea470873f2a9769d78a89c4f5890f6486f852fc334dd",
-    "tool_sha256": "dc227d40f8e3d4052abd0951082ada4558d454f2452fa16ef59243afd74027fe",
-    "svg_sha256": "1c5091bacf8fe21fbdd0b01f4450b8f74e8a0e79005089abaccd122226860425",
-    "svg_bytes": 512811
+    "tool_sha256": "f118e73c6c554d3730a5df4b6c5170ea11fe3089ccbf591ed684db7900196f82",
+    "svg_sha256": "d588bbb2bba20f4b8e408cbf3bd5810f6f1493c58cad2ecdad0fc8576fbfe052",
+    "svg_bytes": 513172
   },
   {
     "id": 78,
@@ -68,14 +74,17 @@
     "duration_ms": 3840,
     "keyframe_interval_ms": 80,
     "frame_motion": "none",
-    "max_rotation_degrees": 0,
+    "motion_description": "고정 이펙트 점멸",
+    "whole_frame_motion": "none",
     "effect_motion": "opacity_only",
-    "effect_peak_opacity": 0.55,
+    "articulated_parts": [],
+    "effect_peak_opacity": 0.95,
+    "effect_geometry_scale": 2.2,
     "lossless": true,
     "source_sha256": "89712eeb236f50b549ee447d2953597a92d2419dc88d23652d6e03f241367097",
-    "tool_sha256": "dc227d40f8e3d4052abd0951082ada4558d454f2452fa16ef59243afd74027fe",
-    "svg_sha256": "ae9ca62c3f7726fc5a31a3a29927bacbb9e24c99814541269e66ebdb41e0a74d",
-    "svg_bytes": 518307
+    "tool_sha256": "f118e73c6c554d3730a5df4b6c5170ea11fe3089ccbf591ed684db7900196f82",
+    "svg_sha256": "10ae0b67f59c8d71e3f1b30caf3561cb8c204131b0473edc07ac9631b758ac60",
+    "svg_bytes": 517385
   },
   {
     "id": 79,
@@ -94,14 +103,17 @@
     "duration_ms": 3840,
     "keyframe_interval_ms": 80,
     "frame_motion": "none",
-    "max_rotation_degrees": 0,
+    "motion_description": "고정 이펙트 점멸",
+    "whole_frame_motion": "none",
     "effect_motion": "opacity_only",
-    "effect_peak_opacity": 0.55,
+    "articulated_parts": [],
+    "effect_peak_opacity": 0.95,
+    "effect_geometry_scale": 2.2,
     "lossless": true,
     "source_sha256": "d4398ac69a2c2babee71fe5b7e669354dbb31eaec319778408f0ee513bbbc422",
-    "tool_sha256": "dc227d40f8e3d4052abd0951082ada4558d454f2452fa16ef59243afd74027fe",
-    "svg_sha256": "ac71020a25b3d8e6be9f5fcefa606025ee5cbe77ab23bda5ff68a63334abe274",
-    "svg_bytes": 540543
+    "tool_sha256": "f118e73c6c554d3730a5df4b6c5170ea11fe3089ccbf591ed684db7900196f82",
+    "svg_sha256": "d96a77c28659747a58ad797a0e274a6cd6e641cd3e08a4b7e07f66298fc85f79",
+    "svg_bytes": 539074
   },
   {
     "id": 80,
@@ -120,14 +132,17 @@
     "duration_ms": 3840,
     "keyframe_interval_ms": 80,
     "frame_motion": "none",
-    "max_rotation_degrees": 0,
+    "motion_description": "고정 이펙트 점멸",
+    "whole_frame_motion": "none",
     "effect_motion": "opacity_only",
-    "effect_peak_opacity": 0.55,
+    "articulated_parts": [],
+    "effect_peak_opacity": 0.95,
+    "effect_geometry_scale": 2.2,
     "lossless": true,
     "source_sha256": "ce3318a32712b2edbce2ddd06c0ade78d80b917f9a8a0aa09d7d19cdbf25a24a",
-    "tool_sha256": "dc227d40f8e3d4052abd0951082ada4558d454f2452fa16ef59243afd74027fe",
-    "svg_sha256": "2a923c6e6430a1251ae9281b6ca22457f7cacb87c0b708a2c6eddb7f4e80a48e",
-    "svg_bytes": 449607
+    "tool_sha256": "f118e73c6c554d3730a5df4b6c5170ea11fe3089ccbf591ed684db7900196f82",
+    "svg_sha256": "5c87956311f7938d5e90ee9f0db52f445bacae900193e8f9c3574e18eced430e",
+    "svg_bytes": 447790
   },
   {
     "id": 81,
@@ -146,14 +161,17 @@
     "duration_ms": 3840,
     "keyframe_interval_ms": 80,
     "frame_motion": "none",
-    "max_rotation_degrees": 0,
+    "motion_description": "고정 이펙트 점멸",
+    "whole_frame_motion": "none",
     "effect_motion": "opacity_only",
-    "effect_peak_opacity": 0.55,
+    "articulated_parts": [],
+    "effect_peak_opacity": 0.95,
+    "effect_geometry_scale": 2.2,
     "lossless": true,
     "source_sha256": "29ce0d242714d9a40155dc4dd2b057d86793d82eb5697630569b91e12f69b97c",
-    "tool_sha256": "dc227d40f8e3d4052abd0951082ada4558d454f2452fa16ef59243afd74027fe",
-    "svg_sha256": "a8a3a2e732f0ac8aeef1948554c41125f3e2d58ec9989a651f3a04ecd9530d5e",
-    "svg_bytes": 531119
+    "tool_sha256": "f118e73c6c554d3730a5df4b6c5170ea11fe3089ccbf591ed684db7900196f82",
+    "svg_sha256": "5411fc201165ef591f41302f4082483091973422e482ed98ad90db405fff57ee",
+    "svg_bytes": 531491
   },
   {
     "id": 82,
@@ -172,14 +190,17 @@
     "duration_ms": 3840,
     "keyframe_interval_ms": 80,
     "frame_motion": "none",
-    "max_rotation_degrees": 0,
+    "motion_description": "고정 이펙트 점멸",
+    "whole_frame_motion": "none",
     "effect_motion": "opacity_only",
-    "effect_peak_opacity": 0.55,
+    "articulated_parts": [],
+    "effect_peak_opacity": 0.95,
+    "effect_geometry_scale": 2.2,
     "lossless": true,
     "source_sha256": "aaade68e44921aa0258c5045c2f06bab5e8f61abac8bed92492124cb4aaba50d",
-    "tool_sha256": "dc227d40f8e3d4052abd0951082ada4558d454f2452fa16ef59243afd74027fe",
-    "svg_sha256": "2419b5c2811024f872118034e0a667b676f24ce5bd8e3f9fb19983886e8d0b10",
-    "svg_bytes": 482380
+    "tool_sha256": "f118e73c6c554d3730a5df4b6c5170ea11fe3089ccbf591ed684db7900196f82",
+    "svg_sha256": "d26af99b17059aaa7f9c79124cb7cbcf3206eee361a2d7c86b4b16edf8830bff",
+    "svg_bytes": 481371
   },
   {
     "id": 83,
@@ -198,14 +219,17 @@
     "duration_ms": 3840,
     "keyframe_interval_ms": 80,
     "frame_motion": "none",
-    "max_rotation_degrees": 0,
+    "motion_description": "고정 이펙트 점멸",
+    "whole_frame_motion": "none",
     "effect_motion": "opacity_only",
-    "effect_peak_opacity": 0.55,
+    "articulated_parts": [],
+    "effect_peak_opacity": 0.95,
+    "effect_geometry_scale": 2.2,
     "lossless": true,
     "source_sha256": "69cdda95bd9a1aaf3ac25f3dd1d99e278b6d37978a347bc66d65a2ad1bb20b18",
-    "tool_sha256": "dc227d40f8e3d4052abd0951082ada4558d454f2452fa16ef59243afd74027fe",
-    "svg_sha256": "47d0823d28892702a77ee703b33a0e1eae61c6e278242e5919fe43d4c4322172",
-    "svg_bytes": 496878
+    "tool_sha256": "f118e73c6c554d3730a5df4b6c5170ea11fe3089ccbf591ed684db7900196f82",
+    "svg_sha256": "b9c2de6738727fe3d0647726356f8cca64e6ed108990ecbeb81f8a678b8ae798",
+    "svg_bytes": 495408
   },
   {
     "id": 84,
@@ -224,14 +248,17 @@
     "duration_ms": 3840,
     "keyframe_interval_ms": 80,
     "frame_motion": "none",
-    "max_rotation_degrees": 0,
+    "motion_description": "고정 이펙트 점멸",
+    "whole_frame_motion": "none",
     "effect_motion": "opacity_only",
-    "effect_peak_opacity": 0.55,
+    "articulated_parts": [],
+    "effect_peak_opacity": 0.95,
+    "effect_geometry_scale": 2.2,
     "lossless": true,
     "source_sha256": "e7396bd778ab1200b48cf81d7d3763dd8debc0bffa1ad8fe5bff8ceb0b05dd06",
-    "tool_sha256": "dc227d40f8e3d4052abd0951082ada4558d454f2452fa16ef59243afd74027fe",
-    "svg_sha256": "1b8266f63a9a26c3e2c2b195c1b6353c7a430b709353397309b3ab3ace0466bd",
-    "svg_bytes": 490015
+    "tool_sha256": "f118e73c6c554d3730a5df4b6c5170ea11fe3089ccbf591ed684db7900196f82",
+    "svg_sha256": "e6b9e88ad6260c1bdc8160104d1cc89540328e8f6756ddd226a89579595af455",
+    "svg_bytes": 488411
   },
   {
     "id": 85,
@@ -250,14 +277,17 @@
     "duration_ms": 3840,
     "keyframe_interval_ms": 80,
     "frame_motion": "none",
-    "max_rotation_degrees": 0,
+    "motion_description": "고정 이펙트 점멸",
+    "whole_frame_motion": "none",
     "effect_motion": "opacity_only",
-    "effect_peak_opacity": 0.55,
+    "articulated_parts": [],
+    "effect_peak_opacity": 0.95,
+    "effect_geometry_scale": 2.2,
     "lossless": true,
     "source_sha256": "abc394b6f29755a3fda0d0d8d3bbd6a2f3943ea2a6fdc184528f6ab46bdbcca1",
-    "tool_sha256": "dc227d40f8e3d4052abd0951082ada4558d454f2452fa16ef59243afd74027fe",
-    "svg_sha256": "9bdded399a40ab2c311fa5a2945fd3d60a8c1b215e0ad2b986b1838567f8bf8d",
-    "svg_bytes": 604906
+    "tool_sha256": "f118e73c6c554d3730a5df4b6c5170ea11fe3089ccbf591ed684db7900196f82",
+    "svg_sha256": "d20b3c0038996dba56d70be05e44364dc5244b8a0bba67690288aa48391071b0",
+    "svg_bytes": 604144
   },
   {
     "id": 86,
@@ -276,14 +306,17 @@
     "duration_ms": 3840,
     "keyframe_interval_ms": 80,
     "frame_motion": "none",
-    "max_rotation_degrees": 0,
+    "motion_description": "고정 이펙트 점멸",
+    "whole_frame_motion": "none",
     "effect_motion": "opacity_only",
-    "effect_peak_opacity": 0.55,
+    "articulated_parts": [],
+    "effect_peak_opacity": 0.95,
+    "effect_geometry_scale": 2.2,
     "lossless": true,
     "source_sha256": "1e2d8b4f79723609a62bc82693ea7cc41827b78c99069674253ef9a7bcbb081d",
-    "tool_sha256": "dc227d40f8e3d4052abd0951082ada4558d454f2452fa16ef59243afd74027fe",
-    "svg_sha256": "22a1e3a32eac93164a7699a5665c22f1b198d0b168adc89deac118136fd69f9e",
-    "svg_bytes": 589174
+    "tool_sha256": "f118e73c6c554d3730a5df4b6c5170ea11fe3089ccbf591ed684db7900196f82",
+    "svg_sha256": "3f26a36766e08c861680cb5986ddeec63ef09225f8a8c186b4c97f5efb2dedc6",
+    "svg_bytes": 587210
   },
   {
     "id": 87,
@@ -302,14 +335,17 @@
     "duration_ms": 3840,
     "keyframe_interval_ms": 80,
     "frame_motion": "none",
-    "max_rotation_degrees": 0,
+    "motion_description": "고정 이펙트 점멸",
+    "whole_frame_motion": "none",
     "effect_motion": "opacity_only",
-    "effect_peak_opacity": 0.55,
+    "articulated_parts": [],
+    "effect_peak_opacity": 0.95,
+    "effect_geometry_scale": 2.2,
     "lossless": true,
     "source_sha256": "9d9e1306cf8b8f330be4ce1eb3ffa8712e48b3c0883799d8aa458219cf88d04f",
-    "tool_sha256": "dc227d40f8e3d4052abd0951082ada4558d454f2452fa16ef59243afd74027fe",
-    "svg_sha256": "343e9a472a6da32856e811de16635871f76a5291f1be7d947d0fd25138e9e03e",
-    "svg_bytes": 459740
+    "tool_sha256": "f118e73c6c554d3730a5df4b6c5170ea11fe3089ccbf591ed684db7900196f82",
+    "svg_sha256": "a0b0dd7734a61cbced65a7201f8157b10984babd865a173ae0a3888081fa4213",
+    "svg_bytes": 458065
   },
   {
     "id": 88,
@@ -328,14 +364,17 @@
     "duration_ms": 3840,
     "keyframe_interval_ms": 80,
     "frame_motion": "none",
-    "max_rotation_degrees": 0,
+    "motion_description": "고정 이펙트 점멸",
+    "whole_frame_motion": "none",
     "effect_motion": "opacity_only",
-    "effect_peak_opacity": 0.55,
+    "articulated_parts": [],
+    "effect_peak_opacity": 0.95,
+    "effect_geometry_scale": 2.2,
     "lossless": true,
     "source_sha256": "7b349343b325e8c5bbc9dbbdd2b7adb333c9f627fc91a0747c1dcd7465685635",
-    "tool_sha256": "dc227d40f8e3d4052abd0951082ada4558d454f2452fa16ef59243afd74027fe",
-    "svg_sha256": "dba1802726390c713ba22df595f12f9ec42f6d9989107040c1f7b55d1716c674",
-    "svg_bytes": 610697
+    "tool_sha256": "f118e73c6c554d3730a5df4b6c5170ea11fe3089ccbf591ed684db7900196f82",
+    "svg_sha256": "a31b33b2d64687077b85283934af9daf090e68858dc1f1dafe9265af9f8de5c1",
+    "svg_bytes": 608980
   },
   {
     "id": 89,
@@ -354,14 +393,17 @@
     "duration_ms": 3840,
     "keyframe_interval_ms": 80,
     "frame_motion": "none",
-    "max_rotation_degrees": 0,
+    "motion_description": "고정 이펙트 점멸",
+    "whole_frame_motion": "none",
     "effect_motion": "opacity_only",
-    "effect_peak_opacity": 0.55,
+    "articulated_parts": [],
+    "effect_peak_opacity": 0.95,
+    "effect_geometry_scale": 2.2,
     "lossless": true,
     "source_sha256": "670cefe161b0070223937c39f16dcaff0a53a35a5e1b41b37653e1e84cc6ab2c",
-    "tool_sha256": "dc227d40f8e3d4052abd0951082ada4558d454f2452fa16ef59243afd74027fe",
-    "svg_sha256": "b65a3e151669dd9a635ce3eb00d14c4a8549eeb38bc563ee479b0bc1d949b04a",
-    "svg_bytes": 567857
+    "tool_sha256": "f118e73c6c554d3730a5df4b6c5170ea11fe3089ccbf591ed684db7900196f82",
+    "svg_sha256": "9826a92df3dce12e90c846299fabc1e5e2ac13e538a7bcf72a02e19644ce2bce",
+    "svg_bytes": 566622
   },
   {
     "id": 90,
@@ -380,14 +422,17 @@
     "duration_ms": 3840,
     "keyframe_interval_ms": 80,
     "frame_motion": "none",
-    "max_rotation_degrees": 0,
+    "motion_description": "고정 이펙트 점멸",
+    "whole_frame_motion": "none",
     "effect_motion": "opacity_only",
-    "effect_peak_opacity": 0.55,
+    "articulated_parts": [],
+    "effect_peak_opacity": 0.95,
+    "effect_geometry_scale": 2.2,
     "lossless": true,
     "source_sha256": "d6c22b35908a49e6ec38badf26baa9bfd9f237c2a3525d4ba6937648a4e5598b",
-    "tool_sha256": "dc227d40f8e3d4052abd0951082ada4558d454f2452fa16ef59243afd74027fe",
-    "svg_sha256": "902aae5f780663dc6003b6cfb6e23613f8cac5e9bf817bdadbe676f3b2efee03",
-    "svg_bytes": 532917
+    "tool_sha256": "f118e73c6c554d3730a5df4b6c5170ea11fe3089ccbf591ed684db7900196f82",
+    "svg_sha256": "257fd3a47e521ee3d34a4ebd54e11dad5ee501bbe87eb1ca8ddafbf34f2bbec0",
+    "svg_bytes": 531514
   },
   {
     "id": 91,
@@ -405,15 +450,59 @@
     "loop": true,
     "duration_ms": 7680,
     "keyframe_interval_ms": 80,
-    "frame_motion": "concentric_rock",
-    "max_rotation_degrees": 1.15,
+    "frame_motion": "stellar_core_bloom",
+    "motion_description": "별핵 수축·팽창과 별 결정 펼침",
+    "whole_frame_motion": "none",
     "effect_motion": "opacity_only",
-    "effect_peak_opacity": 0.55,
+    "articulated_parts": [
+      {
+        "name": "star-core",
+        "origin": [
+          512.0,
+          130.0
+        ],
+        "source_pixels": 14189
+      },
+      {
+        "name": "crystal-0",
+        "origin": [
+          219.37102272855043,
+          266.45513309974194
+        ],
+        "source_pixels": 7234
+      },
+      {
+        "name": "crystal-1",
+        "origin": [
+          804.6289772714497,
+          266.455133099742
+        ],
+        "source_pixels": 7371
+      },
+      {
+        "name": "crystal-2",
+        "origin": [
+          804.6289772714497,
+          757.5448669002581
+        ],
+        "source_pixels": 6838
+      },
+      {
+        "name": "crystal-3",
+        "origin": [
+          219.37102272855043,
+          757.5448669002581
+        ],
+        "source_pixels": 6722
+      }
+    ],
+    "effect_peak_opacity": 0.75,
+    "effect_geometry_scale": 1,
     "lossless": true,
     "source_sha256": "e25d7d532b4644c15e124fe0b8a57db74d4f48a141f45ed2efce0db3b37c2e66",
-    "tool_sha256": "dc227d40f8e3d4052abd0951082ada4558d454f2452fa16ef59243afd74027fe",
-    "svg_sha256": "b173a5d023debaf6dccae072af56b8f78a49e01e044af926c28f3038fbca4401",
-    "svg_bytes": 525810
+    "tool_sha256": "f118e73c6c554d3730a5df4b6c5170ea11fe3089ccbf591ed684db7900196f82",
+    "svg_sha256": "349a620986262b41010fa9ca71e2d9a27db836f3539accacf989a83ac5290a82",
+    "svg_bytes": 644330
   },
   {
     "id": 92,
@@ -431,15 +520,51 @@
     "loop": true,
     "duration_ms": 7680,
     "keyframe_interval_ms": 80,
-    "frame_motion": "concentric_rock",
-    "max_rotation_degrees": 0.9,
+    "frame_motion": "galaxy_ribbon_flex",
+    "motion_description": "은하 리본의 교차 굽힘",
+    "whole_frame_motion": "none",
     "effect_motion": "opacity_only",
-    "effect_peak_opacity": 0.55,
+    "articulated_parts": [
+      {
+        "name": "ribbon-0",
+        "origin": [
+          220.90311161478837,
+          267.740708319115
+        ],
+        "source_pixels": 25873
+      },
+      {
+        "name": "ribbon-1",
+        "origin": [
+          803.0968883852116,
+          267.7407083191151
+        ],
+        "source_pixels": 29195
+      },
+      {
+        "name": "ribbon-2",
+        "origin": [
+          803.0968883852116,
+          756.2592916808849
+        ],
+        "source_pixels": 32389
+      },
+      {
+        "name": "ribbon-3",
+        "origin": [
+          220.90311161478837,
+          756.259291680885
+        ],
+        "source_pixels": 31597
+      }
+    ],
+    "effect_peak_opacity": 0.75,
+    "effect_geometry_scale": 1,
     "lossless": true,
     "source_sha256": "cd60a3cf4e57cb966eaf11c394324d94273cdb15976d6bd45773d4aeed5f9df8",
-    "tool_sha256": "dc227d40f8e3d4052abd0951082ada4558d454f2452fa16ef59243afd74027fe",
-    "svg_sha256": "90880c9725ef845ee0749df3d91e4f27af5828e6447588d2b4b595f8df5a3c34",
-    "svg_bytes": 632871
+    "tool_sha256": "f118e73c6c554d3730a5df4b6c5170ea11fe3089ccbf591ed684db7900196f82",
+    "svg_sha256": "2dcde1cbb4c8a3df59f3be98b6e2b558a5c3b817f0dbfad2f372030e6a6bc46b",
+    "svg_bytes": 738425
   },
   {
     "id": 93,
@@ -457,15 +582,67 @@
     "loop": true,
     "duration_ms": 7680,
     "keyframe_interval_ms": 80,
-    "frame_motion": "concentric_rock",
-    "max_rotation_degrees": 0.7,
+    "frame_motion": "solar_corona_unfold",
+    "motion_description": "태양 코로나 펼침·접힘",
+    "whole_frame_motion": "none",
     "effect_motion": "opacity_only",
-    "effect_peak_opacity": 0.55,
+    "articulated_parts": [
+      {
+        "name": "corona-0",
+        "origin": [
+          181.1782957543444,
+          321.0
+        ],
+        "source_pixels": 12462
+      },
+      {
+        "name": "corona-1",
+        "origin": [
+          512.0,
+          130.0
+        ],
+        "source_pixels": 14229
+      },
+      {
+        "name": "corona-2",
+        "origin": [
+          842.8217042456556,
+          321.0
+        ],
+        "source_pixels": 12792
+      },
+      {
+        "name": "corona-3",
+        "origin": [
+          842.8217042456556,
+          703.0
+        ],
+        "source_pixels": 11689
+      },
+      {
+        "name": "corona-4",
+        "origin": [
+          512.0,
+          894.0
+        ],
+        "source_pixels": 14169
+      },
+      {
+        "name": "corona-5",
+        "origin": [
+          181.1782957543444,
+          703.0
+        ],
+        "source_pixels": 10853
+      }
+    ],
+    "effect_peak_opacity": 0.75,
+    "effect_geometry_scale": 1,
     "lossless": true,
     "source_sha256": "730afc3e69c5e5c23af1d8026c7b947f22496d559e14ff98d402c0ac5bb26c42",
-    "tool_sha256": "dc227d40f8e3d4052abd0951082ada4558d454f2452fa16ef59243afd74027fe",
-    "svg_sha256": "9c85710e43b54dccfb7815db0be0247d83d64b72cdb37de75f076561b236be69",
-    "svg_bytes": 433278
+    "tool_sha256": "f118e73c6c554d3730a5df4b6c5170ea11fe3089ccbf591ed684db7900196f82",
+    "svg_sha256": "9f78e82f1434e6ed6131ba7deea861ba0883ba937ee2674e2e7bad3fbb274838",
+    "svg_bytes": 579518
   },
   {
     "id": 94,
@@ -483,15 +660,59 @@
     "loop": true,
     "duration_ms": 7680,
     "keyframe_interval_ms": 80,
-    "frame_motion": "concentric_rock",
-    "max_rotation_degrees": 1.0,
+    "frame_motion": "clockwork_crown",
+    "motion_description": "왕관 승강과 개별 기어 작동",
+    "whole_frame_motion": "none",
     "effect_motion": "opacity_only",
-    "effect_peak_opacity": 0.55,
+    "articulated_parts": [
+      {
+        "name": "crown",
+        "origin": [
+          512,
+          142
+        ],
+        "source_pixels": 12704
+      },
+      {
+        "name": "gear-0",
+        "origin": [
+          225.62175361944827,
+          225.6217536194482
+        ],
+        "source_pixels": 3005
+      },
+      {
+        "name": "gear-1",
+        "origin": [
+          798.3782463805518,
+          798.3782463805517
+        ],
+        "source_pixels": 2985
+      },
+      {
+        "name": "time-crystal-0",
+        "origin": [
+          824.9160809183949,
+          292.89380131390044
+        ],
+        "source_pixels": 6376
+      },
+      {
+        "name": "time-crystal-1",
+        "origin": [
+          199.08391908160507,
+          731.1061986860996
+        ],
+        "source_pixels": 5117
+      }
+    ],
+    "effect_peak_opacity": 0.75,
+    "effect_geometry_scale": 1,
     "lossless": true,
     "source_sha256": "5a55a8e2808d6d558d79afa3df66db37acaeb5b237aeda0c2be848332e3a31bf",
-    "tool_sha256": "dc227d40f8e3d4052abd0951082ada4558d454f2452fa16ef59243afd74027fe",
-    "svg_sha256": "83a73ae20ef6187a0f0e11854dcf6d581c3616c363552e680634c019792749d6",
-    "svg_bytes": 524401
+    "tool_sha256": "f118e73c6c554d3730a5df4b6c5170ea11fe3089ccbf591ed684db7900196f82",
+    "svg_sha256": "36b1f1276f7800ef497e873d1affb3b0ae83123833841285e4d5711c3a95236b",
+    "svg_bytes": 641664
   },
   {
     "id": 95,
@@ -509,15 +730,67 @@
     "loop": true,
     "duration_ms": 7680,
     "keyframe_interval_ms": 80,
-    "frame_motion": "concentric_rock",
-    "max_rotation_degrees": 1.1,
+    "frame_motion": "portal_shards_open",
+    "motion_description": "차원 파편 벌어짐·맞물림",
+    "whole_frame_motion": "none",
     "effect_motion": "opacity_only",
-    "effect_peak_opacity": 0.55,
+    "articulated_parts": [
+      {
+        "name": "portal-shard-0",
+        "origin": [
+          181.1782957543444,
+          321.0
+        ],
+        "source_pixels": 12431
+      },
+      {
+        "name": "portal-shard-1",
+        "origin": [
+          512.0,
+          130.0
+        ],
+        "source_pixels": 14444
+      },
+      {
+        "name": "portal-shard-2",
+        "origin": [
+          842.8217042456556,
+          321.0
+        ],
+        "source_pixels": 13635
+      },
+      {
+        "name": "portal-shard-3",
+        "origin": [
+          842.8217042456556,
+          703.0
+        ],
+        "source_pixels": 14740
+      },
+      {
+        "name": "portal-shard-4",
+        "origin": [
+          512.0,
+          894.0
+        ],
+        "source_pixels": 14937
+      },
+      {
+        "name": "portal-shard-5",
+        "origin": [
+          181.1782957543444,
+          703.0
+        ],
+        "source_pixels": 12321
+      }
+    ],
+    "effect_peak_opacity": 0.75,
+    "effect_geometry_scale": 1,
     "lossless": true,
     "source_sha256": "d1f32a8f4bb203036fc0dc7b3229f5b8601f160be45df0e238d520b5f642252d",
-    "tool_sha256": "dc227d40f8e3d4052abd0951082ada4558d454f2452fa16ef59243afd74027fe",
-    "svg_sha256": "512e3d52dd934f8b2898f9f7dc71687d47eb6dd0fa53ea91563b79a3a0cc36aa",
-    "svg_bytes": 523265
+    "tool_sha256": "f118e73c6c554d3730a5df4b6c5170ea11fe3089ccbf591ed684db7900196f82",
+    "svg_sha256": "cbd96a60fd9f991f3ca0f8e80c7bf21ca603d6f634a46be8ebf63bc5adaaa825",
+    "svg_bytes": 675993
   },
   {
     "id": 96,
@@ -535,15 +808,75 @@
     "loop": true,
     "duration_ms": 7680,
     "keyframe_interval_ms": 80,
-    "frame_motion": "concentric_rock",
-    "max_rotation_degrees": 0.6,
+    "frame_motion": "world_tree_growth",
+    "motion_description": "가지 흔들림과 뿌리 뻗음",
+    "whole_frame_motion": "none",
     "effect_motion": "opacity_only",
-    "effect_peak_opacity": 0.55,
+    "articulated_parts": [
+      {
+        "name": "branch-0",
+        "origin": [
+          202.36052725876107,
+          295.1881070593046
+        ],
+        "source_pixels": 9355
+      },
+      {
+        "name": "branch-1",
+        "origin": [
+          370.39870768878524,
+          161.52450297375435
+        ],
+        "source_pixels": 10995
+      },
+      {
+        "name": "branch-2",
+        "origin": [
+          653.6012923112147,
+          161.52450297375435
+        ],
+        "source_pixels": 11046
+      },
+      {
+        "name": "branch-3",
+        "origin": [
+          821.6394727412389,
+          295.18810705930457
+        ],
+        "source_pixels": 9515
+      },
+      {
+        "name": "root-0",
+        "origin": [
+          731.1061986860997,
+          824.9160809183949
+        ],
+        "source_pixels": 12371
+      },
+      {
+        "name": "root-1",
+        "origin": [
+          512.0,
+          894.0
+        ],
+        "source_pixels": 16595
+      },
+      {
+        "name": "root-2",
+        "origin": [
+          292.8938013139003,
+          824.9160809183948
+        ],
+        "source_pixels": 11477
+      }
+    ],
+    "effect_peak_opacity": 0.75,
+    "effect_geometry_scale": 1,
     "lossless": true,
     "source_sha256": "eec952ea5e27c9ce4f44198d794ed516cdd2a86b3feaa9642edf5094d6c68e6e",
-    "tool_sha256": "dc227d40f8e3d4052abd0951082ada4558d454f2452fa16ef59243afd74027fe",
-    "svg_sha256": "44a387320770c57ccfcabce4a9df1a1117ec7539090283a3832285e78285fd19",
-    "svg_bytes": 621866
+    "tool_sha256": "f118e73c6c554d3730a5df4b6c5170ea11fe3089ccbf591ed684db7900196f82",
+    "svg_sha256": "1c8686b4dcb4ffa0b1de1dacb0825851478e96f3f3a6b4df33c8d391ef024f40",
+    "svg_bytes": 791332
   },
   {
     "id": 97,
@@ -561,15 +894,51 @@
     "loop": true,
     "duration_ms": 7680,
     "keyframe_interval_ms": 80,
-    "frame_motion": "concentric_rock",
-    "max_rotation_degrees": 0.8,
+    "frame_motion": "angel_wings_fold",
+    "motion_description": "좌우 깃털 날개 펼침·접힘",
+    "whole_frame_motion": "none",
     "effect_motion": "opacity_only",
-    "effect_peak_opacity": 0.55,
+    "articulated_parts": [
+      {
+        "name": "left-upper-wing",
+        "origin": [
+          180,
+          430
+        ],
+        "source_pixels": 18921
+      },
+      {
+        "name": "right-upper-wing",
+        "origin": [
+          844,
+          430
+        ],
+        "source_pixels": 19529
+      },
+      {
+        "name": "left-lower-wing",
+        "origin": [
+          280,
+          840
+        ],
+        "source_pixels": 14555
+      },
+      {
+        "name": "right-lower-wing",
+        "origin": [
+          744,
+          840
+        ],
+        "source_pixels": 15111
+      }
+    ],
+    "effect_peak_opacity": 0.75,
+    "effect_geometry_scale": 1,
     "lossless": true,
     "source_sha256": "070fb2ef3d465f42ef8808a9b42c0595f9a08cc47025dc143f6aad2f2f26e2f2",
-    "tool_sha256": "dc227d40f8e3d4052abd0951082ada4558d454f2452fa16ef59243afd74027fe",
-    "svg_sha256": "09bfbdc79f4fd9b7a5307bdfcfd96cef8292f8ee89d92b32348a0a02f34c239b",
-    "svg_bytes": 600033
+    "tool_sha256": "f118e73c6c554d3730a5df4b6c5170ea11fe3089ccbf591ed684db7900196f82",
+    "svg_sha256": "0d42410603d6915b540d12805bf6fa195ce9adacce480f46eeffc5e6a69777b5",
+    "svg_bytes": 709529
   },
   {
     "id": 98,
@@ -587,15 +956,59 @@
     "loop": true,
     "duration_ms": 7680,
     "keyframe_interval_ms": 80,
-    "frame_motion": "concentric_rock",
-    "max_rotation_degrees": 1.2,
+    "frame_motion": "dragon_body_flex",
+    "motion_description": "용의 머리 들기와 몸 마디 굽힘",
+    "whole_frame_motion": "none",
     "effect_motion": "opacity_only",
-    "effect_peak_opacity": 0.55,
+    "articulated_parts": [
+      {
+        "name": "dragon-head",
+        "origin": [
+          732.8269279951528,
+          196.62646294873815
+        ],
+        "source_pixels": 21285
+      },
+      {
+        "name": "body-joint-0",
+        "origin": [
+          182.9103465619133,
+          322.0
+        ],
+        "source_pixels": 16624
+      },
+      {
+        "name": "body-joint-1",
+        "origin": [
+          890.5539852748633,
+          478.8808177558899
+        ],
+        "source_pixels": 17213
+      },
+      {
+        "name": "body-joint-2",
+        "origin": [
+          641.9676544637541,
+          869.0831958986452
+        ],
+        "source_pixels": 17053
+      },
+      {
+        "name": "body-joint-3",
+        "origin": [
+          200.7222231701831,
+          729.9590458133974
+        ],
+        "source_pixels": 16703
+      }
+    ],
+    "effect_peak_opacity": 0.75,
+    "effect_geometry_scale": 1,
     "lossless": true,
     "source_sha256": "f6b41cd7290de7e0760a75cd078735eda456bd3e980d74bccb8d66101d323150",
-    "tool_sha256": "dc227d40f8e3d4052abd0951082ada4558d454f2452fa16ef59243afd74027fe",
-    "svg_sha256": "4cbc5621c542a2b484c6115620800d4bb4c9209fe44f4c6d6cb1572e2659eccb",
-    "svg_bytes": 632379
+    "tool_sha256": "f118e73c6c554d3730a5df4b6c5170ea11fe3089ccbf591ed684db7900196f82",
+    "svg_sha256": "8e8511ead5fc88fb5b554b01d2ad5a35a69f8e8af08cae2a8a7f6320149eca9a",
+    "svg_bytes": 757823
   },
   {
     "id": 99,
@@ -613,15 +1026,67 @@
     "loop": true,
     "duration_ms": 7680,
     "keyframe_interval_ms": 80,
-    "frame_motion": "concentric_rock",
-    "max_rotation_degrees": 0.85,
+    "frame_motion": "prism_facets_open",
+    "motion_description": "프리즘 결정 펼침·접힘",
+    "whole_frame_motion": "none",
     "effect_motion": "opacity_only",
-    "effect_peak_opacity": 0.55,
+    "articulated_parts": [
+      {
+        "name": "prism-facet-0",
+        "origin": [
+          181.1782957543444,
+          321.0
+        ],
+        "source_pixels": 10161
+      },
+      {
+        "name": "prism-facet-1",
+        "origin": [
+          512.0,
+          130.0
+        ],
+        "source_pixels": 12657
+      },
+      {
+        "name": "prism-facet-2",
+        "origin": [
+          842.8217042456556,
+          321.0
+        ],
+        "source_pixels": 10920
+      },
+      {
+        "name": "prism-facet-3",
+        "origin": [
+          842.8217042456556,
+          703.0
+        ],
+        "source_pixels": 9583
+      },
+      {
+        "name": "prism-facet-4",
+        "origin": [
+          512.0,
+          894.0
+        ],
+        "source_pixels": 14144
+      },
+      {
+        "name": "prism-facet-5",
+        "origin": [
+          181.1782957543444,
+          703.0
+        ],
+        "source_pixels": 8574
+      }
+    ],
+    "effect_peak_opacity": 0.75,
+    "effect_geometry_scale": 1,
     "lossless": true,
     "source_sha256": "d3fdecaaf2cacab77b5fdbaa921431946b7bf57b43546d37f65b135f25a93a5d",
-    "tool_sha256": "dc227d40f8e3d4052abd0951082ada4558d454f2452fa16ef59243afd74027fe",
-    "svg_sha256": "f220790a387f02a64d90eb153e579f902d2b32ba02df4de64aca309d905810f5",
-    "svg_bytes": 507747
+    "tool_sha256": "f118e73c6c554d3730a5df4b6c5170ea11fe3089ccbf591ed684db7900196f82",
+    "svg_sha256": "df0319f205d397400d7e9112db6dcc33a3268c79a80df866bafd9bc8da00625c",
+    "svg_bytes": 653045
   },
   {
     "id": 100,
@@ -639,14 +1104,82 @@
     "loop": true,
     "duration_ms": 7680,
     "keyframe_interval_ms": 80,
-    "frame_motion": "concentric_rock",
-    "max_rotation_degrees": 0.9,
+    "frame_motion": "celestial_mechanism",
+    "motion_description": "천체 장치의 대향 브래킷 개폐",
+    "whole_frame_motion": "none",
     "effect_motion": "opacity_only",
-    "effect_peak_opacity": 0.55,
+    "articulated_parts": [
+      {
+        "name": "orbit-bracket-0",
+        "origin": [
+          243.299423149112,
+          243.29942314911193
+        ],
+        "source_pixels": 8791
+      },
+      {
+        "name": "orbit-bracket-1",
+        "origin": [
+          512.0,
+          132.0
+        ],
+        "source_pixels": 10625
+      },
+      {
+        "name": "orbit-bracket-2",
+        "origin": [
+          780.7005768508881,
+          243.299423149112
+        ],
+        "source_pixels": 9229
+      },
+      {
+        "name": "orbit-bracket-3",
+        "origin": [
+          892.0,
+          512.0
+        ],
+        "source_pixels": 10606
+      },
+      {
+        "name": "orbit-bracket-4",
+        "origin": [
+          780.7005768508881,
+          780.700576850888
+        ],
+        "source_pixels": 9701
+      },
+      {
+        "name": "orbit-bracket-5",
+        "origin": [
+          512.0,
+          892.0
+        ],
+        "source_pixels": 16852
+      },
+      {
+        "name": "orbit-bracket-6",
+        "origin": [
+          243.299423149112,
+          780.7005768508881
+        ],
+        "source_pixels": 9682
+      },
+      {
+        "name": "orbit-bracket-7",
+        "origin": [
+          132.0,
+          512.0
+        ],
+        "source_pixels": 10253
+      }
+    ],
+    "effect_peak_opacity": 0.75,
+    "effect_geometry_scale": 1,
     "lossless": true,
     "source_sha256": "799ad675135ad3ead9c347c67fdde71bf36847547a038ea6494e2b1d4772dce7",
-    "tool_sha256": "dc227d40f8e3d4052abd0951082ada4558d454f2452fa16ef59243afd74027fe",
-    "svg_sha256": "b292802fdc85e35ba8d78a63974eada93c298d73bff789bbcf32dfacd74d3c32",
-    "svg_bytes": 580277
+    "tool_sha256": "f118e73c6c554d3730a5df4b6c5170ea11fe3089ccbf591ed684db7900196f82",
+    "svg_sha256": "6dd6ac99de27cfa958b720e3ff1be1a54a6be5a4333ef35366ed0d883f299e3b",
+    "svg_bytes": 768947
   }
 ]

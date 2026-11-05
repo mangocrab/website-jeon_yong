@@ -13,302 +13,472 @@
     {
       "id": 76,
       "tier": "epic",
-      "svg_sha256": "3e2b5c9e1b9945729805f13bdb2092cf59e121037f24f998fdb9ae6b9a60a16c",
+      "svg_sha256": "0114e3d0a5cce299183584c30f6b3bd3bf76a44d5509a45fcefbccb1eb61d547",
       "phases_checked": 5,
       "central_alpha_pass": true,
       "identical_inner_contour_pass": true,
       "safe_margin_pass": true,
       "stationary_effect_geometry_pass": true,
       "loop_closure_pass": true,
-      "reduced_motion_pass": true
+      "reduced_motion_pass": true,
+      "whole_frame_stationary_pass": true,
+      "loop_geometry_pass": true,
+      "loop_128px_max_channel_delta": 0,
+      "articulated_parts_checked": 0,
+      "visible_effect_pixels_at_128px": {
+        "light": 153,
+        "dark": 150
+      }
     },
     {
       "id": 77,
       "tier": "epic",
-      "svg_sha256": "1c5091bacf8fe21fbdd0b01f4450b8f74e8a0e79005089abaccd122226860425",
+      "svg_sha256": "d588bbb2bba20f4b8e408cbf3bd5810f6f1493c58cad2ecdad0fc8576fbfe052",
       "phases_checked": 5,
       "central_alpha_pass": true,
       "identical_inner_contour_pass": true,
       "safe_margin_pass": true,
       "stationary_effect_geometry_pass": true,
       "loop_closure_pass": true,
-      "reduced_motion_pass": true
+      "reduced_motion_pass": true,
+      "whole_frame_stationary_pass": true,
+      "loop_geometry_pass": true,
+      "loop_128px_max_channel_delta": 0,
+      "articulated_parts_checked": 0,
+      "visible_effect_pixels_at_128px": {
+        "light": 203,
+        "dark": 213
+      }
     },
     {
       "id": 78,
       "tier": "epic",
-      "svg_sha256": "ae9ca62c3f7726fc5a31a3a29927bacbb9e24c99814541269e66ebdb41e0a74d",
+      "svg_sha256": "10ae0b67f59c8d71e3f1b30caf3561cb8c204131b0473edc07ac9631b758ac60",
       "phases_checked": 5,
       "central_alpha_pass": true,
       "identical_inner_contour_pass": true,
       "safe_margin_pass": true,
       "stationary_effect_geometry_pass": true,
       "loop_closure_pass": true,
-      "reduced_motion_pass": true
+      "reduced_motion_pass": true,
+      "whole_frame_stationary_pass": true,
+      "loop_geometry_pass": true,
+      "loop_128px_max_channel_delta": 0,
+      "articulated_parts_checked": 0,
+      "visible_effect_pixels_at_128px": {
+        "light": 150,
+        "dark": 160
+      }
     },
     {
       "id": 79,
       "tier": "epic",
-      "svg_sha256": "ac71020a25b3d8e6be9f5fcefa606025ee5cbe77ab23bda5ff68a63334abe274",
+      "svg_sha256": "d96a77c28659747a58ad797a0e274a6cd6e641cd3e08a4b7e07f66298fc85f79",
       "phases_checked": 5,
       "central_alpha_pass": true,
       "identical_inner_contour_pass": true,
       "safe_margin_pass": true,
       "stationary_effect_geometry_pass": true,
       "loop_closure_pass": true,
-      "reduced_motion_pass": true
+      "reduced_motion_pass": true,
+      "whole_frame_stationary_pass": true,
+      "loop_geometry_pass": true,
+      "loop_128px_max_channel_delta": 0,
+      "articulated_parts_checked": 0,
+      "visible_effect_pixels_at_128px": {
+        "light": 193,
+        "dark": 172
+      }
     },
     {
       "id": 80,
       "tier": "epic",
-      "svg_sha256": "2a923c6e6430a1251ae9281b6ca22457f7cacb87c0b708a2c6eddb7f4e80a48e",
+      "svg_sha256": "5c87956311f7938d5e90ee9f0db52f445bacae900193e8f9c3574e18eced430e",
       "phases_checked": 5,
       "central_alpha_pass": true,
       "identical_inner_contour_pass": true,
       "safe_margin_pass": true,
       "stationary_effect_geometry_pass": true,
       "loop_closure_pass": true,
-      "reduced_motion_pass": true
+      "reduced_motion_pass": true,
+      "whole_frame_stationary_pass": true,
+      "loop_geometry_pass": true,
+      "loop_128px_max_channel_delta": 0,
+      "articulated_parts_checked": 0,
+      "visible_effect_pixels_at_128px": {
+        "light": 316,
+        "dark": 363
+      }
     },
     {
       "id": 81,
       "tier": "epic",
-      "svg_sha256": "a8a3a2e732f0ac8aeef1948554c41125f3e2d58ec9989a651f3a04ecd9530d5e",
+      "svg_sha256": "5411fc201165ef591f41302f4082483091973422e482ed98ad90db405fff57ee",
       "phases_checked": 5,
       "central_alpha_pass": true,
       "identical_inner_contour_pass": true,
       "safe_margin_pass": true,
       "stationary_effect_geometry_pass": true,
       "loop_closure_pass": true,
-      "reduced_motion_pass": true
+      "reduced_motion_pass": true,
+      "whole_frame_stationary_pass": true,
+      "loop_geometry_pass": true,
+      "loop_128px_max_channel_delta": 0,
+      "articulated_parts_checked": 0,
+      "visible_effect_pixels_at_128px": {
+        "light": 243,
+        "dark": 266
+      }
     },
     {
       "id": 82,
       "tier": "epic",
-      "svg_sha256": "2419b5c2811024f872118034e0a667b676f24ce5bd8e3f9fb19983886e8d0b10",
+      "svg_sha256": "d26af99b17059aaa7f9c79124cb7cbcf3206eee361a2d7c86b4b16edf8830bff",
       "phases_checked": 5,
       "central_alpha_pass": true,
       "identical_inner_contour_pass": true,
       "safe_margin_pass": true,
       "stationary_effect_geometry_pass": true,
       "loop_closure_pass": true,
-      "reduced_motion_pass": true
+      "reduced_motion_pass": true,
+      "whole_frame_stationary_pass": true,
+      "loop_geometry_pass": true,
+      "loop_128px_max_channel_delta": 0,
+      "articulated_parts_checked": 0,
+      "visible_effect_pixels_at_128px": {
+        "light": 176,
+        "dark": 191
+      }
     },
     {
       "id": 83,
       "tier": "epic",
-      "svg_sha256": "47d0823d28892702a77ee703b33a0e1eae61c6e278242e5919fe43d4c4322172",
+      "svg_sha256": "b9c2de6738727fe3d0647726356f8cca64e6ed108990ecbeb81f8a678b8ae798",
       "phases_checked": 5,
       "central_alpha_pass": true,
       "identical_inner_contour_pass": true,
       "safe_margin_pass": true,
       "stationary_effect_geometry_pass": true,
       "loop_closure_pass": true,
-      "reduced_motion_pass": true
+      "reduced_motion_pass": true,
+      "whole_frame_stationary_pass": true,
+      "loop_geometry_pass": true,
+      "loop_128px_max_channel_delta": 0,
+      "articulated_parts_checked": 0,
+      "visible_effect_pixels_at_128px": {
+        "light": 257,
+        "dark": 378
+      }
     },
     {
       "id": 84,
       "tier": "epic",
-      "svg_sha256": "1b8266f63a9a26c3e2c2b195c1b6353c7a430b709353397309b3ab3ace0466bd",
+      "svg_sha256": "e6b9e88ad6260c1bdc8160104d1cc89540328e8f6756ddd226a89579595af455",
       "phases_checked": 5,
       "central_alpha_pass": true,
       "identical_inner_contour_pass": true,
       "safe_margin_pass": true,
       "stationary_effect_geometry_pass": true,
       "loop_closure_pass": true,
-      "reduced_motion_pass": true
+      "reduced_motion_pass": true,
+      "whole_frame_stationary_pass": true,
+      "loop_geometry_pass": true,
+      "loop_128px_max_channel_delta": 0,
+      "articulated_parts_checked": 0,
+      "visible_effect_pixels_at_128px": {
+        "light": 172,
+        "dark": 162
+      }
     },
     {
       "id": 85,
       "tier": "epic",
-      "svg_sha256": "9bdded399a40ab2c311fa5a2945fd3d60a8c1b215e0ad2b986b1838567f8bf8d",
+      "svg_sha256": "d20b3c0038996dba56d70be05e44364dc5244b8a0bba67690288aa48391071b0",
       "phases_checked": 5,
       "central_alpha_pass": true,
       "identical_inner_contour_pass": true,
       "safe_margin_pass": true,
       "stationary_effect_geometry_pass": true,
       "loop_closure_pass": true,
-      "reduced_motion_pass": true
+      "reduced_motion_pass": true,
+      "whole_frame_stationary_pass": true,
+      "loop_geometry_pass": true,
+      "loop_128px_max_channel_delta": 0,
+      "articulated_parts_checked": 0,
+      "visible_effect_pixels_at_128px": {
+        "light": 185,
+        "dark": 194
+      }
     },
     {
       "id": 86,
       "tier": "epic",
-      "svg_sha256": "22a1e3a32eac93164a7699a5665c22f1b198d0b168adc89deac118136fd69f9e",
+      "svg_sha256": "3f26a36766e08c861680cb5986ddeec63ef09225f8a8c186b4c97f5efb2dedc6",
       "phases_checked": 5,
       "central_alpha_pass": true,
       "identical_inner_contour_pass": true,
       "safe_margin_pass": true,
       "stationary_effect_geometry_pass": true,
       "loop_closure_pass": true,
-      "reduced_motion_pass": true
+      "reduced_motion_pass": true,
+      "whole_frame_stationary_pass": true,
+      "loop_geometry_pass": true,
+      "loop_128px_max_channel_delta": 0,
+      "articulated_parts_checked": 0,
+      "visible_effect_pixels_at_128px": {
+        "light": 160,
+        "dark": 168
+      }
     },
     {
       "id": 87,
       "tier": "epic",
-      "svg_sha256": "343e9a472a6da32856e811de16635871f76a5291f1be7d947d0fd25138e9e03e",
+      "svg_sha256": "a0b0dd7734a61cbced65a7201f8157b10984babd865a173ae0a3888081fa4213",
       "phases_checked": 5,
       "central_alpha_pass": true,
       "identical_inner_contour_pass": true,
       "safe_margin_pass": true,
       "stationary_effect_geometry_pass": true,
       "loop_closure_pass": true,
-      "reduced_motion_pass": true
+      "reduced_motion_pass": true,
+      "whole_frame_stationary_pass": true,
+      "loop_geometry_pass": true,
+      "loop_128px_max_channel_delta": 0,
+      "articulated_parts_checked": 0,
+      "visible_effect_pixels_at_128px": {
+        "light": 264,
+        "dark": 287
+      }
     },
     {
       "id": 88,
       "tier": "epic",
-      "svg_sha256": "dba1802726390c713ba22df595f12f9ec42f6d9989107040c1f7b55d1716c674",
+      "svg_sha256": "a31b33b2d64687077b85283934af9daf090e68858dc1f1dafe9265af9f8de5c1",
       "phases_checked": 5,
       "central_alpha_pass": true,
       "identical_inner_contour_pass": true,
       "safe_margin_pass": true,
       "stationary_effect_geometry_pass": true,
       "loop_closure_pass": true,
-      "reduced_motion_pass": true
+      "reduced_motion_pass": true,
+      "whole_frame_stationary_pass": true,
+      "loop_geometry_pass": true,
+      "loop_128px_max_channel_delta": 0,
+      "articulated_parts_checked": 0,
+      "visible_effect_pixels_at_128px": {
+        "light": 135,
+        "dark": 149
+      }
     },
     {
       "id": 89,
       "tier": "epic",
-      "svg_sha256": "b65a3e151669dd9a635ce3eb00d14c4a8549eeb38bc563ee479b0bc1d949b04a",
+      "svg_sha256": "9826a92df3dce12e90c846299fabc1e5e2ac13e538a7bcf72a02e19644ce2bce",
       "phases_checked": 5,
       "central_alpha_pass": true,
       "identical_inner_contour_pass": true,
       "safe_margin_pass": true,
       "stationary_effect_geometry_pass": true,
       "loop_closure_pass": true,
-      "reduced_motion_pass": true
+      "reduced_motion_pass": true,
+      "whole_frame_stationary_pass": true,
+      "loop_geometry_pass": true,
+      "loop_128px_max_channel_delta": 0,
+      "articulated_parts_checked": 0,
+      "visible_effect_pixels_at_128px": {
+        "light": 256,
+        "dark": 241
+      }
     },
     {
       "id": 90,
       "tier": "epic",
-      "svg_sha256": "902aae5f780663dc6003b6cfb6e23613f8cac5e9bf817bdadbe676f3b2efee03",
+      "svg_sha256": "257fd3a47e521ee3d34a4ebd54e11dad5ee501bbe87eb1ca8ddafbf34f2bbec0",
       "phases_checked": 5,
       "central_alpha_pass": true,
       "identical_inner_contour_pass": true,
       "safe_margin_pass": true,
       "stationary_effect_geometry_pass": true,
       "loop_closure_pass": true,
-      "reduced_motion_pass": true
+      "reduced_motion_pass": true,
+      "whole_frame_stationary_pass": true,
+      "loop_geometry_pass": true,
+      "loop_128px_max_channel_delta": 0,
+      "articulated_parts_checked": 0,
+      "visible_effect_pixels_at_128px": {
+        "light": 207,
+        "dark": 203
+      }
     },
     {
       "id": 91,
       "tier": "legendary",
-      "svg_sha256": "b173a5d023debaf6dccae072af56b8f78a49e01e044af926c28f3038fbca4401",
+      "svg_sha256": "349a620986262b41010fa9ca71e2d9a27db836f3539accacf989a83ac5290a82",
       "phases_checked": 5,
       "central_alpha_pass": true,
       "identical_inner_contour_pass": true,
       "safe_margin_pass": true,
       "stationary_effect_geometry_pass": true,
       "loop_closure_pass": true,
-      "reduced_motion_pass": true
+      "reduced_motion_pass": true,
+      "whole_frame_stationary_pass": true,
+      "loop_geometry_pass": true,
+      "loop_128px_max_channel_delta": 0,
+      "articulated_parts_checked": 5,
+      "visible_effect_pixels_at_128px": {}
     },
     {
       "id": 92,
       "tier": "legendary",
-      "svg_sha256": "90880c9725ef845ee0749df3d91e4f27af5828e6447588d2b4b595f8df5a3c34",
+      "svg_sha256": "2dcde1cbb4c8a3df59f3be98b6e2b558a5c3b817f0dbfad2f372030e6a6bc46b",
       "phases_checked": 5,
       "central_alpha_pass": true,
       "identical_inner_contour_pass": true,
       "safe_margin_pass": true,
       "stationary_effect_geometry_pass": true,
       "loop_closure_pass": true,
-      "reduced_motion_pass": true
+      "reduced_motion_pass": true,
+      "whole_frame_stationary_pass": true,
+      "loop_geometry_pass": true,
+      "loop_128px_max_channel_delta": 0,
+      "articulated_parts_checked": 4,
+      "visible_effect_pixels_at_128px": {}
     },
     {
       "id": 93,
       "tier": "legendary",
-      "svg_sha256": "9c85710e43b54dccfb7815db0be0247d83d64b72cdb37de75f076561b236be69",
+      "svg_sha256": "9f78e82f1434e6ed6131ba7deea861ba0883ba937ee2674e2e7bad3fbb274838",
       "phases_checked": 5,
       "central_alpha_pass": true,
       "identical_inner_contour_pass": true,
       "safe_margin_pass": true,
       "stationary_effect_geometry_pass": true,
       "loop_closure_pass": true,
-      "reduced_motion_pass": true
+      "reduced_motion_pass": true,
+      "whole_frame_stationary_pass": true,
+      "loop_geometry_pass": true,
+      "loop_128px_max_channel_delta": 2,
+      "articulated_parts_checked": 6,
+      "visible_effect_pixels_at_128px": {}
     },
     {
       "id": 94,
       "tier": "legendary",
-      "svg_sha256": "83a73ae20ef6187a0f0e11854dcf6d581c3616c363552e680634c019792749d6",
+      "svg_sha256": "36b1f1276f7800ef497e873d1affb3b0ae83123833841285e4d5711c3a95236b",
       "phases_checked": 5,
       "central_alpha_pass": true,
       "identical_inner_contour_pass": true,
       "safe_margin_pass": true,
       "stationary_effect_geometry_pass": true,
       "loop_closure_pass": true,
-      "reduced_motion_pass": true
+      "reduced_motion_pass": true,
+      "whole_frame_stationary_pass": true,
+      "loop_geometry_pass": true,
+      "loop_128px_max_channel_delta": 2,
+      "articulated_parts_checked": 5,
+      "visible_effect_pixels_at_128px": {}
     },
     {
       "id": 95,
       "tier": "legendary",
-      "svg_sha256": "512e3d52dd934f8b2898f9f7dc71687d47eb6dd0fa53ea91563b79a3a0cc36aa",
+      "svg_sha256": "cbd96a60fd9f991f3ca0f8e80c7bf21ca603d6f634a46be8ebf63bc5adaaa825",
       "phases_checked": 5,
       "central_alpha_pass": true,
       "identical_inner_contour_pass": true,
       "safe_margin_pass": true,
       "stationary_effect_geometry_pass": true,
       "loop_closure_pass": true,
-      "reduced_motion_pass": true
+      "reduced_motion_pass": true,
+      "whole_frame_stationary_pass": true,
+      "loop_geometry_pass": true,
+      "loop_128px_max_channel_delta": 0,
+      "articulated_parts_checked": 6,
+      "visible_effect_pixels_at_128px": {}
     },
     {
       "id": 96,
       "tier": "legendary",
-      "svg_sha256": "44a387320770c57ccfcabce4a9df1a1117ec7539090283a3832285e78285fd19",
+      "svg_sha256": "1c8686b4dcb4ffa0b1de1dacb0825851478e96f3f3a6b4df33c8d391ef024f40",
       "phases_checked": 5,
       "central_alpha_pass": true,
       "identical_inner_contour_pass": true,
       "safe_margin_pass": true,
       "stationary_effect_geometry_pass": true,
       "loop_closure_pass": true,
-      "reduced_motion_pass": true
+      "reduced_motion_pass": true,
+      "whole_frame_stationary_pass": true,
+      "loop_geometry_pass": true,
+      "loop_128px_max_channel_delta": 1,
+      "articulated_parts_checked": 7,
+      "visible_effect_pixels_at_128px": {}
     },
     {
       "id": 97,
       "tier": "legendary",
-      "svg_sha256": "09bfbdc79f4fd9b7a5307bdfcfd96cef8292f8ee89d92b32348a0a02f34c239b",
+      "svg_sha256": "0d42410603d6915b540d12805bf6fa195ce9adacce480f46eeffc5e6a69777b5",
       "phases_checked": 5,
       "central_alpha_pass": true,
       "identical_inner_contour_pass": true,
       "safe_margin_pass": true,
       "stationary_effect_geometry_pass": true,
       "loop_closure_pass": true,
-      "reduced_motion_pass": true
+      "reduced_motion_pass": true,
+      "whole_frame_stationary_pass": true,
+      "loop_geometry_pass": true,
+      "loop_128px_max_channel_delta": 2,
+      "articulated_parts_checked": 4,
+      "visible_effect_pixels_at_128px": {}
     },
     {
       "id": 98,
       "tier": "legendary",
-      "svg_sha256": "4cbc5621c542a2b484c6115620800d4bb4c9209fe44f4c6d6cb1572e2659eccb",
+      "svg_sha256": "8e8511ead5fc88fb5b554b01d2ad5a35a69f8e8af08cae2a8a7f6320149eca9a",
       "phases_checked": 5,
       "central_alpha_pass": true,
       "identical_inner_contour_pass": true,
       "safe_margin_pass": true,
       "stationary_effect_geometry_pass": true,
       "loop_closure_pass": true,
-      "reduced_motion_pass": true
+      "reduced_motion_pass": true,
+      "whole_frame_stationary_pass": true,
+      "loop_geometry_pass": true,
+      "loop_128px_max_channel_delta": 0,
+      "articulated_parts_checked": 5,
+      "visible_effect_pixels_at_128px": {}
     },
     {
       "id": 99,
       "tier": "legendary",
-      "svg_sha256": "f220790a387f02a64d90eb153e579f902d2b32ba02df4de64aca309d905810f5",
+      "svg_sha256": "df0319f205d397400d7e9112db6dcc33a3268c79a80df866bafd9bc8da00625c",
       "phases_checked": 5,
       "central_alpha_pass": true,
       "identical_inner_contour_pass": true,
       "safe_margin_pass": true,
       "stationary_effect_geometry_pass": true,
       "loop_closure_pass": true,
-      "reduced_motion_pass": true
+      "reduced_motion_pass": true,
+      "whole_frame_stationary_pass": true,
+      "loop_geometry_pass": true,
+      "loop_128px_max_channel_delta": 0,
+      "articulated_parts_checked": 6,
+      "visible_effect_pixels_at_128px": {}
     },
     {
       "id": 100,
       "tier": "legendary",
-      "svg_sha256": "b292802fdc85e35ba8d78a63974eada93c298d73bff789bbcf32dfacd74d3c32",
+      "svg_sha256": "6dd6ac99de27cfa958b720e3ff1be1a54a6be5a4333ef35366ed0d883f299e3b",
       "phases_checked": 5,
       "central_alpha_pass": true,
       "identical_inner_contour_pass": true,
       "safe_margin_pass": true,
       "stationary_effect_geometry_pass": true,
       "loop_closure_pass": true,
-      "reduced_motion_pass": true
+      "reduced_motion_pass": true,
+      "whole_frame_stationary_pass": true,
+      "loop_geometry_pass": true,
+      "loop_128px_max_channel_delta": 2,
+      "articulated_parts_checked": 8,
+      "visible_effect_pixels_at_128px": {}
     }
   ],
   "gallery": {
@@ -327,6 +497,7 @@
     ],
     "pause_resume_pass": true,
     "background_controls_pass": true,
-    "javascript_errors": 0
+    "javascript_errors": 0,
+    "preview_size_128_pass": true
   }
 }

@@ -49,18 +49,30 @@ def main():
         assert hashlib.sha256(path.read_bytes()).hexdigest()==a['svg_sha256']
         assert not svg.findall('.//s:script',NS)
         images=svg.findall('.//s:image',NS)
-        assert len(images)==3
+        assert len(images)==3+(len(a['articulated_parts'])+1 if a['tier']=='legendary' else 0)
         assert all(e.attrib['href'].startswith('data:image/png;base64,') for e in images)
         art=next(e for e in images if e.attrib.get('id')=='art')
         data=base64.b64decode(art.attrib['href'].split(',',1)[1])
         source=(OUT/a['static_fallback']).resolve()
         assert data==source.read_bytes(), f'Changed source art: {a["id"]}'
         assert hashlib.sha256(data).hexdigest()==a['source_sha256']
+        masks={}
         for e in svg.findall('.//s:mask',NS):
             raw=base64.b64decode(e.find('s:image',NS).attrib['href'].split(',',1)[1])
             alpha=np.array(Image.open(io.BytesIO(raw)).getchannel('A'))
-            expected=BAND if e.attrib['id']=='contourMask' else (R>=360)&(R<=480)
-            assert np.array_equal(alpha,np.where(expected,255,0))
+            masks[e.attrib['id']]=alpha
+            assert np.isin(alpha,[0,255]).all()
+        assert np.array_equal(masks['contourMask'],np.where(BAND,255,0))
+        assert np.array_equal(masks['movingMask'],np.where((R>=360)&(R<=480),255,0))
+        if a['tier']=='legendary':
+            part_masks=[m for key,m in masks.items() if key.startswith('partMask')]
+            union=np.zeros(R.shape,dtype=int)
+            for mask in part_masks:
+                assert not mask[R<372].any()
+                union+=(mask>0)
+            assert union.max()==1,'Source parts overlap'
+            assert np.array_equal(masks['baseMask'],np.where(union==0,255,0))
+            assert a['whole_frame_motion']=='none'
 
     server=ThreadingHTTPServer(('127.0.0.1',0),functools.partial(QuietHandler,directory=str(ROOT)))
     thread=threading.Thread(target=server.serve_forever,daemon=True);thread.start()
@@ -77,19 +89,22 @@ def main():
                 page.emulate_media(reduced_motion='no-preference')
                 response=page.goto(base+'/assets/profile-borders-animated/'+item['svg'],wait_until='networkidle')
                 assert response.status==200
-                count=page.evaluate('''async()=>{const a=document.getAnimations();await Promise.all(a.map(x=>x.ready));a.forEach(x=>x.pause());return a.length}''')
-                assert count==(2 if item['tier']=='legendary' else 1)
+                count=page.evaluate('''async()=>{const a=document.getAnimations();await Promise.all(a.map(async x=>{await x.ready;x.pause();await x.ready}));a.forEach(x=>x.currentTime=0);return a.length}''')
+                assert count==1+len(item['articulated_parts'])
                 snapshots=[]
                 bboxes=[]
+                part_states=[]
                 for phase in [0,.25,.5,.75,1]:
-                    state=page.evaluate('''t=>{document.getAnimations().forEach(a=>a.currentTime=t);const fx=document.querySelector('.fx');const frame=document.querySelector('.motion,.stationary');const m=frame.getCTM();const box=fx.getBBox();const f=fx.getCTM();return {opacity:Number(getComputedStyle(fx).opacity),matrix:[m.a,m.b,m.c,m.d,m.e,m.f],fxmatrix:[f.a,f.b,f.c,f.d,f.e,f.f],bbox:[box.x,box.y,box.width,box.height]}}''',item['duration_ms']*phase)
-                    assert abs(state['opacity']-(0 if phase in (0,1) else .55 if phase==.5 else .275))<.002
+                    state=page.evaluate('''t=>{document.getAnimations().forEach(a=>a.currentTime=t);const fx=document.querySelector('.fx');const frame=document.querySelector('.stationary');const m=frame.getCTM();const box=fx.getBBox();const f=fx.getCTM();return {opacity:Number(getComputedStyle(fx).opacity),matrix:[m.a,m.b,m.c,m.d,m.e,m.f],fxmatrix:[f.a,f.b,f.c,f.d,f.e,f.f],bbox:[box.x,box.y,box.width,box.height],parts:[...document.querySelectorAll('.part')].map(p=>{const m=p.getCTM();return [m.a,m.b,m.c,m.d,m.e,m.f]})}}''',item['duration_ms']*phase)
+                    peak=item['effect_peak_opacity']
+                    assert abs(state['opacity']-(0 if phase in (0,1) else peak if phase==.5 else peak/2))<.002
                     m=state['matrix']
                     assert abs(m[0]*512+m[2]*512+m[4]-512)<.002
                     assert abs(m[1]*512+m[3]*512+m[5]-512)<.002
                     assert abs(m[0]*m[3]-m[1]*m[2]-1)<.0001
                     assert state['fxmatrix']==[1,0,0,1,0,0], 'Effect geometry moved'
-                    if item['tier']=='epic':assert m==[1,0,0,1,0,0], 'Epic frame moved'
+                    assert m==[1,0,0,1,0,0], 'Base frame moved'
+                    part_states.append(state['parts'])
                     bboxes.append(state['bbox'])
                     data=page.screenshot(omit_background=True,animations='allow')
                     pixels=np.array(Image.open(io.BytesIO(data)).convert('RGBA'))
@@ -98,21 +113,58 @@ def main():
                     assert (alpha[BAND]==255).all(), f'Inner boundary: {item["id"]} phase {phase}'
                     assert not alpha[R>480].any(), f'Margin: {item["id"]} phase {phase}'
                     snapshots.append(pixels)
-                    if item['id'] in (76,91):
+                    if item['id']==76 or (item['tier']=='legendary' and phase in (0,.5)):
                         (args.artifacts/f'{item["id"]:03}-phase-{phase}.png').write_bytes(data)
                 assert all(b==bboxes[0] for b in bboxes)
                 assert np.count_nonzero(snapshots[0]!=snapshots[2])>100, 'Invisible effect'
-                assert np.array_equal(snapshots[0],snapshots[4]), 'Loop does not close'
-                if item['tier']=='legendary':
-                    assert np.count_nonzero(snapshots[1]!=snapshots[3])>100, 'Frame did not move'
+                # CSS-transformed raster layers can be re-rasterized at a new
+                # sampling scale by Chromium's compositor. Check exact loop
+                # geometry and displayed color continuity, rather than hidden
+                # RGB values at transparent/antialiased native pixels.
+                assert np.allclose(part_states[0],part_states[4],atol=1e-7,rtol=0),'Loop geometry changed'
+                loop_delta=0
+                for color in ['#f4f2ec','#172030']:
+                    endpoints=[]
+                    for rgba in (snapshots[0],snapshots[4]):
+                        bg=Image.new('RGBA',(1024,1024),color)
+                        endpoints.append(np.array(Image.alpha_composite(bg,Image.fromarray(rgba)).resize((128,128),Image.Resampling.LANCZOS).convert('RGB')).astype(int))
+                    loop_delta=max(loop_delta,int(np.max(np.abs(endpoints[0]-endpoints[1]))))
+                assert loop_delta<=4,f'Visible loop seam: {item["id"]}, color delta {loop_delta}'
+                if item['tier']=='epic':assert np.array_equal(snapshots[0],snapshots[4])
+                visibility={}
+                if item['tier']=='epic':
+                    for name,color in [('light','#f4f2ec'),('dark','#172030')]:
+                        small=[]
+                        for rgba in (snapshots[0],snapshots[2]):
+                            background=Image.new('RGBA',(1024,1024),color)
+                            merged=Image.alpha_composite(background,Image.fromarray(rgba))
+                            small.append(np.array(merged.resize((128,128),Image.Resampling.LANCZOS).convert('RGB')).astype(int))
+                        changed=int(np.count_nonzero(np.max(np.abs(small[0]-small[1]),axis=2)>=16))
+                        assert changed>=35,f'Effect too weak at 128px: {item["id"]}, {name}, {changed}'
+                        visibility[name]=changed
+                else:
+                    assert not np.allclose(part_states[0],part_states[2]),'Local ornaments did not articulate'
+                    # Verify actual frame artwork moves independently of the blinking effect.
+                    page.evaluate("document.querySelector('.fx').style.setProperty('opacity','0','important')")
+                    isolated=[]
+                    for t in [0,item['duration_ms']/2]:
+                        page.evaluate('t=>document.getAnimations().forEach(a=>a.currentTime=t)',t)
+                        isolated.append(np.array(Image.open(io.BytesIO(page.screenshot(omit_background=True,animations='allow')))))
+                    assert np.count_nonzero(isolated[0]!=isolated[1])>500,'Only the effect changed'
+                    if item['id']==97:
+                        assert part_states[0][0][0]<.7 and part_states[2][0][0]>.99,'Wings did not fold and unfold'
                 page.emulate_media(reduced_motion='reduce')
-                reduced=page.evaluate('''()=>({count:document.getAnimations().length,opacity:getComputedStyle(document.querySelector('.fx')).opacity,transform:getComputedStyle(document.querySelector('.motion,.stationary')).transform})''')
+                reduced=page.evaluate('''()=>({count:document.getAnimations().length,opacity:getComputedStyle(document.querySelector('.fx')).opacity,transforms:[...document.querySelectorAll('.stationary,.part')].map(e=>getComputedStyle(e).transform)})''')
                 assert reduced['count']==0 and float(reduced['opacity'])==0
-                assert reduced['transform']=='none'
+                assert all(t=='none' for t in reduced['transforms'])
                 results.append({'id':item['id'],'tier':item['tier'],'svg_sha256':item['svg_sha256'],
                                 'phases_checked':5,'central_alpha_pass':True,'identical_inner_contour_pass':True,
                                 'safe_margin_pass':True,'stationary_effect_geometry_pass':True,
-                                'loop_closure_pass':True,'reduced_motion_pass':True})
+                                'loop_closure_pass':True,'reduced_motion_pass':True,
+                                'whole_frame_stationary_pass':True,
+                                'loop_geometry_pass':True,'loop_128px_max_channel_delta':loop_delta,
+                                'articulated_parts_checked':len(item['articulated_parts']),
+                                'visible_effect_pixels_at_128px':visibility})
                 print(f'PASS {item["id"]:03}: five phases, exact aperture, motion and reduced motion',flush=True)
             version=browser.version
             browser.close()
