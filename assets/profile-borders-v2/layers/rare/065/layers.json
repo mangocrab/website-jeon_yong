@@ -1,0 +1,193 @@
+{
+  "id": 65,
+  "tier": "rare",
+  "frame": "layers/rare/065/frame.png",
+  "frame_sha256": "b3043ae4c478b9068a5a805db7cde6595888784e597acd1ecf215b467aab58fd",
+  "ornaments": [
+    {
+      "name": "one opal shard",
+      "file": "layers/rare/065/ornament_01.png",
+      "sha256": "91b4e66a9577f033e0a8a42003b743101cdde5867be210a457865df5242bde99",
+      "source_size": [
+        217,
+        232
+      ],
+      "atlas": "rare-04",
+      "atlas_cell": 0,
+      "source_cell_box": [
+        0,
+        0,
+        418,
+        418
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        117,
+        116,
+        318,
+        332
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "one opal sphere",
+      "file": "layers/rare/065/ornament_02.png",
+      "sha256": "6baa77cbd8079253035bc9f7293944439da1cf6ac54e1547ae2e1877c0f18527",
+      "source_size": [
+        236,
+        240
+      ],
+      "atlas": "rare-04",
+      "atlas_cell": 1,
+      "source_cell_box": [
+        418,
+        0,
+        836,
+        418
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        97,
+        111,
+        317,
+        335
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "one opal prism",
+      "file": "layers/rare/065/ornament_03.png",
+      "sha256": "348dd8e2cb635d57df27de8a307d271fdee8c42f8349cb39c41cc2d1eb4bb8d5",
+      "source_size": [
+        180,
+        297
+      ],
+      "atlas": "rare-04",
+      "atlas_cell": 2,
+      "source_cell_box": [
+        836,
+        0,
+        1254,
+        418
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        124,
+        80,
+        288,
+        361
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        89.49775351396738
+      ],
+      "angle": -90,
+      "radius": 422.5022464860326,
+      "uniform_scale": 0.5428679618330379,
+      "width": 117.80234771776922,
+      "height": 125.94536714526478,
+      "source_size": [
+        217,
+        232
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        928.8460786248836
+      ],
+      "angle": 90,
+      "radius": 416.8460786248836,
+      "uniform_scale": 0.4827586206896552,
+      "width": 104.75862068965517,
+      "height": 112.0,
+      "source_size": [
+        217,
+        232
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        129.7013969083843,
+        333.7312336764213
+      ],
+      "angle": -155,
+      "radius": 421.81983710149456,
+      "uniform_scale": 0.5016666666666666,
+      "width": 118.39333333333332,
+      "height": 120.39999999999998,
+      "source_size": [
+        236,
+        240
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        894.2097266023036,
+        690.2273225359825
+      ],
+      "angle": 25,
+      "radius": 421.7217727456727,
+      "uniform_scale": 0.5016666666666666,
+      "width": 118.39333333333332,
+      "height": 120.39999999999998,
+      "source_size": [
+        236,
+        240
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 2,
+      "center": [
+        878.0652754666901,
+        341.30095866526324
+      ],
+      "angle": -25,
+      "radius": 403.90834184886785,
+      "uniform_scale": 0.3488215488215488,
+      "width": 62.78787878787879,
+      "height": 103.6,
+      "source_size": [
+        180,
+        297
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 2,
+      "center": [
+        146.93406524479343,
+        682.2330411078659
+      ],
+      "angle": 155,
+      "radius": 402.8056913742966,
+      "uniform_scale": 0.3488215488215488,
+      "width": 62.78787878787879,
+      "height": 103.6,
+      "source_size": [
+        180,
+        297
+      ],
+      "aspect_ratio_preserved": true
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}

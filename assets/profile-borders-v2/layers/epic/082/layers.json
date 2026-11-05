@@ -1,0 +1,227 @@
+{
+  "id": 82,
+  "tier": "epic",
+  "frame": "layers/epic/082/frame.png",
+  "frame_sha256": "dbff4c2573b1eb019f030bbb00280284f37b5d1df1307bfdfa8c8abb02850871",
+  "ornaments": [
+    {
+      "name": "one platinum paladin helmet",
+      "file": "layers/epic/082/ornament_01.png",
+      "sha256": "a3c8b72677ae727b2572e71bb2e188ba132fd344d633011c7e0ecf29b3507917",
+      "source_size": [
+        239,
+        284
+      ],
+      "atlas": "epic-03",
+      "atlas_cell": 0,
+      "source_cell_box": [
+        0,
+        0,
+        418,
+        418
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        113,
+        83,
+        336,
+        351
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "one complete golden feather wing",
+      "file": "layers/epic/082/ornament_02.png",
+      "sha256": "b08d90c1a2ace413cb4fd2bfb6d30bd5b06ebbda1347a877b5f172720a0beaed",
+      "source_size": [
+        273,
+        284
+      ],
+      "atlas": "epic-03",
+      "atlas_cell": 1,
+      "source_cell_box": [
+        418,
+        0,
+        836,
+        418
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        80,
+        80,
+        337,
+        348
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "one blue holy gem",
+      "file": "layers/epic/082/ornament_03.png",
+      "sha256": "20e708ed7a6e049ffd7fc914a474f6ae8fcc0cfadccbb950d72099fb7dbaad50",
+      "source_size": [
+        199,
+        289
+      ],
+      "atlas": "epic-03",
+      "atlas_cell": 2,
+      "source_cell_box": [
+        836,
+        0,
+        1254,
+        418
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        103,
+        77,
+        286,
+        350
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        87.23490355986326
+      ],
+      "angle": -90,
+      "radius": 424.76509644013674,
+      "uniform_scale": 0.4327146435205307,
+      "width": 103.41879980140683,
+      "height": 122.89095875983071,
+      "source_size": [
+        239,
+        284
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        935.5942630390385
+      ],
+      "angle": 90,
+      "radius": 423.59426303903854,
+      "uniform_scale": 0.423943661971831,
+      "width": 101.3225352112676,
+      "height": 120.39999999999999,
+      "source_size": [
+        239,
+        284
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        197.0291118024926,
+        247.70804388189117
+      ],
+      "angle": -140,
+      "radius": 411.1652933804884,
+      "uniform_scale": 0.423943661971831,
+      "width": 115.73661971830985,
+      "height": 120.39999999999999,
+      "source_size": [
+        273,
+        284
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        836.7988395359473,
+        239.46141353857814
+      ],
+      "angle": -40,
+      "radius": 423.99477269689066,
+      "uniform_scale": 0.34253920602692967,
+      "width": 93.5132032453518,
+      "height": 97.28113451164802,
+      "source_size": [
+        273,
+        284
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        813.2059194877968,
+        764.7417759506238
+      ],
+      "angle": 40,
+      "radius": 393.19640288940144,
+      "uniform_scale": 0.423943661971831,
+      "width": 115.73661971830985,
+      "height": 120.39999999999999,
+      "source_size": [
+        273,
+        284
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        185.75380236625415,
+        785.7530641074662
+      ],
+      "angle": 140,
+      "radius": 425.88416450803106,
+      "uniform_scale": 0.34253920602692967,
+      "width": 93.5132032453518,
+      "height": 97.28113451164802,
+      "source_size": [
+        273,
+        284
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 2,
+      "center": [
+        916.9028593107665,
+        512.0
+      ],
+      "angle": 0,
+      "radius": 404.90285931076653,
+      "uniform_scale": 0.41660899653979233,
+      "width": 82.90519031141868,
+      "height": 120.39999999999998,
+      "source_size": [
+        199,
+        289
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 2,
+      "center": [
+        107.10023162374682,
+        512.0
+      ],
+      "angle": 180,
+      "radius": 404.8997683762532,
+      "uniform_scale": 0.41660899653979233,
+      "width": 82.90519031141868,
+      "height": 120.39999999999998,
+      "source_size": [
+        199,
+        289
+      ],
+      "aspect_ratio_preserved": true
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}

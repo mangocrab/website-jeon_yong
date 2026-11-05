@@ -1,0 +1,193 @@
+{
+  "id": 64,
+  "tier": "rare",
+  "frame": "layers/rare/064/frame.png",
+  "frame_sha256": "175c8a8bdaa51cdc47645705c50afa3faed522f0e730d63db3c2695cc2e90c27",
+  "ornaments": [
+    {
+      "name": "one green emerald",
+      "file": "layers/rare/064/ornament_01.png",
+      "sha256": "4f8adf71d581691863e43b62d79a6819456921f3764517821f26cca056c0b96a",
+      "source_size": [
+        196,
+        250
+      ],
+      "atlas": "rare-03",
+      "atlas_cell": 6,
+      "source_cell_box": [
+        0,
+        836,
+        418,
+        1254
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        126,
+        91,
+        306,
+        325
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "one gold filigree curl",
+      "file": "layers/rare/064/ornament_02.png",
+      "sha256": "1ae4381e3bdae8eeaf9b3f4351b0223ebfac7aea0c71f0a54920a14d3fb1ca18",
+      "source_size": [
+        286,
+        268
+      ],
+      "atlas": "rare-03",
+      "atlas_cell": 7,
+      "source_cell_box": [
+        418,
+        836,
+        836,
+        1254
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        71,
+        83,
+        341,
+        335
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "one emerald teardrop pendant",
+      "file": "layers/rare/064/ornament_03.png",
+      "sha256": "a5174697cfbaffb2670a6abed9e2f869a0dfddaf266a4dc4f2cd895208cb58d5",
+      "source_size": [
+        167,
+        307
+      ],
+      "atlas": "rare-03",
+      "atlas_cell": 8,
+      "source_cell_box": [
+        836,
+        836,
+        1254,
+        1254
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        130,
+        56,
+        281,
+        347
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        87.33390351370383
+      ],
+      "angle": -90,
+      "radius": 424.66609648629617,
+      "uniform_scale": 0.5037814685810591,
+      "width": 98.74116784188759,
+      "height": 125.94536714526477,
+      "source_size": [
+        196,
+        250
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        931.1919312657469
+      ],
+      "angle": 90,
+      "radius": 419.191931265747,
+      "uniform_scale": 0.448,
+      "width": 87.808,
+      "height": 112.0,
+      "source_size": [
+        196,
+        250
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        142.521002920213,
+        339.70911413426694
+      ],
+      "angle": -155,
+      "radius": 407.67496689824395,
+      "uniform_scale": 0.42097902097902096,
+      "width": 120.39999999999999,
+      "height": 112.82237762237762,
+      "source_size": [
+        286,
+        268
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        885.8529983616656,
+        686.3305161602528
+      ],
+      "angle": 25,
+      "radius": 412.5011433301825,
+      "uniform_scale": 0.42097902097902096,
+      "width": 120.39999999999999,
+      "height": 112.82237762237762,
+      "source_size": [
+        286,
+        268
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 2,
+      "center": [
+        874.4515251975372,
+        342.986078090429
+      ],
+      "angle": -25,
+      "radius": 399.92100959723973,
+      "uniform_scale": 0.33745928338762216,
+      "width": 56.3557003257329,
+      "height": 103.60000000000001,
+      "source_size": [
+        167,
+        307
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 2,
+      "center": [
+        157.11197151943168,
+        677.4870054680183
+      ],
+      "angle": 155,
+      "radius": 391.57561432959096,
+      "uniform_scale": 0.33745928338762216,
+      "width": 56.3557003257329,
+      "height": 103.60000000000001,
+      "source_size": [
+        167,
+        307
+      ],
+      "aspect_ratio_preserved": true
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}

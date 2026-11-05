@@ -1,0 +1,142 @@
+{
+  "id": 41,
+  "tier": "premium",
+  "frame": "layers/premium/041/frame.png",
+  "frame_sha256": "0ace5901dd6c4a74cffff7693d7f09edbb3dede75e32b5bb499b1c6384463883",
+  "ornaments": [
+    {
+      "name": "one pair of white rabbit ears",
+      "file": "layers/premium/041/ornament_01.png",
+      "sha256": "300a019434f42b3ccc8c7f0906ccd584e084b2bb1a95e037ab80bfb8b4d64c64",
+      "source_size": [
+        298,
+        291
+      ],
+      "atlas": "premium-04",
+      "atlas_cell": 3,
+      "source_cell_box": [
+        0,
+        418,
+        418,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        71,
+        78,
+        353,
+        353
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "one sealed letter envelope",
+      "file": "layers/premium/041/ornament_02.png",
+      "sha256": "6c2951000347fd4672e4894ad460f360497ec3590d982fdf28d7e445e9026355",
+      "source_size": [
+        297,
+        205
+      ],
+      "atlas": "premium-04",
+      "atlas_cell": 4,
+      "source_cell_box": [
+        418,
+        418,
+        836,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        66,
+        126,
+        347,
+        315
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "one compact pink ribbon bow",
+      "file": "layers/premium/041/ornament_03.png",
+      "sha256": "5d24340f39e480943a3294435dc1b7ba2fa9a6f6e479b28b7761b8729b5082b2",
+      "source_size": [
+        316,
+        248
+      ],
+      "atlas": "premium-04",
+      "atlas_cell": 5,
+      "source_cell_box": [
+        836,
+        418,
+        1254,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        55,
+        114,
+        355,
+        346
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        88.75145074517025
+      ],
+      "angle": -90,
+      "radius": 423.24854925482975,
+      "uniform_scale": 0.4195693763151677,
+      "width": 125.03167414191998,
+      "height": 122.09468850771381,
+      "source_size": [
+        298,
+        291
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        163.6986835004725,
+        755.8832073813351
+      ],
+      "angle": 145,
+      "radius": 425.1973964147844,
+      "uniform_scale": 0.35338206269715133,
+      "width": 104.95447262105395,
+      "height": 72.44332285291603,
+      "source_size": [
+        297,
+        205
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 2,
+      "center": [
+        862.2200671156276,
+        757.2267310266728
+      ],
+      "angle": 35,
+      "radius": 427.53975840908976,
+      "uniform_scale": 0.3751689873417721,
+      "width": 118.5534,
+      "height": 93.04190886075949,
+      "source_size": [
+        316,
+        248
+      ],
+      "aspect_ratio_preserved": true
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}

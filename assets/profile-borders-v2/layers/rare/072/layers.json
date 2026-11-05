@@ -1,0 +1,193 @@
+{
+  "id": 72,
+  "tier": "rare",
+  "frame": "layers/rare/072/frame.png",
+  "frame_sha256": "e7337977385410635f90438f37d6b3b1624be8835fe33be8d04bb5381ee4d150",
+  "ornaments": [
+    {
+      "name": "one open magic book with blank pages",
+      "file": "layers/rare/072/ornament_01.png",
+      "sha256": "77d8c63d035f6aaf61f64249179f102464073af55057eb3472615ba716c32f96",
+      "source_size": [
+        360,
+        260
+      ],
+      "atlas": "rare-06",
+      "atlas_cell": 3,
+      "source_cell_box": [
+        0,
+        418,
+        418,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        53,
+        102,
+        397,
+        346
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "one floating blank book page",
+      "file": "layers/rare/072/ornament_02.png",
+      "sha256": "af0f5bebb5c47ffa52b63c1cb447e99c80c9bd6ec6288568744c856837a485ac",
+      "source_size": [
+        285,
+        275
+      ],
+      "atlas": "rare-06",
+      "atlas_cell": 4,
+      "source_cell_box": [
+        418,
+        418,
+        836,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        68,
+        84,
+        337,
+        343
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "one silver book clasp",
+      "file": "layers/rare/072/ornament_03.png",
+      "sha256": "8b3eff64a2cdc42e1aac873fb8b01fa66b202b01ad53790e941544d45914a04b",
+      "source_size": [
+        305,
+        247
+      ],
+      "atlas": "rare-06",
+      "atlas_cell": 5,
+      "source_cell_box": [
+        836,
+        418,
+        1254,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        49,
+        105,
+        338,
+        336
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        94.53507554371697
+      ],
+      "angle": -90,
+      "radius": 417.46492445628303,
+      "uniform_scale": 0.42,
+      "width": 151.2,
+      "height": 109.2,
+      "source_size": [
+        360,
+        260
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        915.364836148429
+      ],
+      "angle": 90,
+      "radius": 403.36483614842905,
+      "uniform_scale": 0.3111111111111111,
+      "width": 112.0,
+      "height": 80.88888888888889,
+      "source_size": [
+        360,
+        260
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        145.9967632466287,
+        341.3298877923859
+      ],
+      "angle": -155,
+      "radius": 403.839889702471,
+      "uniform_scale": 0.42245614035087714,
+      "width": 120.39999999999999,
+      "height": 116.17543859649122,
+      "source_size": [
+        285,
+        275
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        881.3744608887109,
+        684.24213983928
+      ],
+      "angle": 25,
+      "radius": 407.55962397327824,
+      "uniform_scale": 0.42245614035087714,
+      "width": 120.39999999999999,
+      "height": 116.17543859649122,
+      "source_size": [
+        285,
+        275
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 2,
+      "center": [
+        889.9052107417415,
+        335.77990617444726
+      ],
+      "angle": -25,
+      "radius": 416.9722649933047,
+      "uniform_scale": 0.33967213114754097,
+      "width": 103.6,
+      "height": 83.89901639344262,
+      "source_size": [
+        305,
+        247
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 2,
+      "center": [
+        133.95899565454516,
+        688.2834154228927
+      ],
+      "angle": 155,
+      "radius": 417.12209665717825,
+      "uniform_scale": 0.33967213114754097,
+      "width": 103.6,
+      "height": 83.89901639344262,
+      "source_size": [
+        305,
+        247
+      ],
+      "aspect_ratio_preserved": true
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}

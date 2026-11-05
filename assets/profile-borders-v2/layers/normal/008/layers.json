@@ -1,0 +1,56 @@
+{
+  "id": 8,
+  "tier": "normal",
+  "frame": "layers/normal/008/frame.png",
+  "frame_sha256": "2b29a2493b2e1a21e9380fe752420a28017aad78dbda9dd456c900b4273c1123",
+  "ornaments": [
+    {
+      "name": "one small sewing needle with a short loop of red thread",
+      "file": "layers/normal/008/ornament_01.png",
+      "sha256": "9dc72de8d677ff153a94f56f52cc8cb0852b2a828f95d2f490fb9c38f25d4a11",
+      "source_size": [
+        246,
+        214
+      ],
+      "atlas": "normal-01",
+      "atlas_cell": 7,
+      "source_cell_box": [
+        418,
+        836,
+        836,
+        1254
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        96,
+        108,
+        326,
+        306
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        915.9936473594918
+      ],
+      "angle": 90,
+      "radius": 403.9936473594918,
+      "uniform_scale": 0.3756097560975609,
+      "width": 92.39999999999999,
+      "height": 80.38048780487804,
+      "source_size": [
+        246,
+        214
+      ],
+      "aspect_ratio_preserved": true
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}

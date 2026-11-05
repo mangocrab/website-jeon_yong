@@ -1,0 +1,90 @@
+{
+  "id": 24,
+  "tier": "normal",
+  "frame": "layers/normal/024/frame.png",
+  "frame_sha256": "f3183d3df1bd44668f5cc5fd1526df078e75fa918a8df0fc54f99c93b5432701",
+  "ornaments": [
+    {
+      "name": "one small musical quaver note",
+      "file": "layers/normal/024/ornament_01.png",
+      "sha256": "631ffcd57321227bc418b4c47a2ee57fc6a8eccba4d0787a39f47ff0753cb0fc",
+      "source_size": [
+        220,
+        251
+      ],
+      "atlas": "normal-03",
+      "atlas_cell": 5,
+      "source_cell_box": [
+        836,
+        418,
+        1254,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        93,
+        102,
+        297,
+        337
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        863.2352210264746,
+        309.21425059148726
+      ],
+      "angle": -30,
+      "radius": 405.57149881702554,
+      "uniform_scale": 0.2900398406374502,
+      "width": 63.808764940239044,
+      "height": 72.8,
+      "source_size": [
+        220,
+        251
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        912.9346325452966
+      ],
+      "angle": 90,
+      "radius": 400.9346325452966,
+      "uniform_scale": 0.2900398406374502,
+      "width": 63.808764940239044,
+      "height": 72.8,
+      "source_size": [
+        220,
+        251
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 0,
+      "center": [
+        174.96821206204328,
+        317.41460650855976
+      ],
+      "angle": 210,
+      "radius": 389.1707869828804,
+      "uniform_scale": 0.2900398406374502,
+      "width": 63.808764940239044,
+      "height": 72.8,
+      "source_size": [
+        220,
+        251
+      ],
+      "aspect_ratio_preserved": true
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}

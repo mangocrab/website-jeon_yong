@@ -1,0 +1,73 @@
+{
+  "id": 4,
+  "tier": "normal",
+  "frame": "layers/normal/004/frame.png",
+  "frame_sha256": "9e6392a131d03401e3d1fcd4a88d317f2774b5e906e9ef4ac3e935b4e93ebdb2",
+  "ornaments": [
+    {
+      "name": "one fluffy white cloud",
+      "file": "layers/normal/004/ornament_01.png",
+      "sha256": "d7fd01ebbe71e2f95d5de037717b2c41213f331eeff9c165fe7450521ffe27c6",
+      "source_size": [
+        278,
+        192
+      ],
+      "atlas": "normal-01",
+      "atlas_cell": 3,
+      "source_cell_box": [
+        0,
+        418,
+        418,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        99,
+        132,
+        361,
+        308
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        794.7412860395233,
+        229.25871396047677
+      ],
+      "angle": -45,
+      "radius": 399.85656135990445,
+      "uniform_scale": 0.2618705035971223,
+      "width": 72.8,
+      "height": 50.279136690647476,
+      "source_size": [
+        278,
+        192
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 0,
+      "center": [
+        213.0110830415906,
+        762.8814899458957
+      ],
+      "angle": 140,
+      "radius": 390.302311627071,
+      "uniform_scale": 0.2618705035971223,
+      "width": 72.8,
+      "height": 50.279136690647476,
+      "source_size": [
+        278,
+        192
+      ],
+      "aspect_ratio_preserved": true
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}

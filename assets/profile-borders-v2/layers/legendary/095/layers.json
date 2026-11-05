@@ -1,0 +1,436 @@
+{
+  "id": 95,
+  "tier": "legendary",
+  "frame": "layers/legendary/095/frame.png",
+  "frame_sha256": "e9483ff53340be053d366c8117966aa55b6fedb61ea1da90667dccc8d3e71dca",
+  "ornaments": [
+    {
+      "name": "large violet portal keystone crystal",
+      "file": "layers/legendary/095/ornament_01.png",
+      "sha256": "613ea96d3fb02629381680c2556aa7a807822acf6f3966879a51650b5feb3532",
+      "source_size": [
+        293,
+        337
+      ],
+      "atlas": "legendary-05",
+      "atlas_cell": 0,
+      "source_cell_box": [
+        0,
+        0,
+        418,
+        418
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        86,
+        56,
+        363,
+        377
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "left teal dimensional glass shard",
+      "file": "layers/legendary/095/ornament_02.png",
+      "sha256": "3268d887ca915417f677627541a88f4ad5c2e2f74ffedc6801203377f39c1dc3",
+      "source_size": [
+        202,
+        285
+      ],
+      "atlas": "legendary-05",
+      "atlas_cell": 1,
+      "source_cell_box": [
+        418,
+        0,
+        836,
+        418
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        98,
+        94,
+        284,
+        363
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "right violet dimensional glass shard",
+      "file": "layers/legendary/095/ornament_03.png",
+      "sha256": "8ab616ed0d5a7e5fb53b6451a358a4cfb9b87ba4358d86b4d50699cff25b1c6e",
+      "source_size": [
+        203,
+        284
+      ],
+      "atlas": "legendary-05",
+      "atlas_cell": 2,
+      "source_cell_box": [
+        836,
+        0,
+        1254,
+        418
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        101,
+        94,
+        288,
+        362
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "left angular violet portal shard",
+      "file": "layers/legendary/095/ornament_04.png",
+      "sha256": "69aa4a91f0f10349cd7fa2e140e905e8d4b684ac035f6c1476eaad6812fd0e60",
+      "source_size": [
+        160,
+        278
+      ],
+      "atlas": "legendary-05",
+      "atlas_cell": 3,
+      "source_cell_box": [
+        0,
+        418,
+        418,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        154,
+        83,
+        298,
+        345
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "right angular teal portal shard",
+      "file": "layers/legendary/095/ornament_05.png",
+      "sha256": "e3d3ad95c77f11af9c64fac7a9dc3c1b20711ac58c57bf7d7eb2e0f2e496ead6",
+      "source_size": [
+        134,
+        278
+      ],
+      "atlas": "legendary-05",
+      "atlas_cell": 4,
+      "source_cell_box": [
+        418,
+        418,
+        836,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        165,
+        83,
+        283,
+        345
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "small teal triangular crystal",
+      "file": "layers/legendary/095/ornament_06.png",
+      "sha256": "f42a76b41ea600ebd5a05758e1e0df51bbd58ad60f6c7de45b8dd96dfef7a3dc",
+      "source_size": [
+        156,
+        142
+      ],
+      "atlas": "legendary-05",
+      "atlas_cell": 5,
+      "source_cell_box": [
+        836,
+        418,
+        1254,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        130,
+        139,
+        270,
+        265
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "small violet triangular crystal",
+      "file": "layers/legendary/095/ornament_07.png",
+      "sha256": "e146cb01d9379558886d8f96d0cc97813012dd689b9c1c724a6e12dfac07aca4",
+      "source_size": [
+        154,
+        139
+      ],
+      "atlas": "legendary-05",
+      "atlas_cell": 6,
+      "source_cell_box": [
+        0,
+        836,
+        418,
+        1254
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        157,
+        141,
+        295,
+        264
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "bottom portal anchor crystal",
+      "file": "layers/legendary/095/ornament_08.png",
+      "sha256": "89f562ee93bd051edc53e5b9105a14ee3416c655496876024adbb225073fc768",
+      "source_size": [
+        222,
+        304
+      ],
+      "atlas": "legendary-05",
+      "atlas_cell": 7,
+      "source_cell_box": [
+        418,
+        836,
+        836,
+        1254
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        107,
+        56,
+        313,
+        344
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "small central opal",
+      "file": "layers/legendary/095/ornament_09.png",
+      "sha256": "0ed5908b89981df86301278eb12268d0943c99ae687f79b41d35a552f3282ac0",
+      "source_size": [
+        197,
+        226
+      ],
+      "atlas": "legendary-05",
+      "atlas_cell": 8,
+      "source_cell_box": [
+        836,
+        836,
+        1254,
+        1254
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        110,
+        98,
+        291,
+        308
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        87.00036866226708
+      ],
+      "angle": -90,
+      "radius": 424.9996313377329,
+      "uniform_scale": 0.36635467040208114,
+      "width": 107.34191842780977,
+      "height": 123.46152392550134,
+      "source_size": [
+        293,
+        337
+      ],
+      "aspect_ratio_preserved": true,
+      "joint": [
+        512.0,
+        87.00036866226708
+      ]
+    },
+    {
+      "part": 1,
+      "center": [
+        211.49060224936187,
+        211.4906022493618
+      ],
+      "angle": -135,
+      "radius": 424.98446591952336,
+      "uniform_scale": 0.3720021454722899,
+      "width": 75.14443338540255,
+      "height": 106.02061145960262,
+      "source_size": [
+        202,
+        285
+      ],
+      "aspect_ratio_preserved": true,
+      "joint": [
+        211.49060224936187,
+        211.4906022493618
+      ]
+    },
+    {
+      "part": 2,
+      "center": [
+        812.4132586200652,
+        211.58674137993484
+      ],
+      "angle": -45,
+      "radius": 424.8485046571923,
+      "uniform_scale": 0.3621126518162484,
+      "width": 73.50886831869843,
+      "height": 102.83999311581455,
+      "source_size": [
+        203,
+        284
+      ],
+      "aspect_ratio_preserved": true,
+      "joint": [
+        812.4132586200652,
+        211.58674137993484
+      ]
+    },
+    {
+      "part": 3,
+      "center": [
+        111.03413570150406,
+        512.0
+      ],
+      "angle": 180,
+      "radius": 400.96586429849594,
+      "uniform_scale": 0.5841726618705035,
+      "width": 93.46762589928056,
+      "height": 162.39999999999998,
+      "source_size": [
+        160,
+        278
+      ],
+      "aspect_ratio_preserved": true,
+      "joint": [
+        111.03413570150406,
+        512.0
+      ]
+    },
+    {
+      "part": 4,
+      "center": [
+        911.9635632210214,
+        512.0
+      ],
+      "angle": 0,
+      "radius": 399.96356322102145,
+      "uniform_scale": 0.5841726618705035,
+      "width": 78.27913669064748,
+      "height": 162.39999999999998,
+      "source_size": [
+        134,
+        278
+      ],
+      "aspect_ratio_preserved": true,
+      "joint": [
+        911.9635632210214,
+        512.0
+      ]
+    },
+    {
+      "part": 5,
+      "center": [
+        226.80216013834064,
+        797.1978398616594
+      ],
+      "angle": 135,
+      "radius": 403.33065309186884,
+      "uniform_scale": 0.8671452153876253,
+      "width": 135.27465360046955,
+      "height": 123.1346205850428,
+      "source_size": [
+        156,
+        142
+      ],
+      "aspect_ratio_preserved": true,
+      "joint": [
+        226.80216013834064,
+        797.1978398616594
+      ]
+    },
+    {
+      "part": 6,
+      "center": [
+        797.1558670845952,
+        797.1558670845952
+      ],
+      "angle": 45,
+      "radius": 403.27129462129426,
+      "uniform_scale": 0.8784068415614906,
+      "width": 135.27465360046955,
+      "height": 122.0985509770472,
+      "source_size": [
+        154,
+        139
+      ],
+      "aspect_ratio_preserved": true,
+      "joint": [
+        797.1558670845952,
+        797.1558670845952
+      ]
+    },
+    {
+      "part": 7,
+      "center": [
+        512.0,
+        937.2028421823625
+      ],
+      "angle": 90,
+      "radius": 425.2028421823625,
+      "uniform_scale": 0.40612343396546485,
+      "width": 90.1594023403332,
+      "height": 123.46152392550131,
+      "source_size": [
+        222,
+        304
+      ],
+      "aspect_ratio_preserved": true,
+      "joint": [
+        512.0,
+        937.2028421823625
+      ]
+    },
+    {
+      "part": 8,
+      "center": [
+        512.0,
+        113.92743362831857
+      ],
+      "angle": -90,
+      "radius": 398.07256637168143,
+      "uniform_scale": 0.29734513274336277,
+      "width": 58.57699115044247,
+      "height": 67.19999999999999,
+      "source_size": [
+        197,
+        226
+      ],
+      "aspect_ratio_preserved": true,
+      "joint": [
+        512.0,
+        113.92743362831857
+      ]
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}

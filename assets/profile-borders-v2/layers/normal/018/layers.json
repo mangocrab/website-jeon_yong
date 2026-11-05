@@ -1,0 +1,56 @@
+{
+  "id": 18,
+  "tier": "normal",
+  "frame": "layers/normal/018/frame.png",
+  "frame_sha256": "7cf21e5b48b9c201049041eaa502f8cce5a698fe874ffcb909e360848eb63e56",
+  "ornaments": [
+    {
+      "name": "one small white paper airplane",
+      "file": "layers/normal/018/ornament_01.png",
+      "sha256": "6ccdea76db9ae3e01e6c21f45e664af2b764787abb0b5e56944e53c5f1f3ac50",
+      "source_size": [
+        277,
+        208
+      ],
+      "atlas": "normal-02",
+      "atlas_cell": 8,
+      "source_cell_box": [
+        836,
+        836,
+        1254,
+        1254
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        62,
+        92,
+        323,
+        284
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        113.55103838213722
+      ],
+      "angle": -90,
+      "radius": 398.4489616178628,
+      "uniform_scale": 0.3335740072202166,
+      "width": 92.39999999999999,
+      "height": 69.38339350180505,
+      "source_size": [
+        277,
+        208
+      ],
+      "aspect_ratio_preserved": true
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}

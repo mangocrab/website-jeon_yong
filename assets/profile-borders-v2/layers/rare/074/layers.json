@@ -1,0 +1,193 @@
+{
+  "id": 74,
+  "tier": "rare",
+  "frame": "layers/rare/074/frame.png",
+  "frame_sha256": "40a660ebe5dd0bc5f357106aa0f8ac60c79eda8bb85b85971f8a1198eb021046",
+  "ornaments": [
+    {
+      "name": "one glowing green firefly",
+      "file": "layers/rare/074/ornament_01.png",
+      "sha256": "8796d4b2fdb00995bc9445bcbbcde61d0e74f3923c95704f2e31d9c91adacdf0",
+      "source_size": [
+        259,
+        242
+      ],
+      "atlas": "rare-07",
+      "atlas_cell": 0,
+      "source_cell_box": [
+        0,
+        0,
+        418,
+        418
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        113,
+        114,
+        356,
+        340
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "one green leafy sprig",
+      "file": "layers/rare/074/ornament_02.png",
+      "sha256": "3fc7b8558ff963fbe12b84e0fa9272de0989485123a09de0ef1fb64963237f87",
+      "source_size": [
+        249,
+        285
+      ],
+      "atlas": "rare-07",
+      "atlas_cell": 1,
+      "source_cell_box": [
+        418,
+        0,
+        836,
+        418
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        95,
+        91,
+        328,
+        360
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "one tiny translucent fairy wing",
+      "file": "layers/rare/074/ornament_03.png",
+      "sha256": "3dbe23db9bdbda03e2e751d6edb021353af24c4e1f6002457322f9179ba96e78",
+      "source_size": [
+        230,
+        257
+      ],
+      "atlas": "rare-07",
+      "atlas_cell": 2,
+      "source_cell_box": [
+        836,
+        0,
+        1254,
+        418
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        92,
+        103,
+        306,
+        344
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        87.41120733443205
+      ],
+      "angle": -90,
+      "radius": 424.58879266556795,
+      "uniform_scale": 0.5168195863783782,
+      "width": 133.85627287199995,
+      "height": 125.07033990356753,
+      "source_size": [
+        259,
+        242
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        927.6476240016838
+      ],
+      "angle": 90,
+      "radius": 415.64762400168377,
+      "uniform_scale": 0.43243243243243246,
+      "width": 112.0,
+      "height": 104.64864864864866,
+      "source_size": [
+        259,
+        242
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        135.3851249761559,
+        336.3815996012938
+      ],
+      "angle": -155,
+      "radius": 415.548537054128,
+      "uniform_scale": 0.42245614035087714,
+      "width": 105.19157894736841,
+      "height": 120.39999999999999,
+      "source_size": [
+        249,
+        285
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        876.6000882975475,
+        682.0158133371351
+      ],
+      "angle": 25,
+      "radius": 402.29168667928866,
+      "uniform_scale": 0.42245614035087714,
+      "width": 105.19157894736841,
+      "height": 120.39999999999999,
+      "source_size": [
+        249,
+        285
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 2,
+      "center": [
+        892.0300438342906,
+        334.78908023109045
+      ],
+      "angle": -25,
+      "radius": 419.3167589091042,
+      "uniform_scale": 0.403112840466926,
+      "width": 92.71595330739298,
+      "height": 103.6,
+      "source_size": [
+        230,
+        257
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 2,
+      "center": [
+        128.76279023626608,
+        690.7064458027828
+      ],
+      "angle": 155,
+      "radius": 422.8554749781007,
+      "uniform_scale": 0.403112840466926,
+      "width": 92.71595330739298,
+      "height": 103.6,
+      "source_size": [
+        230,
+        257
+      ],
+      "aspect_ratio_preserved": true
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}

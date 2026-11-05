@@ -1,0 +1,56 @@
+{
+  "id": 7,
+  "tier": "normal",
+  "frame": "layers/normal/007/frame.png",
+  "frame_sha256": "5eb36a19d84b45e57a28e6cab7378334fb6f81383de412ad4c1ad40761a14797",
+  "ornaments": [
+    {
+      "name": "one square folded blue gingham fabric patch",
+      "file": "layers/normal/007/ornament_01.png",
+      "sha256": "15fd798b3b3110022ecde1451155da67e16c8e406e4eaf5f5f6ddc4e0f61092b",
+      "source_size": [
+        254,
+        234
+      ],
+      "atlas": "normal-01",
+      "atlas_cell": 6,
+      "source_cell_box": [
+        0,
+        836,
+        418,
+        1254
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        102,
+        102,
+        340,
+        320
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        917.931229411173
+      ],
+      "angle": 90,
+      "radius": 405.931229411173,
+      "uniform_scale": 0.36377952755905507,
+      "width": 92.39999999999999,
+      "height": 85.12440944881888,
+      "source_size": [
+        254,
+        234
+      ],
+      "aspect_ratio_preserved": true
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}

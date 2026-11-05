@@ -1,0 +1,56 @@
+{
+  "id": 27,
+  "tier": "normal",
+  "frame": "layers/normal/027/frame.png",
+  "frame_sha256": "bbfe00223c7b5e781ccb167d5c5cb58a58dd0e49323747d8e855c4de1746817c",
+  "ornaments": [
+    {
+      "name": "one round chocolate chip cookie",
+      "file": "layers/normal/027/ornament_01.png",
+      "sha256": "521782776f0efc113ca0642e6cb81f6b8f46f7e3baab3be2377b49cad678b46d",
+      "source_size": [
+        254,
+        246
+      ],
+      "atlas": "normal-03",
+      "atlas_cell": 8,
+      "source_cell_box": [
+        836,
+        836,
+        1254,
+        1254
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        72,
+        92,
+        310,
+        322
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        920.2813171513417
+      ],
+      "angle": 90,
+      "radius": 408.2813171513416,
+      "uniform_scale": 0.36377952755905507,
+      "width": 92.39999999999999,
+      "height": 89.48976377952755,
+      "source_size": [
+        254,
+        246
+      ],
+      "aspect_ratio_preserved": true
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}

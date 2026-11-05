@@ -1,0 +1,436 @@
+{
+  "id": 93,
+  "tier": "legendary",
+  "frame": "layers/legendary/093/frame.png",
+  "frame_sha256": "c59a9aececff296e117f344a7d999604bdc4eab09357c63fc7b8fc9d73509507",
+  "ornaments": [
+    {
+      "name": "black sun medallion with red eclipse rim",
+      "file": "layers/legendary/093/ornament_01.png",
+      "sha256": "fd91b19882855114baa706951d9e5d3f9556a3038fcdcc720d6a43bd321cfd6f",
+      "source_size": [
+        294,
+        308
+      ],
+      "atlas": "legendary-03",
+      "atlas_cell": 0,
+      "source_cell_box": [
+        0,
+        0,
+        418,
+        418
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        79,
+        72,
+        357,
+        364
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "left gold corona plume",
+      "file": "layers/legendary/093/ornament_02.png",
+      "sha256": "8784fc89acd2c932d3b5cc7a3172a423e8de462c38b583037ef986df0e49c94c",
+      "source_size": [
+        210,
+        304
+      ],
+      "atlas": "legendary-03",
+      "atlas_cell": 1,
+      "source_cell_box": [
+        418,
+        0,
+        836,
+        418
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        81,
+        80,
+        275,
+        368
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "right gold corona plume",
+      "file": "layers/legendary/093/ornament_03.png",
+      "sha256": "166d5606cb11760c391ca5a67adc4f92879b40b6cebb6792ecc431902ab90cee",
+      "source_size": [
+        208,
+        306
+      ],
+      "atlas": "legendary-03",
+      "atlas_cell": 2,
+      "source_cell_box": [
+        836,
+        0,
+        1254,
+        418
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        141,
+        80,
+        333,
+        370
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "left red solar flame",
+      "file": "layers/legendary/093/ornament_04.png",
+      "sha256": "7fa39c03cacdb0c5f44ea2b16ca28eceb5d14d70c7f1a48bd71be10fba6f8ff2",
+      "source_size": [
+        245,
+        289
+      ],
+      "atlas": "legendary-03",
+      "atlas_cell": 3,
+      "source_cell_box": [
+        0,
+        418,
+        418,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        100,
+        77,
+        329,
+        350
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "right red solar flame",
+      "file": "layers/legendary/093/ornament_05.png",
+      "sha256": "04bd059ea6b5b7ed349197ab68ed1fcf481b394002f64bc5886e0d3c1ed50c1f",
+      "source_size": [
+        252,
+        287
+      ],
+      "atlas": "legendary-03",
+      "atlas_cell": 4,
+      "source_cell_box": [
+        418,
+        418,
+        836,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        89,
+        76,
+        325,
+        347
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "small dark red crystal",
+      "file": "layers/legendary/093/ornament_06.png",
+      "sha256": "008fd208b2e3308d05a904826ad9be01a32f69c3f7b16cf8b3d6a8a12444632e",
+      "source_size": [
+        106,
+        216
+      ],
+      "atlas": "legendary-03",
+      "atlas_cell": 5,
+      "source_cell_box": [
+        836,
+        418,
+        1254,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        163,
+        111,
+        253,
+        311
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "small golden solar crystal",
+      "file": "layers/legendary/093/ornament_07.png",
+      "sha256": "3cb2c2a5b54672897d45b8aff9d6f324b4c07103937ca2deaeb9a489d0817f5b",
+      "source_size": [
+        102,
+        204
+      ],
+      "atlas": "legendary-03",
+      "atlas_cell": 6,
+      "source_cell_box": [
+        0,
+        836,
+        418,
+        1254
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        174,
+        113,
+        260,
+        301
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "bottom eclipse pendant",
+      "file": "layers/legendary/093/ornament_08.png",
+      "sha256": "801d18b0b2c1f675ed887c2f5043690b48f22781d36f910f36d1036537797d30",
+      "source_size": [
+        259,
+        309
+      ],
+      "atlas": "legendary-03",
+      "atlas_cell": 7,
+      "source_cell_box": [
+        418,
+        836,
+        836,
+        1254
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        87,
+        54,
+        330,
+        347
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "small crimson sun jewel",
+      "file": "layers/legendary/093/ornament_09.png",
+      "sha256": "17d1598558932df8aec5837b160872d0c41dc42ebc8265de44e98a3fa88b6237",
+      "source_size": [
+        229,
+        225
+      ],
+      "atlas": "legendary-03",
+      "atlas_cell": 8,
+      "source_cell_box": [
+        836,
+        836,
+        1254,
+        1254
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        101,
+        96,
+        314,
+        305
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        86.80000942738081
+      ],
+      "angle": -90,
+      "radius": 425.1999905726192,
+      "uniform_scale": 0.4008491036542251,
+      "width": 117.84963647434218,
+      "height": 123.46152392550133,
+      "source_size": [
+        294,
+        308
+      ],
+      "aspect_ratio_preserved": true,
+      "joint": [
+        512.0,
+        86.80000942738081
+      ]
+    },
+    {
+      "part": 1,
+      "center": [
+        204.6325178836309,
+        204.6325178836309
+      ],
+      "angle": -135,
+      "radius": 434.68326184143893,
+      "uniform_scale": 0.4316329407646561,
+      "width": 90.64291756057777,
+      "height": 131.21641399245544,
+      "source_size": [
+        210,
+        304
+      ],
+      "aspect_ratio_preserved": true,
+      "joint": [
+        243.21386228121017,
+        260.9606166534185
+      ]
+    },
+    {
+      "part": 2,
+      "center": [
+        819.1115686507378,
+        204.88843134926225
+      ],
+      "angle": -45,
+      "radius": 434.3213455475492,
+      "uniform_scale": 0.42881181043286093,
+      "width": 89.19285657003508,
+      "height": 131.21641399245544,
+      "source_size": [
+        208,
+        306
+      ],
+      "aspect_ratio_preserved": true,
+      "joint": [
+        781.0252833059283,
+        260.53650947589034
+      ]
+    },
+    {
+      "part": 3,
+      "center": [
+        89.21200970760651,
+        512.0
+      ],
+      "angle": 180,
+      "radius": 422.7879902923935,
+      "uniform_scale": 0.5287271972318338,
+      "width": 129.5381633217993,
+      "height": 152.80215999999996,
+      "source_size": [
+        245,
+        289
+      ],
+      "aspect_ratio_preserved": true,
+      "joint": [
+        146.17540827253094,
+        554.8547307230011
+      ]
+    },
+    {
+      "part": 4,
+      "center": [
+        934.3211513335566,
+        512.0
+      ],
+      "angle": 0,
+      "radius": 422.3211513335566,
+      "uniform_scale": 0.500946175414634,
+      "width": 126.23843620448778,
+      "height": 143.77155234399996,
+      "source_size": [
+        252,
+        287
+      ],
+      "aspect_ratio_preserved": true,
+      "joint": [
+        878.7717865486893,
+        554.9978800564227
+      ]
+    },
+    {
+      "part": 5,
+      "center": [
+        216.52622568232266,
+        807.4737743176773
+      ],
+      "angle": 135,
+      "radius": 417.8630189656264,
+      "uniform_scale": 0.7518518518518518,
+      "width": 79.69629629629628,
+      "height": 162.39999999999998,
+      "source_size": [
+        106,
+        216
+      ],
+      "aspect_ratio_preserved": true,
+      "joint": [
+        224.9956156605362,
+        744.0244279124485
+      ]
+    },
+    {
+      "part": 6,
+      "center": [
+        805.1186667856709,
+        805.1186667856709
+      ],
+      "angle": 45,
+      "radius": 414.53239395301597,
+      "uniform_scale": 0.7960784313725489,
+      "width": 81.19999999999999,
+      "height": 162.39999999999998,
+      "source_size": [
+        102,
+        204
+      ],
+      "aspect_ratio_preserved": true,
+      "joint": [
+        802.8261624421614,
+        739.4522731396052
+      ]
+    },
+    {
+      "part": 7,
+      "center": [
+        512.0,
+        936.9999177104568
+      ],
+      "angle": 90,
+      "radius": 424.99991771045677,
+      "uniform_scale": 0.399551857364082,
+      "width": 103.48393105729724,
+      "height": 123.46152392550134,
+      "source_size": [
+        259,
+        309
+      ],
+      "aspect_ratio_preserved": true,
+      "joint": [
+        512.0,
+        936.9999177104568
+      ]
+    },
+    {
+      "part": 8,
+      "center": [
+        512.0,
+        114.48122270742357
+      ],
+      "angle": -90,
+      "radius": 397.51877729257643,
+      "uniform_scale": 0.2934497816593886,
+      "width": 67.19999999999999,
+      "height": 66.02620087336244,
+      "source_size": [
+        229,
+        225
+      ],
+      "aspect_ratio_preserved": true,
+      "joint": [
+        512.0,
+        114.48122270742357
+      ]
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}

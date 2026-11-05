@@ -1,0 +1,90 @@
+{
+  "id": 10,
+  "tier": "normal",
+  "frame": "layers/normal/010/frame.png",
+  "frame_sha256": "1cc1999b377ecbabc3eab8e700fa51ec86d259731b5a75fe34cb7f3e9c0d6c74",
+  "ornaments": [
+    {
+      "name": "one small five-point gold star",
+      "file": "layers/normal/010/ornament_01.png",
+      "sha256": "09af6a46391c143446958dd999021e718be9a11c7e7bb16aaec4b5ada1961fb2",
+      "source_size": [
+        241,
+        232
+      ],
+      "atlas": "normal-02",
+      "atlas_cell": 0,
+      "source_cell_box": [
+        0,
+        0,
+        418,
+        418
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        124,
+        130,
+        349,
+        346
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        714.7133424790158,
+        160.89019145423447
+      ],
+      "angle": -60,
+      "radius": 405.42668495803144,
+      "uniform_scale": 0.3020746887966805,
+      "width": 72.8,
+      "height": 70.08132780082987,
+      "source_size": [
+        241,
+        232
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 0,
+      "center": [
+        791.8310731694637,
+        791.8310731694637
+      ],
+      "angle": 45,
+      "radius": 395.74089884967344,
+      "uniform_scale": 0.3020746887966805,
+      "width": 72.8,
+      "height": 70.08132780082987,
+      "source_size": [
+        241,
+        232
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 0,
+      "center": [
+        116.55108163339412,
+        581.7283138000118
+      ],
+      "angle": 170,
+      "radius": 401.54935535088515,
+      "uniform_scale": 0.3020746887966805,
+      "width": 72.8,
+      "height": 70.08132780082987,
+      "source_size": [
+        241,
+        232
+      ],
+      "aspect_ratio_preserved": true
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}

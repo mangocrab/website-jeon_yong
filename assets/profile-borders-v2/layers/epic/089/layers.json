@@ -1,0 +1,227 @@
+{
+  "id": 89,
+  "tier": "epic",
+  "frame": "layers/epic/089/frame.png",
+  "frame_sha256": "1811bc4315db87056d53753957e55ef73186323107c6bf7cc939da9631ec6619",
+  "ornaments": [
+    {
+      "name": "one black dragon horn",
+      "file": "layers/epic/089/ornament_01.png",
+      "sha256": "b1e544f1f128c56070b3f1814ab70515b1a5f40ff2dc471df5095aabdd22dedc",
+      "source_size": [
+        242,
+        339
+      ],
+      "atlas": "epic-05",
+      "atlas_cell": 3,
+      "source_cell_box": [
+        0,
+        418,
+        418,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        103,
+        47,
+        329,
+        370
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "one dark dragon scale plate",
+      "file": "layers/epic/089/ornament_02.png",
+      "sha256": "b3abcdaee493413b37fc30911612a9c06ed6f943daeb580ef86d8b68a6e90b47",
+      "source_size": [
+        243,
+        309
+      ],
+      "atlas": "epic-05",
+      "atlas_cell": 4,
+      "source_cell_box": [
+        418,
+        418,
+        836,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        98,
+        61,
+        325,
+        354
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "one violet flame",
+      "file": "layers/epic/089/ornament_03.png",
+      "sha256": "3ea884cff09a2f8f02cf4500421f61d6370c89cbfdf7775a160bb0eef37bccc3",
+      "source_size": [
+        251,
+        329
+      ],
+      "atlas": "epic-05",
+      "atlas_cell": 5,
+      "source_cell_box": [
+        836,
+        418,
+        1254,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        87,
+        53,
+        322,
+        366
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        87.25431579902681
+      ],
+      "angle": -90,
+      "radius": 424.7456842009732,
+      "uniform_scale": 0.362510202831359,
+      "width": 87.72746908518887,
+      "height": 122.8909587598307,
+      "source_size": [
+        242,
+        339
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        935.7574845918057
+      ],
+      "angle": 90,
+      "radius": 423.75748459180573,
+      "uniform_scale": 0.35516224188790557,
+      "width": 85.94926253687315,
+      "height": 120.39999999999999,
+      "source_size": [
+        242,
+        339
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        204.0672865129631,
+        253.61377368560818
+      ],
+      "angle": -140,
+      "radius": 401.9776088098461,
+      "uniform_scale": 0.3896440129449838,
+      "width": 94.68349514563106,
+      "height": 120.39999999999999,
+      "source_size": [
+        243,
+        309
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        835.7827288543832,
+        240.31403163671382
+      ],
+      "angle": -40,
+      "radius": 422.6683344064085,
+      "uniform_scale": 0.3896440129449838,
+      "width": 94.68349514563106,
+      "height": 120.39999999999999,
+      "source_size": [
+        243,
+        309
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        825.1889861578327,
+        774.7967627738237
+      ],
+      "angle": 40,
+      "radius": 408.83918546902095,
+      "uniform_scale": 0.3896440129449838,
+      "width": 94.68349514563106,
+      "height": 120.39999999999999,
+      "source_size": [
+        243,
+        309
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        189.6604982336196,
+        782.4749570460381
+      ],
+      "angle": 140,
+      "radius": 420.78433524556795,
+      "uniform_scale": 0.3896440129449838,
+      "width": 94.68349514563106,
+      "height": 120.39999999999999,
+      "source_size": [
+        243,
+        309
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 2,
+      "center": [
+        921.0410834918821,
+        512.0
+      ],
+      "angle": 0,
+      "radius": 409.0410834918821,
+      "uniform_scale": 0.3659574468085106,
+      "width": 91.85531914893616,
+      "height": 120.39999999999999,
+      "source_size": [
+        251,
+        329
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 2,
+      "center": [
+        102.30701788265935,
+        512.0
+      ],
+      "angle": 180,
+      "radius": 409.69298211734065,
+      "uniform_scale": 0.3659574468085106,
+      "width": 91.85531914893616,
+      "height": 120.39999999999999,
+      "source_size": [
+        251,
+        329
+      ],
+      "aspect_ratio_preserved": true
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}

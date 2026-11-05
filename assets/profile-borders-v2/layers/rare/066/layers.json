@@ -1,0 +1,193 @@
+{
+  "id": 66,
+  "tier": "rare",
+  "frame": "layers/rare/066/frame.png",
+  "frame_sha256": "dbddefe3c033d3c07eb74acb3e5cd11d92d28e6dd4c6a8fc67786d6651092dc5",
+  "ornaments": [
+    {
+      "name": "one blue ice crystal cluster",
+      "file": "layers/rare/066/ornament_01.png",
+      "sha256": "028c4ef1f6d4417e45df8cfa4c71394be77351bee34ea73fe5c735861add78f8",
+      "source_size": [
+        256,
+        288
+      ],
+      "atlas": "rare-04",
+      "atlas_cell": 3,
+      "source_cell_box": [
+        0,
+        418,
+        418,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        100,
+        74,
+        340,
+        346
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "one hexagonal snowflake",
+      "file": "layers/rare/066/ornament_02.png",
+      "sha256": "f69a9c7a30ee4c6e3f2b11fc87bfd16285cb683b428388e2edcdb7e10da1ecfd",
+      "source_size": [
+        286,
+        297
+      ],
+      "atlas": "rare-04",
+      "atlas_cell": 4,
+      "source_cell_box": [
+        418,
+        418,
+        836,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        76,
+        68,
+        346,
+        349
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "one icicle",
+      "file": "layers/rare/066/ornament_03.png",
+      "sha256": "eb30bae38f8ce77b154883c58315d67f1a43f92c5fda00311bd747e164775f25",
+      "source_size": [
+        151,
+        304
+      ],
+      "atlas": "rare-04",
+      "atlas_cell": 5,
+      "source_cell_box": [
+        836,
+        418,
+        1254,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        132,
+        68,
+        267,
+        356
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        87.32266914084477
+      ],
+      "angle": -90,
+      "radius": 424.67733085915523,
+      "uniform_scale": 0.43731030258772485,
+      "width": 111.95143746245756,
+      "height": 125.94536714526475,
+      "source_size": [
+        256,
+        288
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        931.5986672495357
+      ],
+      "angle": 90,
+      "radius": 419.59866724953565,
+      "uniform_scale": 0.3888888888888889,
+      "width": 99.55555555555556,
+      "height": 112.0,
+      "source_size": [
+        256,
+        288
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        126.00364014874009,
+        332.00694138140483
+      ],
+      "angle": -155,
+      "radius": 425.89986025978027,
+      "uniform_scale": 0.3932255892255892,
+      "width": 112.46251851851851,
+      "height": 116.788,
+      "source_size": [
+        286,
+        297
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        896.2759919854516,
+        691.1908379079249
+      ],
+      "angle": 25,
+      "radius": 424.00164434415467,
+      "uniform_scale": 0.3932255892255892,
+      "width": 112.46251851851851,
+      "height": 116.788,
+      "source_size": [
+        286,
+        297
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 2,
+      "center": [
+        861.0048198585919,
+        349.25637976693287
+      ],
+      "angle": -25,
+      "radius": 385.08421184345247,
+      "uniform_scale": 0.34078947368421053,
+      "width": 51.45921052631579,
+      "height": 103.6,
+      "source_size": [
+        151,
+        304
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 2,
+      "center": [
+        145.7011698833125,
+        682.8079496566282
+      ],
+      "angle": 155,
+      "radius": 404.16604089254594,
+      "uniform_scale": 0.34078947368421053,
+      "width": 51.45921052631579,
+      "height": 103.6,
+      "source_size": [
+        151,
+        304
+      ],
+      "aspect_ratio_preserved": true
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}

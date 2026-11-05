@@ -1,0 +1,56 @@
+{
+  "id": 19,
+  "tier": "normal",
+  "frame": "layers/normal/019/frame.png",
+  "frame_sha256": "f79bd9cc09e2450329bdc978eb53ae84a27aa3fa0ef9ee653b63d60adcbd1683",
+  "ornaments": [
+    {
+      "name": "one short wooden graphite pencil",
+      "file": "layers/normal/019/ornament_01.png",
+      "sha256": "50ef3f5955f3e8c0bfe0cb098d1d57f83efaa69c603634ae40cb4aa8e2fd2536",
+      "source_size": [
+        203,
+        267
+      ],
+      "atlas": "normal-03",
+      "atlas_cell": 0,
+      "source_cell_box": [
+        0,
+        0,
+        418,
+        418
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        138,
+        142,
+        325,
+        393
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        921.9406715265918
+      ],
+      "angle": 90,
+      "radius": 409.94067152659176,
+      "uniform_scale": 0.34606741573033706,
+      "width": 70.25168539325843,
+      "height": 92.39999999999999,
+      "source_size": [
+        203,
+        267
+      ],
+      "aspect_ratio_preserved": true
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}

@@ -1,0 +1,436 @@
+{
+  "id": 96,
+  "tier": "legendary",
+  "frame": "layers/legendary/096/frame.png",
+  "frame_sha256": "6caa9fcdf6313b2ab6b6d75e02b2658018603e1d6ca1c9b607c9d07025683970",
+  "ornaments": [
+    {
+      "name": "world tree crown of gold leaves and emerald",
+      "file": "layers/legendary/096/ornament_01.png",
+      "sha256": "5265b0d5a915d20e53eaa1fa69bf97294aab0fa2c4c4bee4d552910577e022f4",
+      "source_size": [
+        348,
+        254
+      ],
+      "atlas": "legendary-06",
+      "atlas_cell": 0,
+      "source_cell_box": [
+        0,
+        0,
+        418,
+        418
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        51,
+        99,
+        383,
+        337
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "left curved leafy tree branch",
+      "file": "layers/legendary/096/ornament_02.png",
+      "sha256": "59b38ff39994985f623f79a8d87fa84bd274abaf8d89bef1b5177ac569ec271e",
+      "source_size": [
+        341,
+        298
+      ],
+      "atlas": "legendary-06",
+      "atlas_cell": 1,
+      "source_cell_box": [
+        418,
+        0,
+        836,
+        418
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        39,
+        74,
+        364,
+        356
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "right curved leafy tree branch",
+      "file": "layers/legendary/096/ornament_03.png",
+      "sha256": "57aa11614c16eaa2cef37d3b144d44d77deaf32ba521ad215c411c0a2b700a34",
+      "source_size": [
+        326,
+        298
+      ],
+      "atlas": "legendary-06",
+      "atlas_cell": 2,
+      "source_cell_box": [
+        836,
+        0,
+        1254,
+        418
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        57,
+        74,
+        367,
+        356
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "left leafy gold sprig",
+      "file": "layers/legendary/096/ornament_04.png",
+      "sha256": "847323e61920457efee75fb6d0ddb7fb18ba5c17e5be353f50a5d52dfc76fa6f",
+      "source_size": [
+        223,
+        299
+      ],
+      "atlas": "legendary-06",
+      "atlas_cell": 3,
+      "source_cell_box": [
+        0,
+        418,
+        418,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        71,
+        78,
+        278,
+        361
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "right leafy emerald sprig",
+      "file": "layers/legendary/096/ornament_05.png",
+      "sha256": "94174bcc429cc0c9ae711f2d90c254752e5d8ff5b80df5139ec9a0c292f03b6e",
+      "source_size": [
+        226,
+        298
+      ],
+      "atlas": "legendary-06",
+      "atlas_cell": 4,
+      "source_cell_box": [
+        418,
+        418,
+        836,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        134,
+        79,
+        344,
+        361
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "left curling tree root",
+      "file": "layers/legendary/096/ornament_06.png",
+      "sha256": "d3ae52cd6a09770540ed6db850f0315cceab07a2aae12001ca9cd41a3c7ea86f",
+      "source_size": [
+        298,
+        293
+      ],
+      "atlas": "legendary-06",
+      "atlas_cell": 5,
+      "source_cell_box": [
+        836,
+        418,
+        1254,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        61,
+        79,
+        343,
+        356
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "right curling tree root",
+      "file": "layers/legendary/096/ornament_07.png",
+      "sha256": "581122d791522fac8b4c506ad007ee805ee94d42e5f1348c5c96fda8a7039c69",
+      "source_size": [
+        290,
+        296
+      ],
+      "atlas": "legendary-06",
+      "atlas_cell": 6,
+      "source_cell_box": [
+        0,
+        836,
+        418,
+        1254
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        78,
+        74,
+        352,
+        354
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "bottom entwined roots crest",
+      "file": "layers/legendary/096/ornament_08.png",
+      "sha256": "14cb392a50b222a07385d0db2bfbdc8d8b0cd4708914f425a1d8943d374d0661",
+      "source_size": [
+        364,
+        177
+      ],
+      "atlas": "legendary-06",
+      "atlas_cell": 7,
+      "source_cell_box": [
+        418,
+        836,
+        836,
+        1254
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        35,
+        156,
+        383,
+        317
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "small central emerald",
+      "file": "layers/legendary/096/ornament_09.png",
+      "sha256": "3a98554b046ab6612e23ba3448d1c4d04afa45ef2e1e50a9838e0e31838f1316",
+      "source_size": [
+        174,
+        199
+      ],
+      "atlas": "legendary-06",
+      "atlas_cell": 8,
+      "source_cell_box": [
+        836,
+        836,
+        1254,
+        1254
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        124,
+        112,
+        282,
+        295
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        91.49623870033747
+      ],
+      "angle": -90,
+      "radius": 420.50376129966253,
+      "uniform_scale": 0.4666666666666666,
+      "width": 162.39999999999998,
+      "height": 118.53333333333332,
+      "source_size": [
+        348,
+        254
+      ],
+      "aspect_ratio_preserved": true,
+      "joint": [
+        512.0,
+        91.49623870033747
+      ]
+    },
+    {
+      "part": 1,
+      "center": [
+        232.28453943209274,
+        232.28453943209274
+      ],
+      "angle": -135,
+      "radius": 395.57739794057113,
+      "uniform_scale": 0.4762463343108504,
+      "width": 162.39999999999998,
+      "height": 141.92140762463342,
+      "source_size": [
+        341,
+        298
+      ],
+      "aspect_ratio_preserved": true,
+      "joint": [
+        307.9662938627952,
+        204.46554159963065
+      ]
+    },
+    {
+      "part": 2,
+      "center": [
+        791.7118608661419,
+        232.28813913385818
+      ],
+      "angle": -45,
+      "radius": 395.572307193514,
+      "uniform_scale": 0.49815950920245394,
+      "width": 162.39999999999998,
+      "height": 148.45153374233126,
+      "source_size": [
+        326,
+        298
+      ],
+      "aspect_ratio_preserved": true,
+      "joint": [
+        716.1234812198048,
+        204.14212686391951
+      ]
+    },
+    {
+      "part": 3,
+      "center": [
+        96.49705902461278,
+        512.0
+      ],
+      "angle": 180,
+      "radius": 415.5029409753872,
+      "uniform_scale": 0.54314381270903,
+      "width": 121.12107023411369,
+      "height": 162.39999999999998,
+      "source_size": [
+        223,
+        299
+      ],
+      "aspect_ratio_preserved": true,
+      "joint": [
+        150.38710919183683,
+        584.9340301003344
+      ]
+    },
+    {
+      "part": 4,
+      "center": [
+        928.288380199624,
+        512.0
+      ],
+      "angle": 0,
+      "radius": 416.28838019962404,
+      "uniform_scale": 0.5449664429530201,
+      "width": 123.16241610738254,
+      "height": 162.39999999999998,
+      "source_size": [
+        226,
+        298
+      ],
+      "aspect_ratio_preserved": true,
+      "joint": [
+        873.7587076350522,
+        585.3145007118161
+      ]
+    },
+    {
+      "part": 5,
+      "center": [
+        213.09334545226375,
+        810.9066545477363
+      ],
+      "angle": 135,
+      "radius": 422.7178447449782,
+      "uniform_scale": 0.5449664429530201,
+      "width": 162.39999999999998,
+      "height": 159.6751677852349,
+      "source_size": [
+        298,
+        293
+      ],
+      "aspect_ratio_preserved": true,
+      "joint": [
+        260.3367458996911,
+        782.0883100287205
+      ]
+    },
+    {
+      "part": 6,
+      "center": [
+        808.6936602428809,
+        808.6936602428808
+      ],
+      "angle": 45,
+      "radius": 419.58819818559726,
+      "uniform_scale": 0.5486486486486486,
+      "width": 159.1081081081081,
+      "height": 162.39999999999998,
+      "source_size": [
+        290,
+        296
+      ],
+      "aspect_ratio_preserved": true,
+      "joint": [
+        765.2361151978357,
+        780.0039079906286
+      ]
+    },
+    {
+      "part": 7,
+      "center": [
+        512.0,
+        913.3345158614504
+      ],
+      "angle": 90,
+      "radius": 401.3345158614505,
+      "uniform_scale": 0.44615384615384607,
+      "width": 162.39999999999998,
+      "height": 78.96923076923075,
+      "source_size": [
+        364,
+        177
+      ],
+      "aspect_ratio_preserved": true,
+      "joint": [
+        512.0,
+        913.3345158614504
+      ]
+    },
+    {
+      "part": 8,
+      "center": [
+        512.0,
+        114.2703908113591
+      ],
+      "angle": -90,
+      "radius": 397.7296091886409,
+      "uniform_scale": 0.3376884422110552,
+      "width": 58.75778894472361,
+      "height": 67.19999999999999,
+      "source_size": [
+        174,
+        199
+      ],
+      "aspect_ratio_preserved": true,
+      "joint": [
+        512.0,
+        114.2703908113591
+      ]
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}

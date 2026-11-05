@@ -1,0 +1,56 @@
+{
+  "id": 29,
+  "tier": "normal",
+  "frame": "layers/normal/029/frame.png",
+  "frame_sha256": "8b7d7aed0e03316cc10ba3d755b629a5575be320dcafeec5ac627dfa3d021787",
+  "ornaments": [
+    {
+      "name": "one blue butterfly with complete wings",
+      "file": "layers/normal/029/ornament_01.png",
+      "sha256": "a7d48aded7519d616d0a4cecbd64f5bba8e23b2e88745187526ce986a558736e",
+      "source_size": [
+        267,
+        219
+      ],
+      "atlas": "normal-04",
+      "atlas_cell": 1,
+      "source_cell_box": [
+        418,
+        0,
+        836,
+        418
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        84,
+        127,
+        335,
+        330
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        801.5826417340627,
+        222.41735826593742
+      ],
+      "angle": -45,
+      "radius": 409.5316993681404,
+      "uniform_scale": 0.34606741573033706,
+      "width": 92.39999999999999,
+      "height": 75.78876404494382,
+      "source_size": [
+        267,
+        219
+      ],
+      "aspect_ratio_preserved": true
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}

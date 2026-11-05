@@ -1,0 +1,193 @@
+{
+  "id": 61,
+  "tier": "rare",
+  "frame": "layers/rare/061/frame.png",
+  "frame_sha256": "f6fe9918bfba2c9391fcb5b804e05ea6f1929db4bfa09a8ae6f061304d9d12ff",
+  "ornaments": [
+    {
+      "name": "one clear quartz cluster",
+      "file": "layers/rare/061/ornament_01.png",
+      "sha256": "294c2a031b312a22951ebe2a253a0e4fe72626a975a819b627e15f3b56ff569e",
+      "source_size": [
+        243,
+        294
+      ],
+      "atlas": "rare-02",
+      "atlas_cell": 6,
+      "source_cell_box": [
+        0,
+        836,
+        418,
+        1254
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        112,
+        59,
+        339,
+        337
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "one mystical blue leaf sprig",
+      "file": "layers/rare/061/ornament_02.png",
+      "sha256": "909530548ead7a62fda8866d399f21584c49cdfb3914ebf30d67808834ba3745",
+      "source_size": [
+        303,
+        297
+      ],
+      "atlas": "rare-02",
+      "atlas_cell": 7,
+      "source_cell_box": [
+        418,
+        836,
+        836,
+        1254
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        61,
+        60,
+        348,
+        341
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "one clear crystal point",
+      "file": "layers/rare/061/ornament_03.png",
+      "sha256": "02db7963fa83f5dde6c98924d5794c5d8d55a1ee0ea37a5f6f1bebf479810da6",
+      "source_size": [
+        135,
+        293
+      ],
+      "atlas": "rare-02",
+      "atlas_cell": 8,
+      "source_cell_box": [
+        836,
+        836,
+        1254,
+        1254
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        135,
+        65,
+        254,
+        342
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        87.15152489368899
+      ],
+      "angle": -90,
+      "radius": 424.848475106311,
+      "uniform_scale": 0.42838560253491414,
+      "width": 104.09770141598413,
+      "height": 125.94536714526475,
+      "source_size": [
+        243,
+        294
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        931.4594031165308
+      ],
+      "angle": 90,
+      "radius": 419.4594031165308,
+      "uniform_scale": 0.38095238095238093,
+      "width": 92.57142857142857,
+      "height": 112.0,
+      "source_size": [
+        243,
+        294
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        132.90848122485266,
+        335.22672165353936
+      ],
+      "angle": -155,
+      "radius": 418.28121108245244,
+      "uniform_scale": 0.3973597359735973,
+      "width": 120.39999999999998,
+      "height": 118.0158415841584,
+      "source_size": [
+        303,
+        297
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        890.7746765980496,
+        688.6255324128534
+      ],
+      "angle": 25,
+      "radius": 417.93161442044675,
+      "uniform_scale": 0.3973597359735973,
+      "width": 120.39999999999998,
+      "height": 118.0158415841584,
+      "source_size": [
+        303,
+        297
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 2,
+      "center": [
+        872.0584907153768,
+        344.10196839568937
+      ],
+      "angle": -25,
+      "radius": 397.2805881903081,
+      "uniform_scale": 0.35358361774744024,
+      "width": 47.73378839590443,
+      "height": 103.6,
+      "source_size": [
+        135,
+        293
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 2,
+      "center": [
+        152.67605721226096,
+        679.5555062803713
+      ],
+      "angle": 155,
+      "radius": 396.47010422653295,
+      "uniform_scale": 0.35358361774744024,
+      "width": 47.73378839590443,
+      "height": 103.6,
+      "source_size": [
+        135,
+        293
+      ],
+      "aspect_ratio_preserved": true
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}

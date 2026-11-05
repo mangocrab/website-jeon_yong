@@ -1,0 +1,244 @@
+{
+  "id": 38,
+  "tier": "premium",
+  "frame": "layers/premium/038/frame.png",
+  "frame_sha256": "77ead978aa8fbc32bfc7f75318bb6a5b4575fecf5eaae0866af81f2c22821bde",
+  "ornaments": [
+    {
+      "name": "one silver eight-point star",
+      "file": "layers/premium/038/ornament_01.png",
+      "sha256": "1cfe24dd9ec3e2e574f90574e477615e31242a2b27778f062a033b699d0cd10f",
+      "source_size": [
+        257,
+        268
+      ],
+      "atlas": "premium-03",
+      "atlas_cell": 3,
+      "source_cell_box": [
+        0,
+        418,
+        418,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        100,
+        83,
+        341,
+        335
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "one short blue constellation",
+      "file": "layers/premium/038/ornament_02.png",
+      "sha256": "8d6bc54ddbf91585a190595dbbfeea3fcea79acb94a29ccc151e5cc21c1a0edd",
+      "source_size": [
+        305,
+        199
+      ],
+      "atlas": "premium-03",
+      "atlas_cell": 4,
+      "source_cell_box": [
+        418,
+        418,
+        836,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        63,
+        119,
+        352,
+        302
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "three small silver star charms",
+      "file": "layers/premium/038/ornament_03.png",
+      "sha256": "a1061769d3f3a0ad8edafbaf5d7f24da6a99b9bfa87e54dc82e8d0a4c2ccc09e",
+      "source_size": [
+        283,
+        246
+      ],
+      "atlas": "premium-03",
+      "atlas_cell": 5,
+      "source_cell_box": [
+        836,
+        418,
+        1254,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        75,
+        95,
+        342,
+        325
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        87.01598425373135
+      ],
+      "angle": -90,
+      "radius": 424.98401574626865,
+      "uniform_scale": 0.4620240298507462,
+      "width": 118.74017567164178,
+      "height": 123.82243999999999,
+      "source_size": [
+        257,
+        268
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 0,
+      "center": [
+        877.088803306417,
+        722.7841188670782
+      ],
+      "angle": 30,
+      "radius": 421.5682377341564,
+      "uniform_scale": 0.49104477611940295,
+      "width": 126.19850746268656,
+      "height": 131.6,
+      "source_size": [
+        257,
+        268
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 0,
+      "center": [
+        147.08877478008628,
+        722.6815941110333
+      ],
+      "angle": 150,
+      "radius": 421.36318822206664,
+      "uniform_scale": 0.49104477611940295,
+      "width": 126.19850746268656,
+      "height": 131.6,
+      "source_size": [
+        257,
+        268
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        170.05236579691922,
+        314.57644134409566
+      ],
+      "angle": -150,
+      "radius": 394.84711731180874,
+      "uniform_scale": 0.3121311475409836,
+      "width": 95.19999999999999,
+      "height": 62.11409836065573,
+      "source_size": [
+        305,
+        199
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        873.6881296887283,
+        303.1792609615205
+      ],
+      "angle": -30,
+      "radius": 417.64147807695906,
+      "uniform_scale": 0.3121311475409836,
+      "width": 95.19999999999999,
+      "height": 62.11409836065573,
+      "source_size": [
+        305,
+        199
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        512.0,
+        905.4770230915565
+      ],
+      "angle": 90,
+      "radius": 393.4770230915565,
+      "uniform_scale": 0.3121311475409836,
+      "width": 95.19999999999999,
+      "height": 62.11409836065573,
+      "source_size": [
+        305,
+        199
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 2,
+      "center": [
+        375.9396106018522,
+        138.1771524463859
+      ],
+      "angle": -110,
+      "radius": 397.8139652102075,
+      "uniform_scale": 0.26713780918727914,
+      "width": 75.6,
+      "height": 65.71590106007066,
+      "source_size": [
+        283,
+        246
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 2,
+      "center": [
+        910.2421739351573,
+        582.2208401207616
+      ],
+      "angle": 10,
+      "radius": 404.38570138899036,
+      "uniform_scale": 0.26713780918727914,
+      "width": 75.6,
+      "height": 65.71590106007066,
+      "source_size": [
+        283,
+        246
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 2,
+      "center": [
+        253.9151185376234,
+        819.5735846770381
+      ],
+      "angle": 130,
+      "radius": 401.50879944346434,
+      "uniform_scale": 0.26713780918727914,
+      "width": 75.6,
+      "height": 65.71590106007066,
+      "source_size": [
+        283,
+        246
+      ],
+      "aspect_ratio_preserved": true
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}

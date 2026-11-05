@@ -1,0 +1,142 @@
+{
+  "id": 42,
+  "tier": "premium",
+  "frame": "layers/premium/042/frame.png",
+  "frame_sha256": "9af02221cd8cbcad87b2fcb5a71df8548e1d38a980474af62bc1609f12e0d18f",
+  "ornaments": [
+    {
+      "name": "one pair of floppy brown dog ears",
+      "file": "layers/premium/042/ornament_01.png",
+      "sha256": "bdfd81e4a4eda6f64023c5e0d8e7887caa1d9007187eaefde5ed8c76ccd5905b",
+      "source_size": [
+        352,
+        212
+      ],
+      "atlas": "premium-04",
+      "atlas_cell": 6,
+      "source_cell_box": [
+        0,
+        836,
+        418,
+        1254
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        47,
+        126,
+        383,
+        322
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "one small paw print",
+      "file": "layers/premium/042/ornament_02.png",
+      "sha256": "c40799537b64ca4b85f60263c28cace2defadbda9094cd032d239ec265586917",
+      "source_size": [
+        267,
+        231
+      ],
+      "atlas": "premium-04",
+      "atlas_cell": 7,
+      "source_cell_box": [
+        418,
+        836,
+        836,
+        1254
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        79,
+        111,
+        330,
+        326
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "one small leather collar tag",
+      "file": "layers/premium/042/ornament_03.png",
+      "sha256": "126f11fb325c8944500ac74f93c318d4c2c54be1c8b3f83d8c71b79d224e86d4",
+      "source_size": [
+        214,
+        245
+      ],
+      "atlas": "premium-04",
+      "atlas_cell": 8,
+      "source_cell_box": [
+        836,
+        836,
+        1254,
+        1254
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        103,
+        97,
+        301,
+        326
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        107.81060684886359
+      ],
+      "angle": -90,
+      "radius": 404.1893931511364,
+      "uniform_scale": 0.41363636363636364,
+      "width": 145.6,
+      "height": 87.69090909090909,
+      "source_size": [
+        352,
+        212
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        166.12703375294132,
+        754.1828582291429
+      ],
+      "angle": 145,
+      "radius": 422.23292813395796,
+      "uniform_scale": 0.4719101123595505,
+      "width": 125.99999999999999,
+      "height": 109.01123595505616,
+      "source_size": [
+        267,
+        231
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 2,
+      "center": [
+        845.2014535773876,
+        745.3101695373194
+      ],
+      "angle": 35,
+      "radius": 406.7638674656547,
+      "uniform_scale": 0.5142857142857142,
+      "width": 110.05714285714285,
+      "height": 125.99999999999999,
+      "source_size": [
+        214,
+        245
+      ],
+      "aspect_ratio_preserved": true
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}

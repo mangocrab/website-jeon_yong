@@ -1,0 +1,56 @@
+{
+  "id": 6,
+  "tier": "normal",
+  "frame": "layers/normal/006/frame.png",
+  "frame_sha256": "7310b0340bb906fbefac087a306b92b2bdd6f9d5046c63d60b6b39f8f98fb5f4",
+  "ornaments": [
+    {
+      "name": "one lemon slice and three soda bubbles",
+      "file": "layers/normal/006/ornament_01.png",
+      "sha256": "624e1c07d2484922bdccc3374a20d68037d3b0a4b76a2d812c5b8bde010638a2",
+      "source_size": [
+        244,
+        237
+      ],
+      "atlas": "normal-01",
+      "atlas_cell": 5,
+      "source_cell_box": [
+        836,
+        418,
+        1254,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        73,
+        108,
+        301,
+        329
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        919.4739254399744
+      ],
+      "angle": 90,
+      "radius": 407.4739254399744,
+      "uniform_scale": 0.3786885245901639,
+      "width": 92.39999999999999,
+      "height": 89.74918032786884,
+      "source_size": [
+        244,
+        237
+      ],
+      "aspect_ratio_preserved": true
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}

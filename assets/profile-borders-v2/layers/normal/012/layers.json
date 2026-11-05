@@ -1,0 +1,56 @@
+{
+  "id": 12,
+  "tier": "normal",
+  "frame": "layers/normal/012/frame.png",
+  "frame_sha256": "06d2223d7c434871da4134663471dd3b7c2cb12929ae806a4c4859fa1a37d038",
+  "ornaments": [
+    {
+      "name": "one white daisy flower",
+      "file": "layers/normal/012/ornament_01.png",
+      "sha256": "7c0dab72eb53d0e3e8654e1c783304f91df90cc60a32a50701a54969fac7b7be",
+      "source_size": [
+        255,
+        256
+      ],
+      "atlas": "normal-02",
+      "atlas_cell": 2,
+      "source_cell_box": [
+        836,
+        0,
+        1254,
+        418
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        75,
+        114,
+        314,
+        354
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        221.54143645333164,
+        221.54143645333164
+      ],
+      "angle": -135,
+      "radius": 410.77043987510586,
+      "uniform_scale": 0.36093749999999997,
+      "width": 92.03906249999999,
+      "height": 92.39999999999999,
+      "source_size": [
+        255,
+        256
+      ],
+      "aspect_ratio_preserved": true
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}

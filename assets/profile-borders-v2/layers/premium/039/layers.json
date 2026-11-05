@@ -1,0 +1,142 @@
+{
+  "id": 39,
+  "tier": "premium",
+  "frame": "layers/premium/039/frame.png",
+  "frame_sha256": "dbc4d7bbb7eed0d10577fe4b17e9a9b9145563f64a291d599b9863b2b7778fec",
+  "ornaments": [
+    {
+      "name": "one complete left fox ear",
+      "file": "layers/premium/039/ornament_01.png",
+      "sha256": "b68cef763335287b0834503247c4c02bd915d34327c6d7cb53f47a73dac49d59",
+      "source_size": [
+        230,
+        266
+      ],
+      "atlas": "premium-03",
+      "atlas_cell": 6,
+      "source_cell_box": [
+        0,
+        836,
+        418,
+        1254
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        104,
+        90,
+        318,
+        340
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "one complete right fox ear",
+      "file": "layers/premium/039/ornament_02.png",
+      "sha256": "40c6fa7a13992c431d025af6284b38ebf025e692dc7e8cb1a5afaf6a344cd46f",
+      "source_size": [
+        216,
+        265
+      ],
+      "atlas": "premium-03",
+      "atlas_cell": 7,
+      "source_cell_box": [
+        418,
+        836,
+        836,
+        1254
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        112,
+        90,
+        312,
+        339
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "one fluffy orange fox tail with white tip",
+      "file": "layers/premium/039/ornament_03.png",
+      "sha256": "8500c096f83f33e4f561cf1427aa5b330ac0973b6a0da3920cb9a22610c0aa75",
+      "source_size": [
+        316,
+        317
+      ],
+      "atlas": "premium-03",
+      "atlas_cell": 8,
+      "source_cell_box": [
+        836,
+        836,
+        1254,
+        1254
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        58,
+        58,
+        358,
+        359
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        273.12659662718136,
+        170.85342510940404
+      ],
+      "angle": -125,
+      "radius": 416.4630696694466,
+      "uniform_scale": 0.5003157894736842,
+      "width": 115.07263157894735,
+      "height": 133.08399999999997,
+      "source_size": [
+        230,
+        266
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        750.5410509578337,
+        171.32807354840065
+      ],
+      "angle": -55,
+      "radius": 415.8836309165242,
+      "uniform_scale": 0.5022037735849056,
+      "width": 108.47601509433962,
+      "height": 133.084,
+      "source_size": [
+        216,
+        265
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 2,
+      "center": [
+        512.0,
+        936.6996783270766
+      ],
+      "angle": 90,
+      "radius": 424.69967832707664,
+      "uniform_scale": 0.39060706624605673,
+      "width": 123.43183293375392,
+      "height": 123.82243999999999,
+      "source_size": [
+        316,
+        317
+      ],
+      "aspect_ratio_preserved": true
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}

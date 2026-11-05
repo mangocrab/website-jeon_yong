@@ -1,0 +1,436 @@
+{
+  "id": 99,
+  "tier": "legendary",
+  "frame": "layers/legendary/099/frame.png",
+  "frame_sha256": "0e76a35d2485da86c25779afed8813dcacde83ecfb72a7da81b16121bb6f3b2d",
+  "ornaments": [
+    {
+      "name": "large multicolor faceted prism crown crystal",
+      "file": "layers/legendary/099/ornament_01.png",
+      "sha256": "e9f07c5d39cd33a1db73307748a3ba91ef105c47d72cb8c216694a37dd519e85",
+      "source_size": [
+        323,
+        295
+      ],
+      "atlas": "legendary-09",
+      "atlas_cell": 0,
+      "source_cell_box": [
+        0,
+        0,
+        418,
+        418
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        63,
+        70,
+        370,
+        349
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "left violet faceted prism",
+      "file": "layers/legendary/099/ornament_02.png",
+      "sha256": "3f5e0249f14477c5ee392d57a1aa9c538fd846ed31eae0bbb709547ab7b05e8d",
+      "source_size": [
+        144,
+        296
+      ],
+      "atlas": "legendary-09",
+      "atlas_cell": 1,
+      "source_cell_box": [
+        418,
+        0,
+        836,
+        418
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        150,
+        70,
+        278,
+        350
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "right cyan faceted prism",
+      "file": "layers/legendary/099/ornament_03.png",
+      "sha256": "069f8fa8c3f5e3ff280b417c3e559886178b3f7455ff89418f1e707b21ab1567",
+      "source_size": [
+        181,
+        274
+      ],
+      "atlas": "legendary-09",
+      "atlas_cell": 2,
+      "source_cell_box": [
+        836,
+        0,
+        1254,
+        418
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        127,
+        86,
+        292,
+        344
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "left peach faceted prism",
+      "file": "layers/legendary/099/ornament_04.png",
+      "sha256": "f9a0d19f3ad8440646ee36a0fe20f4df0b6deb8b54a730b8ea3f947f4da832d3",
+      "source_size": [
+        155,
+        291
+      ],
+      "atlas": "legendary-09",
+      "atlas_cell": 3,
+      "source_cell_box": [
+        0,
+        418,
+        418,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        134,
+        76,
+        273,
+        351
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "right green faceted prism",
+      "file": "layers/legendary/099/ornament_05.png",
+      "sha256": "f3c8bf4b61faecc20df7652d0eb448bba24ca9406c5c7c730ac0274ae046de56",
+      "source_size": [
+        185,
+        282
+      ],
+      "atlas": "legendary-09",
+      "atlas_cell": 4,
+      "source_cell_box": [
+        418,
+        418,
+        836,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        131,
+        81,
+        300,
+        347
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "left golden prism shard",
+      "file": "layers/legendary/099/ornament_06.png",
+      "sha256": "fb30a63c3ca35c4971b0b056749ef468cadc0e44c32a1419213daa6223702b14",
+      "source_size": [
+        185,
+        290
+      ],
+      "atlas": "legendary-09",
+      "atlas_cell": 5,
+      "source_cell_box": [
+        836,
+        418,
+        1254,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        120,
+        78,
+        289,
+        352
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "right lavender prism shard",
+      "file": "layers/legendary/099/ornament_07.png",
+      "sha256": "8c909490b065e86c03365ec1d2e432774dd476eb7f4890090be10c3210ee253d",
+      "source_size": [
+        192,
+        278
+      ],
+      "atlas": "legendary-09",
+      "atlas_cell": 6,
+      "source_cell_box": [
+        0,
+        836,
+        418,
+        1254
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        138,
+        86,
+        314,
+        348
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "bottom rainbow prism pendant",
+      "file": "layers/legendary/099/ornament_08.png",
+      "sha256": "30019a32a2c043fb2e411a942bcdd7df908a7802c6be8372759f6c8392ea8c0c",
+      "source_size": [
+        178,
+        311
+      ],
+      "atlas": "legendary-09",
+      "atlas_cell": 7,
+      "source_cell_box": [
+        418,
+        836,
+        836,
+        1254
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        128,
+        66,
+        290,
+        361
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "small central clear diamond",
+      "file": "layers/legendary/099/ornament_09.png",
+      "sha256": "89f4c97c886174ad45802736b663d42db91789b78d9bd23f028d6c9a58a292c9",
+      "source_size": [
+        177,
+        142
+      ],
+      "atlas": "legendary-09",
+      "atlas_cell": 8,
+      "source_cell_box": [
+        836,
+        836,
+        1254,
+        1254
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        128,
+        154,
+        289,
+        280
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        87.0
+      ],
+      "angle": -90,
+      "radius": 425.0,
+      "uniform_scale": 0.41880697709123704,
+      "width": 135.27465360046958,
+      "height": 123.54805824191493,
+      "source_size": [
+        323,
+        295
+      ],
+      "aspect_ratio_preserved": true,
+      "joint": [
+        512.0,
+        87.0
+      ]
+    },
+    {
+      "part": 1,
+      "center": [
+        228.92039416897774,
+        228.92039416897768
+      ],
+      "angle": -135,
+      "radius": 400.3350177974616,
+      "uniform_scale": 0.5486486486486486,
+      "width": 79.0054054054054,
+      "height": 162.39999999999998,
+      "source_size": [
+        144,
+        296
+      ],
+      "aspect_ratio_preserved": true,
+      "joint": [
+        228.92039416897774,
+        228.92039416897768
+      ]
+    },
+    {
+      "part": 2,
+      "center": [
+        812.2709701729559,
+        211.7290298270442
+      ],
+      "angle": -45,
+      "radius": 424.64727840552126,
+      "uniform_scale": 0.39890364760178565,
+      "width": 72.20156021592321,
+      "height": 109.29959944288927,
+      "source_size": [
+        181,
+        274
+      ],
+      "aspect_ratio_preserved": true,
+      "joint": [
+        812.2709701729559,
+        211.7290298270442
+      ]
+    },
+    {
+      "part": 3,
+      "center": [
+        109.0469899718272,
+        512.0
+      ],
+      "angle": 180,
+      "radius": 402.9530100281728,
+      "uniform_scale": 0.5580756013745704,
+      "width": 86.50171821305841,
+      "height": 162.39999999999998,
+      "source_size": [
+        155,
+        291
+      ],
+      "aspect_ratio_preserved": true,
+      "joint": [
+        109.0469899718272,
+        512.0
+      ]
+    },
+    {
+      "part": 4,
+      "center": [
+        919.7466030938358,
+        512.0
+      ],
+      "angle": 0,
+      "radius": 407.7466030938358,
+      "uniform_scale": 0.575886524822695,
+      "width": 106.53900709219857,
+      "height": 162.39999999999998,
+      "source_size": [
+        185,
+        282
+      ],
+      "aspect_ratio_preserved": true,
+      "joint": [
+        919.7466030938358,
+        512.0
+      ]
+    },
+    {
+      "part": 5,
+      "center": [
+        210.05762937472628,
+        813.9423706252737
+      ],
+      "angle": 135,
+      "radius": 427.01099559334574,
+      "uniform_scale": 0.3885517221574451,
+      "width": 71.88206859912735,
+      "height": 112.67999942565908,
+      "source_size": [
+        185,
+        290
+      ],
+      "aspect_ratio_preserved": true,
+      "joint": [
+        210.05762937472628,
+        813.9423706252737
+      ]
+    },
+    {
+      "part": 6,
+      "center": [
+        795.4511690913778,
+        795.4511690913778
+      ],
+      "angle": 45,
+      "radius": 400.8604875995358,
+      "uniform_scale": 0.5841726618705035,
+      "width": 112.16115107913669,
+      "height": 162.39999999999998,
+      "source_size": [
+        192,
+        278
+      ],
+      "aspect_ratio_preserved": true,
+      "joint": [
+        795.4511690913778,
+        795.4511690913778
+      ]
+    },
+    {
+      "part": 7,
+      "center": [
+        512.0,
+        936.999952705912
+      ],
+      "angle": 90,
+      "radius": 424.99995270591205,
+      "uniform_scale": 0.39698239204341257,
+      "width": 70.66286578372744,
+      "height": 123.46152392550131,
+      "source_size": [
+        178,
+        311
+      ],
+      "aspect_ratio_preserved": true,
+      "joint": [
+        512.0,
+        936.999952705912
+      ]
+    },
+    {
+      "part": 8,
+      "center": [
+        512.0,
+        121.27118644067798
+      ],
+      "angle": -90,
+      "radius": 390.728813559322,
+      "uniform_scale": 0.3796610169491525,
+      "width": 67.19999999999999,
+      "height": 53.91186440677966,
+      "source_size": [
+        177,
+        142
+      ],
+      "aspect_ratio_preserved": true,
+      "joint": [
+        512.0,
+        121.27118644067798
+      ]
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}

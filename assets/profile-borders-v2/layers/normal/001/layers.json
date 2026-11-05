@@ -1,0 +1,56 @@
+{
+  "id": 1,
+  "tier": "normal",
+  "frame": "layers/normal/001/frame.png",
+  "frame_sha256": "990a6434044014d113e1ae89627e8fb06d8b06656a8179bf3d1c6b3a08dc22ce",
+  "ornaments": [
+    {
+      "name": "three tiny round silver beads",
+      "file": "layers/normal/001/ornament_01.png",
+      "sha256": "ef708f8460f291da4e4145bd2ceef93159ac60b3f49e2c95c8f048bf41091b25",
+      "source_size": [
+        186,
+        166
+      ],
+      "atlas": "normal-01",
+      "atlas_cell": 0,
+      "source_cell_box": [
+        0,
+        0,
+        418,
+        418
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        146,
+        173,
+        316,
+        323
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        915.339616893297
+      ],
+      "angle": 90,
+      "radius": 403.33961689329703,
+      "uniform_scale": 0.49677419354838703,
+      "width": 92.39999999999999,
+      "height": 82.46451612903225,
+      "source_size": [
+        186,
+        166
+      ],
+      "aspect_ratio_preserved": true
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}

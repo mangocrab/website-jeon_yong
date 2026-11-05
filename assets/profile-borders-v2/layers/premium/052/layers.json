@@ -1,0 +1,142 @@
+{
+  "id": 52,
+  "tier": "premium",
+  "frame": "layers/premium/052/frame.png",
+  "frame_sha256": "af9f827a5bc50e49ae7d91731a75fe479e1afd2d13d75081511866e41d136d54",
+  "ornaments": [
+    {
+      "name": "one curved cluster of five piano keys",
+      "file": "layers/premium/052/ornament_01.png",
+      "sha256": "b466e7a599e7d1b1f8931a12820bb91415f2f7eb9391e8366bf145fc7987ca37",
+      "source_size": [
+        302,
+        192
+      ],
+      "atlas": "premium-08",
+      "atlas_cell": 0,
+      "source_cell_box": [
+        0,
+        0,
+        418,
+        418
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        80,
+        164,
+        366,
+        340
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "one musical quaver note",
+      "file": "layers/premium/052/ornament_02.png",
+      "sha256": "1277e35c27a0bd95579fb2b0e8b04e12f3d4886a1605281292016760a2a17ac2",
+      "source_size": [
+        207,
+        261
+      ],
+      "atlas": "premium-08",
+      "atlas_cell": 1,
+      "source_cell_box": [
+        418,
+        0,
+        836,
+        418
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        124,
+        107,
+        315,
+        352
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "one small treble clef",
+      "file": "layers/premium/052/ornament_03.png",
+      "sha256": "3c63999cb4d957688c39ed853d34c8c7494eef912212e5541da9dc3d41694a11",
+      "source_size": [
+        153,
+        306
+      ],
+      "atlas": "premium-08",
+      "atlas_cell": 2,
+      "source_cell_box": [
+        836,
+        0,
+        1254,
+        418
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        130,
+        91,
+        267,
+        381
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        107.39021686758082
+      ],
+      "angle": -90,
+      "radius": 404.6097831324192,
+      "uniform_scale": 0.4821192052980132,
+      "width": 145.6,
+      "height": 92.56688741721854,
+      "source_size": [
+        302,
+        192
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        168.75393680353113,
+        752.3434809109739
+      ],
+      "angle": 145,
+      "radius": 419.026071642658,
+      "uniform_scale": 0.48275862068965514,
+      "width": 99.93103448275862,
+      "height": 125.99999999999999,
+      "source_size": [
+        207,
+        261
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 2,
+      "center": [
+        835.3009120033937,
+        738.3777356948503
+      ],
+      "angle": 35,
+      "radius": 394.6775378971467,
+      "uniform_scale": 0.4117647058823529,
+      "width": 63.0,
+      "height": 126.0,
+      "source_size": [
+        153,
+        306
+      ],
+      "aspect_ratio_preserved": true
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}

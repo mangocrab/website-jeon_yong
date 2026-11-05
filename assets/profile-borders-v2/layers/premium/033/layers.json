@@ -1,0 +1,244 @@
+{
+  "id": 33,
+  "tier": "premium",
+  "frame": "layers/premium/033/frame.png",
+  "frame_sha256": "aa71f99bcb07a00031d50294ed73c7f6bece505789568ef08fab242b29fdb206",
+  "ornaments": [
+    {
+      "name": "one sunflower",
+      "file": "layers/premium/033/ornament_01.png",
+      "sha256": "f418b022f2bd47630fa8668cd13f70b7ec0acbb6d0fb1aa8e0f4b935a5946274",
+      "source_size": [
+        293,
+        279
+      ],
+      "atlas": "premium-01",
+      "atlas_cell": 6,
+      "source_cell_box": [
+        0,
+        836,
+        418,
+        1254
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        81,
+        59,
+        358,
+        322
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "one sunflower leaf sprig",
+      "file": "layers/premium/033/ornament_02.png",
+      "sha256": "4944677b00d19e7ec5b4f8ea4ce1fd749c09f3bc943bd33ddaee38ddfeabcde4",
+      "source_size": [
+        282,
+        260
+      ],
+      "atlas": "premium-01",
+      "atlas_cell": 7,
+      "source_cell_box": [
+        418,
+        836,
+        836,
+        1254
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        74,
+        67,
+        340,
+        311
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "one small seed cluster",
+      "file": "layers/premium/033/ornament_03.png",
+      "sha256": "4b755b0bf3fe1d463d2736ba37856d258aa8e3e451108251406b6bde90b75e32",
+      "source_size": [
+        257,
+        207
+      ],
+      "atlas": "premium-01",
+      "atlas_cell": 8,
+      "source_cell_box": [
+        836,
+        836,
+        1254,
+        1254
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        80,
+        94,
+        321,
+        285
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        87.05088713379234
+      ],
+      "angle": -90,
+      "radius": 424.94911286620766,
+      "uniform_scale": 0.4491467576791809,
+      "width": 131.6,
+      "height": 125.31194539249147,
+      "source_size": [
+        293,
+        279
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 0,
+      "center": [
+        873.7530634437323,
+        720.8582285594106
+      ],
+      "angle": 30,
+      "radius": 417.71645711882127,
+      "uniform_scale": 0.38569760335194536,
+      "width": 113.00939778211999,
+      "height": 107.60963133519276,
+      "source_size": [
+        293,
+        279
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 0,
+      "center": [
+        150.14235905903894,
+        720.9186064055867
+      ],
+      "angle": 150,
+      "radius": 417.8372128111736,
+      "uniform_scale": 0.374126675251387,
+      "width": 109.61911584865639,
+      "height": 104.38134239513697,
+      "source_size": [
+        293,
+        279
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        156.47455384554212,
+        306.737287958962
+      ],
+      "angle": -150,
+      "radius": 410.5254240820761,
+      "uniform_scale": 0.33758865248226944,
+      "width": 95.19999999999997,
+      "height": 87.77304964539006,
+      "source_size": [
+        282,
+        260
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        876.1930304595052,
+        301.7330558272192
+      ],
+      "angle": -30,
+      "radius": 420.5338883455617,
+      "uniform_scale": 0.33758865248226944,
+      "width": 95.19999999999997,
+      "height": 87.77304964539006,
+      "source_size": [
+        282,
+        260
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        512.0,
+        917.5102898724003
+      ],
+      "angle": 90,
+      "radius": 405.5102898724004,
+      "uniform_scale": 0.33758865248226944,
+      "width": 95.19999999999997,
+      "height": 87.77304964539006,
+      "source_size": [
+        282,
+        260
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 2,
+      "center": [
+        376.2433071478853,
+        139.01155184897806
+      ],
+      "angle": -110,
+      "radius": 396.92601591260177,
+      "uniform_scale": 0.2941634241245136,
+      "width": 75.6,
+      "height": 60.89182879377431,
+      "source_size": [
+        257,
+        207
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 2,
+      "center": [
+        906.2213623675412,
+        581.5118625570462
+      ],
+      "angle": 10,
+      "radius": 400.30286232185495,
+      "uniform_scale": 0.2941634241245136,
+      "width": 75.6,
+      "height": 60.89182879377431,
+      "source_size": [
+        257,
+        207
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 2,
+      "center": [
+        260.2213638025311,
+        812.0580942268042
+      ],
+      "angle": 130,
+      "radius": 391.6980234268219,
+      "uniform_scale": 0.2941634241245136,
+      "width": 75.6,
+      "height": 60.89182879377431,
+      "source_size": [
+        257,
+        207
+      ],
+      "aspect_ratio_preserved": true
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}

@@ -1,0 +1,227 @@
+{
+  "id": 80,
+  "tier": "epic",
+  "frame": "layers/epic/080/frame.png",
+  "frame_sha256": "5e4b6a311f3b584012a7a154acc7770b614c633899d0a54a13c94567e76b0c30",
+  "ornaments": [
+    {
+      "name": "one red eclipsed moon",
+      "file": "layers/epic/080/ornament_01.png",
+      "sha256": "b12168c69605b9de0bb01207f20a2fbfc5f3ed817cf69bd66a66c1e8a45e40c4",
+      "source_size": [
+        258,
+        259
+      ],
+      "atlas": "epic-02",
+      "atlas_cell": 3,
+      "source_cell_box": [
+        0,
+        418,
+        418,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        96,
+        87,
+        338,
+        330
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "one short dark metal ornamental arc",
+      "file": "layers/epic/080/ornament_02.png",
+      "sha256": "4387d8db3c598dc4ad955e706b221363ce07b914c90e7b2209f842e921374f20",
+      "source_size": [
+        330,
+        190
+      ],
+      "atlas": "epic-02",
+      "atlas_cell": 4,
+      "source_cell_box": [
+        418,
+        418,
+        836,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        52,
+        114,
+        366,
+        288
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "one ruby shard",
+      "file": "layers/epic/080/ornament_03.png",
+      "sha256": "13ef70430ad5a9c1445ac0ed98158f8640b7267cddeee2f84e2b1f04cdf473c9",
+      "source_size": [
+        155,
+        290
+      ],
+      "atlas": "epic-02",
+      "atlas_cell": 5,
+      "source_cell_box": [
+        836,
+        418,
+        1254,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        135,
+        71,
+        274,
+        345
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        87.00155186077984
+      ],
+      "angle": -90,
+      "radius": 424.99844813922016,
+      "uniform_scale": 0.4891571817053325,
+      "width": 126.20255287997578,
+      "height": 126.69171006168112,
+      "source_size": [
+        258,
+        259
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        935.248574642017
+      ],
+      "angle": 90,
+      "radius": 423.248574642017,
+      "uniform_scale": 0.46486486486486484,
+      "width": 119.93513513513513,
+      "height": 120.39999999999999,
+      "source_size": [
+        258,
+        259
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        186.06172343013952,
+        238.50531234367168
+      ],
+      "angle": -140,
+      "radius": 425.48220210669615,
+      "uniform_scale": 0.3648484848484848,
+      "width": 120.39999999999999,
+      "height": 69.32121212121211,
+      "source_size": [
+        330,
+        190
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        837.864457683851,
+        238.5672537436962
+      ],
+      "angle": -40,
+      "radius": 425.38583839480907,
+      "uniform_scale": 0.3648484848484848,
+      "width": 120.39999999999999,
+      "height": 69.32121212121211,
+      "source_size": [
+        330,
+        190
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        824.3563709528778,
+        774.0981156624334
+      ],
+      "angle": 40,
+      "radius": 407.75228351126384,
+      "uniform_scale": 0.3648484848484848,
+      "width": 120.39999999999999,
+      "height": 69.32121212121211,
+      "source_size": [
+        330,
+        190
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        199.64168635988813,
+        774.099745770575
+      ],
+      "angle": 140,
+      "radius": 407.7548195093402,
+      "uniform_scale": 0.3648484848484848,
+      "width": 120.39999999999999,
+      "height": 69.32121212121211,
+      "source_size": [
+        330,
+        190
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 2,
+      "center": [
+        907.2316651077437,
+        512.0
+      ],
+      "angle": 0,
+      "radius": 395.23166510774365,
+      "uniform_scale": 0.41517241379310343,
+      "width": 64.35172413793103,
+      "height": 120.39999999999999,
+      "source_size": [
+        155,
+        290
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 2,
+      "center": [
+        116.54494292575032,
+        512.0
+      ],
+      "angle": 180,
+      "radius": 395.4550570742497,
+      "uniform_scale": 0.41517241379310343,
+      "width": 64.35172413793103,
+      "height": 120.39999999999999,
+      "source_size": [
+        155,
+        290
+      ],
+      "aspect_ratio_preserved": true
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}

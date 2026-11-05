@@ -1,0 +1,73 @@
+{
+  "id": 26,
+  "tier": "normal",
+  "frame": "layers/normal/026/frame.png",
+  "frame_sha256": "8dd51398a11b0333e5792d4700efc68bc4e77aca419e509446ca874e37643692",
+  "ornaments": [
+    {
+      "name": "one four-leaf clover",
+      "file": "layers/normal/026/ornament_01.png",
+      "sha256": "6726a9c8e94ee733a844a2813ac1a3490b93bcf2a0fb457fc1a772f5d8261cf0",
+      "source_size": [
+        235,
+        260
+      ],
+      "atlas": "normal-03",
+      "atlas_cell": 7,
+      "source_cell_box": [
+        418,
+        836,
+        836,
+        1254
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        98,
+        89,
+        317,
+        333
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        795.5102052395658,
+        795.5102052395658
+      ],
+      "angle": 45,
+      "radius": 400.9439773209737,
+      "uniform_scale": 0.27999999999999997,
+      "width": 65.8,
+      "height": 72.8,
+      "source_size": [
+        235,
+        260
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 0,
+      "center": [
+        232.40189673854854,
+        232.40189673854866
+      ],
+      "angle": 225,
+      "radius": 395.41142964613766,
+      "uniform_scale": 0.27999999999999997,
+      "width": 65.8,
+      "height": 72.8,
+      "source_size": [
+        235,
+        260
+      ],
+      "aspect_ratio_preserved": true
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}

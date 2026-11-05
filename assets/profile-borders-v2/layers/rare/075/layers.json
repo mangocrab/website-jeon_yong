@@ -1,0 +1,193 @@
+{
+  "id": 75,
+  "tier": "rare",
+  "frame": "layers/rare/075/frame.png",
+  "frame_sha256": "85045b93b41dd421e271871d63909f36e1e36bc71c2cb8e01e10a0e054d321ad",
+  "ornaments": [
+    {
+      "name": "one small bioluminescent jellyfish",
+      "file": "layers/rare/075/ornament_01.png",
+      "sha256": "19bed2504ba4e680dea2529edde2f2a38f859ecd5bfae9048b0e721a9931faf6",
+      "source_size": [
+        227,
+        264
+      ],
+      "atlas": "rare-07",
+      "atlas_cell": 3,
+      "source_cell_box": [
+        0,
+        418,
+        418,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        132,
+        86,
+        343,
+        334
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "one blue deep sea coral",
+      "file": "layers/rare/075/ornament_02.png",
+      "sha256": "6f4e04d6e1239bfed4a8cbdc73d271fbbddbcef4c16b5ab5bc130aaa7102ace4",
+      "source_size": [
+        262,
+        255
+      ],
+      "atlas": "rare-07",
+      "atlas_cell": 4,
+      "source_cell_box": [
+        418,
+        418,
+        836,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        87,
+        86,
+        333,
+        325
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "one luminous teal pearl",
+      "file": "layers/rare/075/ornament_03.png",
+      "sha256": "2e534e344ce93d8066801953a9bb1b5e3bc35a9c1461883565341bd777027ef0",
+      "source_size": [
+        219,
+        221
+      ],
+      "atlas": "rare-07",
+      "atlas_cell": 5,
+      "source_cell_box": [
+        836,
+        418,
+        1254,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        94,
+        110,
+        297,
+        315
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        87.15602993679909
+      ],
+      "angle": -90,
+      "radius": 424.8439700632009,
+      "uniform_scale": 0.47706578464115446,
+      "width": 108.29393311354207,
+      "height": 125.94536714526478,
+      "source_size": [
+        227,
+        264
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        931.3850634793848
+      ],
+      "angle": 90,
+      "radius": 419.3850634793848,
+      "uniform_scale": 0.42424242424242425,
+      "width": 96.30303030303031,
+      "height": 112.0,
+      "source_size": [
+        227,
+        264
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        130.16018332656444,
+        333.9451692966762
+      ],
+      "angle": -155,
+      "radius": 421.3136222981547,
+      "uniform_scale": 0.45954198473282437,
+      "width": 120.39999999999999,
+      "height": 117.18320610687022,
+      "source_size": [
+        262,
+        255
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        889.0526342954156,
+        687.8225308994683
+      ],
+      "angle": 25,
+      "radius": 416.0315509682012,
+      "uniform_scale": 0.45954198473282437,
+      "width": 120.39999999999999,
+      "height": 117.18320610687022,
+      "source_size": [
+        262,
+        255
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 2,
+      "center": [
+        887.9655407631553,
+        336.6843891397554
+      ],
+      "angle": -25,
+      "radius": 414.83207596885813,
+      "uniform_scale": 0.4687782805429864,
+      "width": 102.66244343891402,
+      "height": 103.6,
+      "source_size": [
+        219,
+        221
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 2,
+      "center": [
+        136.08878359613539,
+        687.290278995483
+      ],
+      "angle": 155,
+      "radius": 414.77213567035506,
+      "uniform_scale": 0.4687782805429864,
+      "width": 102.66244343891402,
+      "height": 103.6,
+      "source_size": [
+        219,
+        221
+      ],
+      "aspect_ratio_preserved": true
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}

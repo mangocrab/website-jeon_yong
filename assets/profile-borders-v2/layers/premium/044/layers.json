@@ -1,0 +1,193 @@
+{
+  "id": 44,
+  "tier": "premium",
+  "frame": "layers/premium/044/frame.png",
+  "frame_sha256": "4cddc94ff433a2a61c14a63bac97d8c769640d28d54d6d96ddfb6b2842c48004",
+  "ornaments": [
+    {
+      "name": "one tiny original penguin",
+      "file": "layers/premium/044/ornament_01.png",
+      "sha256": "cbb8aba997a4bb94393e40cf1d4a5368a9a0960e804e965d58ccaa9e52a0aca1",
+      "source_size": [
+        299,
+        304
+      ],
+      "atlas": "premium-05",
+      "atlas_cell": 3,
+      "source_cell_box": [
+        0,
+        418,
+        418,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        70,
+        71,
+        353,
+        359
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "three ice cubes",
+      "file": "layers/premium/044/ornament_02.png",
+      "sha256": "7c2e07fb57b0f4d41baf6a0dc0022ca5c4c6af20e05baa50384622af6a57f0da",
+      "source_size": [
+        309,
+        276
+      ],
+      "atlas": "premium-05",
+      "atlas_cell": 4,
+      "source_cell_box": [
+        418,
+        418,
+        836,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        60,
+        88,
+        353,
+        348
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "one snowflake",
+      "file": "layers/premium/044/ornament_03.png",
+      "sha256": "2a1a10d87d9f62dcfb97fecdcd0fa4ba8ae6175c05aa3d78dd04aa5b75e97b6d",
+      "source_size": [
+        291,
+        311
+      ],
+      "atlas": "premium-05",
+      "atlas_cell": 5,
+      "source_cell_box": [
+        836,
+        418,
+        1254,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        72,
+        66,
+        347,
+        361
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        936.8014536214879
+      ],
+      "angle": 90,
+      "radius": 424.8014536214879,
+      "uniform_scale": 0.4033790094406578,
+      "width": 120.61032382275668,
+      "height": 122.62721886995998,
+      "source_size": [
+        299,
+        304
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        191.01209123678984,
+        242.6591641444238
+      ],
+      "angle": -140,
+      "radius": 419.019955887019,
+      "uniform_scale": 0.30809061488673134,
+      "width": 95.19999999999999,
+      "height": 85.03300970873785,
+      "source_size": [
+        309,
+        276
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        832.1594733012419,
+        243.3543040350158
+      ],
+      "angle": -40,
+      "radius": 417.9385101962241,
+      "uniform_scale": 0.30809061488673134,
+      "width": 95.19999999999999,
+      "height": 85.03300970873785,
+      "source_size": [
+        309,
+        276
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        820.8181712015867,
+        771.1292135560934
+      ],
+      "angle": 40,
+      "radius": 403.13349176481483,
+      "uniform_scale": 0.30809061488673134,
+      "width": 95.19999999999999,
+      "height": 85.03300970873785,
+      "source_size": [
+        309,
+        276
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        202.55396337193451,
+        771.6560552038809
+      ],
+      "angle": 140,
+      "radius": 403.95311186926006,
+      "uniform_scale": 0.30809061488673134,
+      "width": 95.19999999999999,
+      "height": 85.03300970873785,
+      "source_size": [
+        309,
+        276
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 2,
+      "center": [
+        512.0,
+        100.0019292604502
+      ],
+      "angle": -90,
+      "radius": 411.9980707395498,
+      "uniform_scale": 0.3061093247588424,
+      "width": 89.07781350482314,
+      "height": 95.19999999999999,
+      "source_size": [
+        291,
+        311
+      ],
+      "aspect_ratio_preserved": true
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}

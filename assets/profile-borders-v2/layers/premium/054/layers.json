@@ -1,0 +1,142 @@
+{
+  "id": 54,
+  "tier": "premium",
+  "frame": "layers/premium/054/frame.png",
+  "frame_sha256": "f7cee839b872c6c07b2ae3286fa9371951fd4d7caac19fe518342c1c744e357c",
+  "ornaments": [
+    {
+      "name": "one artist paint palette",
+      "file": "layers/premium/054/ornament_01.png",
+      "sha256": "67963bd2f7d80fc73386d136f1db637330d2a0846556eb08fa4bf1d28c8fefcf",
+      "source_size": [
+        306,
+        268
+      ],
+      "atlas": "premium-08",
+      "atlas_cell": 6,
+      "source_cell_box": [
+        0,
+        836,
+        418,
+        1254
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        73,
+        75,
+        363,
+        327
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "one paintbrush",
+      "file": "layers/premium/054/ornament_02.png",
+      "sha256": "ce08f2d86a771314b9ccb823c3b2cab347456ce1905e650e470e528e317e91f7",
+      "source_size": [
+        241,
+        290
+      ],
+      "atlas": "premium-08",
+      "atlas_cell": 7,
+      "source_cell_box": [
+        418,
+        836,
+        836,
+        1254
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        93,
+        60,
+        318,
+        334
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "three colorful paint blobs",
+      "file": "layers/premium/054/ornament_03.png",
+      "sha256": "3400de7980b166818dae030d8fe8e3460f1dd88daa11a7a95b0f6c42cf0af1aa",
+      "source_size": [
+        281,
+        277
+      ],
+      "atlas": "premium-08",
+      "atlas_cell": 8,
+      "source_cell_box": [
+        836,
+        836,
+        1254,
+        1254
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        67,
+        73,
+        332,
+        334
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        87.25161943673311
+      ],
+      "angle": -90,
+      "radius": 424.7483805632669,
+      "uniform_scale": 0.4615424836601307,
+      "width": 141.232,
+      "height": 123.69338562091502,
+      "source_size": [
+        306,
+        268
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        164.18188839268748,
+        755.5448636733063
+      ],
+      "angle": 145,
+      "radius": 424.6075121612031,
+      "uniform_scale": 0.3510546153186978,
+      "width": 84.60416229180618,
+      "height": 101.80583844242237,
+      "source_size": [
+        241,
+        290
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 2,
+      "center": [
+        864.0308711201553,
+        758.4946696408635
+      ],
+      "angle": 35,
+      "radius": 429.75034192304474,
+      "uniform_scale": 0.4349466192170818,
+      "width": 122.21999999999998,
+      "height": 120.48021352313165,
+      "source_size": [
+        281,
+        277
+      ],
+      "aspect_ratio_preserved": true
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}

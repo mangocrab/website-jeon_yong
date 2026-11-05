@@ -1,0 +1,244 @@
+{
+  "id": 35,
+  "tier": "premium",
+  "frame": "layers/premium/035/frame.png",
+  "frame_sha256": "617a1cb745cff2e3dc260391ffaef02bdce58fceeda503cf4ff01236c72d49d6",
+  "ornaments": [
+    {
+      "name": "one coral branch",
+      "file": "layers/premium/035/ornament_01.png",
+      "sha256": "1b63b91bf26b1008ca5bd215139c917e0cfdc3d34c6547f3dbe4ba485574122a",
+      "source_size": [
+        291,
+        277
+      ],
+      "atlas": "premium-02",
+      "atlas_cell": 3,
+      "source_cell_box": [
+        0,
+        418,
+        418,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        77,
+        81,
+        352,
+        342
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "one little starfish",
+      "file": "layers/premium/035/ornament_02.png",
+      "sha256": "e0e686449711a24e6b50faa77ee21266adcbfb77df4790f42f79e14f95e6aea2",
+      "source_size": [
+        270,
+        242
+      ],
+      "atlas": "premium-02",
+      "atlas_cell": 4,
+      "source_cell_box": [
+        418,
+        418,
+        836,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        79,
+        95,
+        333,
+        321
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    },
+    {
+      "name": "one seaweed sprig",
+      "file": "layers/premium/035/ornament_03.png",
+      "sha256": "0fbcad62b54759fcee736c119463b55b5578dab246ed437c35d7dcf62a99da53",
+      "source_size": [
+        246,
+        301
+      ],
+      "atlas": "premium-02",
+      "atlas_cell": 5,
+      "source_cell_box": [
+        836,
+        418,
+        1254,
+        836
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        108,
+        60,
+        338,
+        345
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        87.27435328377987
+      ],
+      "angle": -90,
+      "radius": 424.7256467162201,
+      "uniform_scale": 0.452233676975945,
+      "width": 131.6,
+      "height": 125.26872852233677,
+      "source_size": [
+        291,
+        277
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 0,
+      "center": [
+        882.1314857583035,
+        725.6955129381126
+      ],
+      "angle": 30,
+      "radius": 427.3910258762253,
+      "uniform_scale": 0.4127414666666666,
+      "width": 120.10776679999998,
+      "height": 114.32938626666665,
+      "source_size": [
+        291,
+        277
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 0,
+      "center": [
+        148.71646620640627,
+        721.7418460278898
+      ],
+      "angle": 150,
+      "radius": 419.48369205577967,
+      "uniform_scale": 0.452233676975945,
+      "width": 131.6,
+      "height": 125.26872852233677,
+      "source_size": [
+        291,
+        277
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        157.43108903653246,
+        307.2895438089696
+      ],
+      "angle": -150,
+      "radius": 409.42091238206086,
+      "uniform_scale": 0.35259259259259257,
+      "width": 95.19999999999999,
+      "height": 85.3274074074074,
+      "source_size": [
+        270,
+        242
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        868.7430753817507,
+        306.03428939681135
+      ],
+      "angle": -30,
+      "radius": 411.9314212063774,
+      "uniform_scale": 0.35259259259259257,
+      "width": 95.19999999999999,
+      "height": 85.3274074074074,
+      "source_size": [
+        270,
+        242
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 1,
+      "center": [
+        512.0,
+        918.6666240907955
+      ],
+      "angle": 90,
+      "radius": 406.66662409079555,
+      "uniform_scale": 0.35259259259259257,
+      "width": 95.19999999999999,
+      "height": 85.3274074074074,
+      "source_size": [
+        270,
+        242
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 2,
+      "center": [
+        377.47760988492035,
+        142.40277074775298
+      ],
+      "angle": -110,
+      "radius": 393.31715613892527,
+      "uniform_scale": 0.2511627906976744,
+      "width": 61.7860465116279,
+      "height": 75.6,
+      "source_size": [
+        246,
+        301
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 2,
+      "center": [
+        900.4530308346684,
+        580.4947500741293
+      ],
+      "angle": 10,
+      "radius": 394.44554497719616,
+      "uniform_scale": 0.2511627906976744,
+      "width": 61.7860465116279,
+      "height": 75.6,
+      "source_size": [
+        246,
+        301
+      ],
+      "aspect_ratio_preserved": true
+    },
+    {
+      "part": 2,
+      "center": [
+        257.73530343252435,
+        815.0208656041658
+      ],
+      "angle": 130,
+      "radius": 395.56564677945477,
+      "uniform_scale": 0.2511627906976744,
+      "width": 61.7860465116279,
+      "height": 75.6,
+      "source_size": [
+        246,
+        301
+      ],
+      "aspect_ratio_preserved": true
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}

@@ -1,61 +1,49 @@
-# 프로필 장식 테두리 100종
+# 프로필 장식 테두리 — 최신 V2
 
-과도한 금속 반사광과 입체 렌더링을 줄인 평면 일러스트 에셋입니다.
-각 디자인은 압축 묶음 없이 **개별 RGBA PNG**로 저장했습니다.
+**현재 수정본: [assets/profile-borders-v2](assets/profile-borders-v2)**
 
-영웅·전설 등급의 [별도 애니메이션 25종](assets/profile-borders-animated)도 있습니다.
-기존 PNG는 그대로 유지하며, 영웅은 선명한 고정 이펙트 점멸, 전설은 날개 펼침·파편 개폐 등 디자인별 부위 움직임을 제공합니다.
+[실제 V2 미리보기](assets/profile-borders-v2/index.html) · [적용 방법·개별 레이어 안내](assets/profile-borders-v2/README.md)
 
-| 등급 | 폴더 | 번호 | 수량 |
-|---|---|---|---:|
-| 일반 | [normal](assets/profile-borders/normal) | 001–030 | 30 |
-| 고급 | [premium](assets/profile-borders/premium) | 031–055 | 25 |
-| 희귀 | [rare](assets/profile-borders/rare) | 056–075 | 20 |
-| 영웅 | [epic](assets/profile-borders/epic) | 076–090 | 15 |
-| 전설 | [legendary](assets/profile-borders/legendary) | 091–100 | 10 |
+전체 100종을 새 장식 레이어로 다시 구성했습니다.
+테두리와 장식을 독립적으로 만들고, 장식은 원래 가로·세로 비율을 유지해 배치합니다.
+영웅·전설 이펙트에는 후광과 명암을 넣었고, 전설은 별도로 그린 개별 장식 PNG를 연결해 움직입니다.
 
-## 공통 규격
+| 등급 | 최신 정지 파일 | 수량 | 효과·동작 |
+|---|---|---:|---|
+| 일반 | [normal](assets/profile-borders-v2/normal) | 30 | 정지 |
+| 고급 | [premium](assets/profile-borders-v2/premium) | 25 | 정지 |
+| 희귀 | [rare](assets/profile-borders-v2/rare) | 20 | 정지 |
+| 영웅 | [epic](assets/profile-borders-v2/epic) | 15 | [이펙트 SVG](assets/profile-borders-v2/animations/epic) |
+| 전설 | [legendary](assets/profile-borders-v2/legendary) | 10 | [개별 레이어 동작 SVG](assets/profile-borders-v2/animations/legendary) |
 
-- 크기: 1024×1024px, PNG RGBA
-- 중심: (512, 512)
-- 실제 테두리 안쪽 원: 지름 716px (반지름 358px)
-- 중앙 원 내부: 모든 픽셀의 알파값 0
-- 모든 디자인의 안쪽 2px 윤곽을 동일한 원에 맞춤
-- 장식 바깥쪽 안전 반경: 480px, 캔버스 가장자리 여백 최소 32px
-- 이름·등급·파일 경로·검사 결과·SHA-256: [manifest.json](assets/profile-borders/manifest.json)
+공통 규격은 1024×1024px, 중심 (512, 512), 안쪽 원 지름 716px, 중앙 완전 투명입니다.
+PNG는 정지 조립본이고, 후광·명암 효과와 움직임은 animations의 SVG로 사용합니다.
+SVG는 일반 img 태그로 표시할 수 있으며 필요한 모든 그림이 파일 안에 포함돼 있습니다.
 
-## 적용 예시
+[layers](assets/profile-borders-v2/layers)에는 테두리 PNG 100개와 새로 그린 장식 PNG 300개가 있습니다.
+전설 한 종류마다 테두리 1개와 장식 9개가 독립돼 있습니다.
+미리보기의 ‘독립 레이어’에서 각각 확인하고 다운로드할 수 있습니다. ZIP은 만들지 않았습니다.
 
-프로필 사진의 원 지름을 전체 장식 이미지 너비의 69.921875%로 맞춥니다.
-
-```html
-<div class="profile">
-  <img class="avatar" src="avatar.jpg" alt="프로필 사진">
-  <img class="frame" src="assets/profile-borders/normal/profile_001_normal.png" alt="">
-</div>
-```
-
-```css
-.profile { position: relative; width: 128px; aspect-ratio: 1; }
-.avatar {
-  position: absolute; width: 69.921875%; height: 69.921875%;
-  left: 15.0390625%; top: 15.0390625%; object-fit: cover; border-radius: 50%;
-}
-.frame { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; }
-```
-
-## 미리보기와 검증
-
-[미리보기 HTML](assets/profile-borders/index.html)을 브라우저에서 열면 등급별 필터와 밝고 어두운 배경에서 확인할 수 있습니다.
-미리보기의 프로필 원은 PNG에 포함되지 않습니다.
-
-저장소 루트에서 Pillow, numpy, scipy가 설치된 Python 3로 실행합니다.
+## 편집·재생성
 
 ```sh
 python -m pip install -r tools/requirements.txt
-python tools/validate_profile_borders.py
-python tools/build_profile_preview.py
+python tools/build_profile_v2.py --from-layers
+python tools/build_profile_v2_preview.py
 ```
 
-`tools/prepare_profile_borders.py`는 별도 보존한 생성 원본과 매핑 파일을 받아 원형 경계와 알파를 정규화하는 내보내기 도구입니다.
-원본을 덮어쓰거나 ZIP을 만들지 않습니다.
+브라우저 검증:
+
+```sh
+python -m pip install -r tools/browser-requirements.txt
+python tools/validate_profile_v2.py --browser /usr/bin/chromium
+```
+
+검증 결과는 [V2 validation.json](assets/profile-borders-v2/validation.json)에 있습니다.
+
+## 이전 버전 보존
+
+- [기존 PNG 100종](assets/profile-borders)
+- [기존 애니메이션 25종](assets/profile-borders-animated)
+
+이전 파일은 덮어쓰지 않았습니다. 새 적용 경로는 assets/profile-borders-v2/입니다.

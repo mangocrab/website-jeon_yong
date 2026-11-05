@@ -1,0 +1,56 @@
+{
+  "id": 28,
+  "tier": "normal",
+  "frame": "layers/normal/028/frame.png",
+  "frame_sha256": "fb499ab478d8fa2a0fd74241fa7f8d9d6f0be7defed224788b0870b6a334bc18",
+  "ornaments": [
+    {
+      "name": "two coffee beans and a small steam curl",
+      "file": "layers/normal/028/ornament_01.png",
+      "sha256": "8f6faf5c7e87800aae49aa58608ed73d75d34bbffe1b5fd25442ba85fd908a56",
+      "source_size": [
+        221,
+        265
+      ],
+      "atlas": "normal-04",
+      "atlas_cell": 0,
+      "source_cell_box": [
+        0,
+        0,
+        418,
+        418
+      ],
+      "cell_edge_opaque_pixels": 0,
+      "source_bbox": [
+        126,
+        94,
+        331,
+        343
+      ],
+      "source_margin_px": 8,
+      "independently_drawn": true
+    }
+  ],
+  "placements": [
+    {
+      "part": 0,
+      "center": [
+        512.0,
+        922.2362264150943
+      ],
+      "angle": 90,
+      "radius": 410.23622641509434,
+      "uniform_scale": 0.34867924528301886,
+      "width": 77.05811320754717,
+      "height": 92.39999999999999,
+      "source_size": [
+        221,
+        265
+      ],
+      "aspect_ratio_preserved": true
+    }
+  ],
+  "newly_drawn_ornaments": true,
+  "layered_from_independent_artwork": true,
+  "geometry_method": "uniform_scale_and_translation_only"
+}
