@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 1,
+    "name": "순백의 선",
+    "description": "아이보리색 이중 원형 테두리. 일정한 간격으로 아주 작은 은빛 점을 배치한다.",
+    "tier": "normal",
+    "file": "normal/profile_001_normal.png",
+    "source_median_inner_diameter_px": 993.636,
+    "source_size": 1254,
+    "export_scale": 0.816587,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "7caa7b6b20f6e622f947becbec335b776c38026521a268a133037a4412a46f34"
+  },
+  {
+    "id": 2,
+    "name": "먹빛 미니멀",
+    "description": "진한 회색과 검은색의 얇은 각진 선. 절제된 현대적 디자인.",
+    "tier": "normal",
+    "file": "normal/profile_002_normal.png",
+    "source_median_inner_diameter_px": 816.486,
+    "source_size": 1254,
+    "export_scale": 0.816587,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "724cdcc9e7bf16eb8f7c728ab2ab5540be9d541f6ad22ec7c8dc9f5bbc2336f5"
+  },
+  {
+    "id": 3,
+    "name": "복숭아빛",
+    "description": "연한 복숭아색 테두리와 작은 반투명 물방울 장식.",
+    "tier": "normal",
+    "file": "normal/profile_003_normal.png",
+    "source_median_inner_diameter_px": 787.769,
+    "source_size": 1254,
+    "export_scale": 0.816587,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "ad11ef5b9000fa3a19504ccf91507bd7e2deb7fa29acb0d998719b7390b040b7"
+  },
+  {
+    "id": 4,
+    "name": "하늘 구름",
+    "description": "하늘색 테두리에 작고 둥근 하얀 구름 두 개를 배치한다.",
+    "tier": "normal",
+    "file": "normal/profile_004_normal.png",
+    "source_median_inner_diameter_px": 766.68,
+    "source_size": 1254,
+    "export_scale": 0.773815,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "ae41e062f8e9e23def4b1a7dcbc27fbebb4b2d2c4789a7d670c0982099369030"
+  },
+  {
+    "id": 5,
+    "name": "민트 새싹",
+    "description": "연두색 테두리 아래쪽에 작은 새싹과 잎 장식.",
+    "tier": "normal",
+    "file": "normal/profile_005_normal.png",
+    "source_median_inner_diameter_px": 828.241,
+    "source_size": 1254,
+    "export_scale": 0.816587,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "1de1e0442e6cc5ce3440be9834bd1e7cdd5c0be7cf8dbbf321574ee23be28ed8"
+  },
+  {
+    "id": 6,
+    "name": "레몬 소다",
+    "description": "밝은 노란색 원형 테두리와 탄산 기포를 연상시키는 작은 원형 장식.",
+    "tier": "normal",
+    "file": "normal/profile_006_normal.png",
+    "source_median_inner_diameter_px": 848.264,
+    "source_size": 1254,
+    "export_scale": 0.686444,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "fe03cfd6f8369f06eb856973184d5e1513318de721c4306e8148134e93ebad03"
+  },
+  {
+    "id": 7,
+    "name": "블루 체크",
+    "description": "파란색 체크무늬 천을 얇은 원형 띠처럼 배치한다.",
+    "tier": "normal",
+    "file": "normal/profile_007_normal.png",
+    "source_median_inner_diameter_px": 763.172,
+    "source_size": 1254,
+    "export_scale": 0.503906,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "4df1ee0b84f80b31051c22a8c0afda70f365d91cebbbe604982893449056ca2c"
+  },
+  {
+    "id": 8,
+    "name": "빨간 스티치",
+    "description": "밝은 바탕색의 가는 테두리에 붉은 실로 바느질한 듯한 점선.",
+    "tier": "normal",
+    "file": "normal/profile_008_normal.png",
+    "source_median_inner_diameter_px": 895.62,
+    "source_size": 1254,
+    "export_scale": 0.620193,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "8cca2e6c25f08948abb361f27b7af49c47f567aea52243de0787b15e2806753d"
+  },
+  {
+    "id": 9,
+    "name": "코코아 리본",
+    "description": "따뜻한 갈색 테두리에 한쪽으로 묶인 작은 리본.",
+    "tier": "normal",
+    "file": "normal/profile_009_normal.png",
+    "source_median_inner_diameter_px": 825.061,
+    "source_size": 1254,
+    "export_scale": 0.459141,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "1237de2ab1d9e4a247a1b3003b0fe720e565c1b5f75bff42e89eca4f63967653"
+  },
+  {
+    "id": 10,
+    "name": "작은 별",
+    "description": "남색 테두리에 작은 금색 별을 불규칙하지만 균형 있게 배치.",
+    "tier": "normal",
+    "file": "normal/profile_010_normal.png",
+    "source_median_inner_diameter_px": 729.512,
+    "source_size": 1254,
+    "export_scale": 0.816587,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "74a9664b51339816992bb8131e97abe837906143ddf2e09062a7746e5a35d4d2"
+  },
+  {
+    "id": 11,
+    "name": "체리 한 쌍",
+    "description": "연분홍 테두리 오른쪽 아래에 두 개의 체리 장식.",
+    "tier": "normal",
+    "file": "normal/profile_011_normal.png",
+    "source_median_inner_diameter_px": 957.913,
+    "source_size": 1254,
+    "export_scale": 0.393618,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "a1193ef3714d74bcc1dff09b5091ca9f270abb1b8db695d78d11ed09414eb916"
+  },
+  {
+    "id": 12,
+    "name": "데이지 한 송이",
+    "description": "크림색 테두리 왼쪽 위에 흰 데이지꽃.",
+    "tier": "normal",
+    "file": "normal/profile_012_normal.png",
+    "source_median_inner_diameter_px": 1001.817,
+    "source_size": 1254,
+    "export_scale": 0.406058,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "bced4fc8e7c20e545b83819b4ecffdcb4ea3d965e63acb077702983c1cc76e1b"
+  },
+  {
+    "id": 13,
+    "name": "라벤더 향기",
+    "description": "연보라 테두리 양쪽에 작게 뻗은 라벤더 줄기.",
+    "tier": "normal",
+    "file": "normal/profile_013_normal.png",
+    "source_median_inner_diameter_px": 966.722,
+    "source_size": 1254,
+    "export_scale": 0.676191,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "cf54e99f031344d809453a998ae523d90e2d849fd4eada8d544f66b61a7d577d"
+  },
+  {
+    "id": 14,
+    "name": "단풍 한 잎",
+    "description": "주황빛 갈색 테두리에 작은 단풍잎 한 장.",
+    "tier": "normal",
+    "file": "normal/profile_014_normal.png",
+    "source_median_inner_diameter_px": 1024.259,
+    "source_size": 1254,
+    "export_scale": 0.428219,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "d8c970c4e4137f9e2ac4f0819cc59a76d76d7c67ceae2f7ca5d9ea6c8dbcd262"
+  },
+  {
+    "id": 15,
+    "name": "첫눈",
+    "description": "연하늘색 테두리와 희고 작은 눈송이.",
+    "tier": "normal",
+    "file": "normal/profile_015_normal.png",
+    "source_median_inner_diameter_px": 1007.537,
+    "source_size": 1254,
+    "export_scale": 0.580919,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "3abf57be0d98b2b7dd50d9722a657e445c9d35ffb85917f036c3171aaf347c91"
+  },
+  {
+    "id": 16,
+    "name": "잔잔한 파도",
+    "description": "파란색의 부드러운 물결이 원을 따라 흐르는 테두리.",
+    "tier": "normal",
+    "file": "normal/profile_016_normal.png",
+    "source_median_inner_diameter_px": 962.175,
+    "source_size": 1254,
+    "export_scale": 0.439382,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "60325a9fdc8c5cd5afdc6c03b8b82f8c62aed04ba284cb0d60b0008722f06abd"
+  },
+  {
+    "id": 17,
+    "name": "자연 조약돌",
+    "description": "작고 둥근 조약돌들이 이어진 자연스러운 테두리.",
+    "tier": "normal",
+    "file": "normal/profile_017_normal.png",
+    "source_median_inner_diameter_px": 980.437,
+    "source_size": 1254,
+    "export_scale": 0.608987,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "3c47cce4e2e3b30f24984e051b898ba68b6162594ea48058d310db16181b9257"
+  },
+  {
+    "id": 18,
+    "name": "종이비행기",
+    "description": "흰색과 하늘색의 가느다란 원형 선, 위쪽에 작은 종이비행기.",
+    "tier": "normal",
+    "file": "normal/profile_018_normal.png",
+    "source_median_inner_diameter_px": 939.033,
+    "source_size": 1254,
+    "export_scale": 0.586771,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "b013677648d933b11fc2ffc31c94f60bb750344723fbe3848e4dacbb7f8f5d45"
+  },
+  {
+    "id": 19,
+    "name": "연필 스케치",
+    "description": "연필로 직접 그린 듯한 연회색 원형 선과 짧은 스케치 흔적.",
+    "tier": "normal",
+    "file": "normal/profile_019_normal.png",
+    "source_median_inner_diameter_px": 998.172,
+    "source_size": 1254,
+    "export_scale": 0.427977,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "58501a6cc347aaa92d280da1caf400c1045ec8e3d2a87abb5e1989949beb24f0"
+  },
+  {
+    "id": 20,
+    "name": "책갈피",
+    "description": "베이지색 테두리와 작은 책갈피, 종이 장식.",
+    "tier": "normal",
+    "file": "normal/profile_020_normal.png",
+    "source_median_inner_diameter_px": 1045.803,
+    "source_size": 1254,
+    "export_scale": 0.404089,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "37a9bc8dff6e706906b73c27d80a17bfc8e6b721f9ca792a091df215bd351de6"
+  },
+  {
+    "id": 21,
+    "name": "픽셀 테두리",
+    "description": "8비트 게임을 연상시키는 작은 정사각형 픽셀로 구성한 원형 링.",
+    "tier": "normal",
+    "file": "normal/profile_021_normal.png",
+    "source_median_inner_diameter_px": 940.531,
+    "source_size": 1254,
+    "export_scale": 0.719494,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "93f4c09a194cf1b3c31d0dc4b71a6a75c0870a8428a46dd21fd83432de565857"
+  },
+  {
+    "id": 22,
+    "name": "하트 실",
+    "description": "가느다란 분홍색 실이 원을 이루며 작은 하트를 만드는 디자인.",
+    "tier": "normal",
+    "file": "normal/profile_022_normal.png",
+    "source_median_inner_diameter_px": 1027.899,
+    "source_size": 1254,
+    "export_scale": 0.816587,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "2a98a43e104a9f3c30c42e847f57bc9b792adfe3956fcdc15f7c09955fb6ff06"
+  },
+  {
+    "id": 23,
+    "name": "말풍선",
+    "description": "파스텔색 말풍선 두 개가 원형 테두리에 붙어 있는 디자인.",
+    "tier": "normal",
+    "file": "normal/profile_023_normal.png",
+    "source_median_inner_diameter_px": 916.977,
+    "source_size": 1254,
+    "export_scale": 0.382411,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "9688e271754048258ee3f05a27079e689ddbcbe5cb69ef500d54956c6e41657d"
+  },
+  {
+    "id": 24,
+    "name": "음표 산책",
+    "description": "가는 악보선과 작은 음표가 원을 따라 이어지는 테두리.",
+    "tier": "normal",
+    "file": "normal/profile_024_normal.png",
+    "source_median_inner_diameter_px": 978.75,
+    "source_size": 1254,
+    "export_scale": 0.425946,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "b2c18b14949d3cc42bbb8fce52d6cd634d7a92d4c789533746315e952d4a39a9"
+  },
+  {
+    "id": 25,
+    "name": "아침 햇살",
+    "description": "주황빛 노란 원형 테두리와 짧고 얇은 햇살 장식.",
+    "tier": "normal",
+    "file": "normal/profile_025_normal.png",
+    "source_median_inner_diameter_px": 949.776,
+    "source_size": 1254,
+    "export_scale": 0.74407,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "9b3095a8e399587b459e80142fc34462cf1c39bb5690ffe8508f504f054d46bb"
+  },
+  {
+    "id": 26,
+    "name": "네잎클로버",
+    "description": "초록색 테두리에 작은 네잎클로버 두 개.",
+    "tier": "normal",
+    "file": "normal/profile_026_normal.png",
+    "source_median_inner_diameter_px": 989.243,
+    "source_size": 1254,
+    "export_scale": 0.657356,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "f677d5825eac66cd1be85454c50580d4018118dff7d1d4fd330955a63b2c7536"
+  },
+  {
+    "id": 27,
+    "name": "쿠키 크럼블",
+    "description": "바삭한 쿠키색 테두리와 작은 쿠키 조각.",
+    "tier": "normal",
+    "file": "normal/profile_027_normal.png",
+    "source_median_inner_diameter_px": 990.025,
+    "source_size": 1254,
+    "export_scale": 0.559582,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "ec5b825aa02460f6c7e149fb937a9d97d5b68d06829b4d7f7e593936be3dc4ee"
+  },
+  {
+    "id": 28,
+    "name": "커피 향기",
+    "description": "커피색 원형 테두리와 커피콩, 부드러운 김 모양.",
+    "tier": "normal",
+    "file": "normal/profile_028_normal.png",
+    "source_median_inner_diameter_px": 994.575,
+    "source_size": 1254,
+    "export_scale": 0.43131,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "0cfab4fa087eae42a6e33fd122cdb02c991774336f4fd648db5d423f18c8b1e6"
+  },
+  {
+    "id": 29,
+    "name": "나비 한 마리",
+    "description": "연하늘색 테두리 오른쪽 위에 작은 파란 나비.",
+    "tier": "normal",
+    "file": "normal/profile_029_normal.png",
+    "source_median_inner_diameter_px": 1009.172,
+    "source_size": 1254,
+    "export_scale": 0.523422,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "f775ab2cb24c59e62308751da6b67c8eae693df36625a674e743fad8d6048107"
+  },
+  {
+    "id": 30,
+    "name": "무지개 실",
+    "description": "파스텔 무지개색의 가는 실들이 꼬여 있는 링.",
+    "tier": "normal",
+    "file": "normal/profile_030_normal.png",
+    "source_median_inner_diameter_px": 934.89,
+    "source_size": 1254,
+    "export_scale": 0.644221,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "c40d6f34deb5170c7122fbb866701754379418d94d073b58e5c002b336e08829"
+  },
+  {
+    "id": 31,
+    "name": "벚꽃 정원",
+    "description": "분홍 벚꽃 가지가 원을 감싸고 작은 꽃잎이 흩날리는 디자인.",
+    "tier": "premium",
+    "file": "premium/profile_031_premium.png",
+    "source_median_inner_diameter_px": 841.378,
+    "source_size": 1254,
+    "export_scale": 0.342748,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "2e12de3a694d2a0e41ad87f0c8e16adb15b6fd5a1a7e19b5f87435bd1e7ccba0"
+  },
+  {
+    "id": 32,
+    "name": "장미 리본",
+    "description": "양쪽에 분홍 장미 두 송이와 부드러운 실크 리본을 배치.",
+    "tier": "premium",
+    "file": "premium/profile_032_premium.png",
+    "source_median_inner_diameter_px": 883.76,
+    "source_size": 1254,
+    "export_scale": 0.295266,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "c856b69840ad3c61bcea1277c69872e7a6d8c674bc03abef46376dce34a0ff97"
+  },
+  {
+    "id": 33,
+    "name": "해바라기 춤",
+    "description": "여러 개의 작은 해바라기와 따뜻한 노란빛의 장식 테두리.",
+    "tier": "premium",
+    "file": "premium/profile_033_premium.png",
+    "source_median_inner_diameter_px": 843.257,
+    "source_size": 1254,
+    "export_scale": 0.372257,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "793417a584603debcea6f47c64caeaa4f6cee2c6639f1434f5076cdab4dfeead"
+  },
+  {
+    "id": 34,
+    "name": "아이비 정원",
+    "description": "초록 덩굴식물이 원형 테두리를 감싸고 잎들이 서로 겹치는 디자인.",
+    "tier": "premium",
+    "file": "premium/profile_034_premium.png",
+    "source_median_inner_diameter_px": 778.819,
+    "source_size": 1254,
+    "export_scale": 0.332002,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "e7d8952502c5f571cc429f988e9034bc2ec2482e2e9731914ff9b37bda860d5f"
+  },
+  {
+    "id": 35,
+    "name": "산호빛 바다",
+    "description": "산호, 작은 불가사리, 바닷풀을 조합한 해양 테두리.",
+    "tier": "premium",
+    "file": "premium/profile_035_premium.png",
+    "source_median_inner_diameter_px": 862.46,
+    "source_size": 1254,
+    "export_scale": 0.415958,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "4e381f1fe7d65e3cea7608ec73a8fc0e585aa541de3ffd2a2acf993c2534981e"
+  },
+  {
+    "id": 36,
+    "name": "진주 조개",
+    "description": "은은한 진주빛 조개와 작은 진주가 원을 장식한다.",
+    "tier": "premium",
+    "file": "premium/profile_036_premium.png",
+    "source_median_inner_diameter_px": 869.76,
+    "source_size": 1254,
+    "export_scale": 0.38078,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "c4c16f5a0ff9e14ab32a2003cbd1d355423087e98036b7a7e93dd1a6783d96f5"
+  },
+  {
+    "id": 37,
+    "name": "노을의 구름",
+    "description": "주황색과 보라색의 노을 구름이 원 외곽을 감싸는 디자인.",
+    "tier": "premium",
+    "file": "premium/profile_037_premium.png",
+    "source_median_inner_diameter_px": 859.76,
+    "source_size": 1254,
+    "export_scale": 0.342184,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "c246f7a44fdf5291641bc7f5138f2d2f92a82af09a96c0e1ce7ef8a84e5aee38"
+  },
+  {
+    "id": 38,
+    "name": "자정의 별",
+    "description": "짙은 남색 테두리와 은빛 별들이 반짝이는 밤하늘 테마.",
+    "tier": "premium",
+    "file": "premium/profile_038_premium.png",
+    "source_median_inner_diameter_px": 866.942,
+    "source_size": 1254,
+    "export_scale": 0.404767,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "f8709687ea56f7c229bb7cd43fabfa744591683e042a3aa242d12e08a5bb9c47"
+  },
+  {
+    "id": 39,
+    "name": "여우 꼬리",
+    "description": "귀여운 주황색 여우 귀가 위쪽에, 풍성한 여우 꼬리가 바깥쪽에 배치된다.",
+    "tier": "premium",
+    "file": "premium/profile_039_premium.png",
+    "source_median_inner_diameter_px": 780.741,
+    "source_size": 1254,
+    "export_scale": 0.287794,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "2ad786e4b6823c31a095d09358daae4f2d182d981fca42a4bdf6caf1f121512b"
+  },
+  {
+    "id": 40,
+    "name": "고양이 카페",
+    "description": "고양이 귀와 작은 방울, 발자국 무늬를 결합한 테두리.",
+    "tier": "premium",
+    "file": "premium/profile_040_premium.png",
+    "source_median_inner_diameter_px": 862.761,
+    "source_size": 1254,
+    "export_scale": 0.299029,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "640e281d569e97a1e43c52532a8c89a1ae5318065674f3935c7a10af066035a4"
+  },
+  {
+    "id": 41,
+    "name": "토끼 우체국",
+    "description": "토끼 귀, 작은 편지 봉투와 분홍 리본 장식.",
+    "tier": "premium",
+    "file": "premium/profile_041_premium.png",
+    "source_median_inner_diameter_px": 806.08,
+    "source_size": 1254,
+    "export_scale": 0.293986,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "7c29614465bbeb60551915d387764c83b56d18d9c3f4986eee3dc49e483a34cb"
+  },
+  {
+    "id": 42,
+    "name": "강아지 산책",
+    "description": "접힌 강아지 귀와 발자국, 작은 목걸이 장식.",
+    "tier": "premium",
+    "file": "premium/profile_042_premium.png",
+    "source_median_inner_diameter_px": 828.196,
+    "source_size": 1254,
+    "export_scale": 0.375553,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "eb0f550bda24bd43a5ddfc0d941df8bfb89f52326e0ffb0e86122f9a53f95e6d"
+  },
+  {
+    "id": 43,
+    "name": "곰돌이 포근",
+    "description": "테디베어의 둥근 귀와 체크 리본, 봉제 인형의 바느질 표현.",
+    "tier": "premium",
+    "file": "premium/profile_043_premium.png",
+    "source_median_inner_diameter_px": 827.662,
+    "source_size": 1254,
+    "export_scale": 0.285528,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "8e4086b6c0478a0e0c10775bcf68ed2056e1d1c2d70dd6aa84a1d549636c5313"
+  },
+  {
+    "id": 44,
+    "name": "펭귄 빙수",
+    "description": "귀여운 작은 펭귄과 얼음 조각을 배치한 시원한 디자인.",
+    "tier": "premium",
+    "file": "premium/profile_044_premium.png",
+    "source_median_inner_diameter_px": 870.371,
+    "source_size": 1254,
+    "export_scale": 0.30697,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "4dcd4d97ea8bdd72fb5dc5c60aa169074f3e162110829af864c547ed8c3b134a"
+  },
+  {
+    "id": 45,
+    "name": "딸기 생크림",
+    "description": "딸기와 생크림이 원을 따라 장식된 디저트 테두리.",
+    "tier": "premium",
+    "file": "premium/profile_045_premium.png",
+    "source_median_inner_diameter_px": 816.05,
+    "source_size": 1254,
+    "export_scale": 0.360288,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "e253356d51c1cc3e315accc114b109174e8d6c7476e25f23bc2c049739acde98"
+  },
+  {
+    "id": 46,
+    "name": "마카롱 파티",
+    "description": "분홍, 민트, 라벤더색 마카롱이 조화롭게 배치된 테두리.",
+    "tier": "premium",
+    "file": "premium/profile_046_premium.png",
+    "source_median_inner_diameter_px": 869.753,
+    "source_size": 1254,
+    "export_scale": 0.282917,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "28f02f21947599452f6d369216535391a22ff38f836187b95be85bbe58b8dd13"
+  },
+  {
+    "id": 47,
+    "name": "초코 도넛",
+    "description": "초콜릿 코팅과 알록달록한 스프링클이 어우러진 테두리.",
+    "tier": "premium",
+    "file": "premium/profile_047_premium.png",
+    "source_median_inner_diameter_px": 787.852,
+    "source_size": 1254,
+    "export_scale": 0.415659,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "9fce51be8685e215a08bb8c1ba9921e2789d451103c0478d540801b77aaf8aad"
+  },
+  {
+    "id": 48,
+    "name": "레트로 오락실",
+    "description": "고전 아케이드 게임의 버튼, 조이스틱, 픽셀 장식.",
+    "tier": "premium",
+    "file": "premium/profile_048_premium.png",
+    "source_median_inner_diameter_px": 834.282,
+    "source_size": 1254,
+    "export_scale": 0.384922,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "1cd5a665ce6dbb4491e26a47bf0aa1a7f16239b07b1ece1b3f84bd826d71db58"
+  },
+  {
+    "id": 49,
+    "name": "픽셀 러브",
+    "description": "8비트 하트와 픽셀 별, 알록달록한 작은 게임 아이콘.",
+    "tier": "premium",
+    "file": "premium/profile_049_premium.png",
+    "source_median_inner_diameter_px": 863.527,
+    "source_size": 1254,
+    "export_scale": 0.455512,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "4f46f0e3d5612e12c8c4c66a8c381d0ca859c9b8caa17a0996265cd6230e7149"
+  },
+  {
+    "id": 50,
+    "name": "청록 회로",
+    "description": "청록색 전자 회로가 원형으로 연결된 디지털 장식.",
+    "tier": "premium",
+    "file": "premium/profile_050_premium.png",
+    "source_median_inner_diameter_px": 869.372,
+    "source_size": 1254,
+    "export_scale": 0.442107,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "73ce5d761be0b33ff35eccb0ac74f525c989c6c3f5a81cee8d64677030c7b01a"
+  },
+  {
+    "id": 51,
+    "name": "체스의 밤",
+    "description": "체스 나이트 말과 흑백 체크 패턴, 은색 장식.",
+    "tier": "premium",
+    "file": "premium/profile_051_premium.png",
+    "source_median_inner_diameter_px": 805.76,
+    "source_size": 1254,
+    "export_scale": 0.309951,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "5048d46b4b10d9828642a36207df6a90110791e7c326adeb4048ddd9976f2475"
+  },
+  {
+    "id": 52,
+    "name": "피아노의 밤",
+    "description": "흑백 건반이 곡선으로 이어지고 작은 음표가 배치된 테두리.",
+    "tier": "premium",
+    "file": "premium/profile_052_premium.png",
+    "source_median_inner_diameter_px": 834.851,
+    "source_size": 1254,
+    "export_scale": 0.336469,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "e8f71227190aff01bbf170eb7f9d702034ddcaba85884621e89d6b0686a12243"
+  },
+  {
+    "id": 53,
+    "name": "필름 카메라",
+    "description": "옛날 필름의 구멍과 작은 카메라, 필름 스트립 장식.",
+    "tier": "premium",
+    "file": "premium/profile_053_premium.png",
+    "source_median_inner_diameter_px": 843.153,
+    "source_size": 1254,
+    "export_scale": 0.337909,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "7d16700a2f88a986c5d275a6a14affc105dcf9523b221aece06df0aa46348717"
+  },
+  {
+    "id": 54,
+    "name": "화가의 팔레트",
+    "description": "붓, 물감, 팔레트와 작은 색칠 흔적이 둘러진 테두리.",
+    "tier": "premium",
+    "file": "premium/profile_054_premium.png",
+    "source_median_inner_diameter_px": 823.078,
+    "source_size": 1254,
+    "export_scale": 0.375172,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "072cd18e48e890fcdc6347adb4f0b8e5b24634cd6f2e0f80680353836e8c0222"
+  },
+  {
+    "id": 55,
+    "name": "별을 보는 밤",
+    "description": "작은 망원경과 별자리, 은은한 푸른 밤하늘 장식.",
+    "tier": "premium",
+    "file": "premium/profile_055_premium.png",
+    "source_median_inner_diameter_px": 816.853,
+    "source_size": 1254,
+    "export_scale": 0.297545,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "2c951bde9a7d54a08399b6cfe862a4ee61775bb86dba037d49f47abe7796cf65"
+  },
+  {
+    "id": 56,
+    "name": "달빛의 서약",
+    "description": "은색 초승달과 푸른 별빛이 원을 감싸는 신비로운 테두리.",
+    "tier": "rare",
+    "file": "rare/profile_056_rare.png",
+    "source_median_inner_diameter_px": 885.92,
+    "source_size": 1254,
+    "export_scale": 0.323589,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "0b0f6126896553abf9999f9860cadd9c2825d904922e19ed09a7c83ff0094170"
+  },
+  {
+    "id": 57,
+    "name": "태양과 달",
+    "description": "반대편에 배치된 금빛 태양과 은빛 달이 하나의 고리를 이루는 디자인.",
+    "tier": "rare",
+    "file": "rare/profile_057_rare.png",
+    "source_median_inner_diameter_px": 798.196,
+    "source_size": 1254,
+    "export_scale": 0.283655,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "769ebb1bc45d29a0896c288aa0b6de581dc8d95b3708993299011b7114ed1f2b"
+  },
+  {
+    "id": 58,
+    "name": "별자리 항해",
+    "description": "별자리 선과 작은 나침반, 은빛 천체 장식.",
+    "tier": "rare",
+    "file": "rare/profile_058_rare.png",
+    "source_median_inner_diameter_px": 834.96,
+    "source_size": 1254,
+    "export_scale": 0.441642,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "4b2f684a35ff4ba8f4d633bf45e53b8e795522d3bdf5e1c6fac61aba65e81fc6"
+  },
+  {
+    "id": 59,
+    "name": "은하수 리본",
+    "description": "푸른색과 보라색의 은하수가 리본처럼 원을 감싸는 구조.",
+    "tier": "rare",
+    "file": "rare/profile_059_rare.png",
+    "source_median_inner_diameter_px": 881.296,
+    "source_size": 1254,
+    "export_scale": 0.320528,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "6ba1599f1f722de79a8c35649c59f1646e7cd7f81d8a285072de61d8aaf9641c"
+  },
+  {
+    "id": 60,
+    "name": "보랏빛 마법진",
+    "description": "보라색 마법 문자 형태의 추상 문양과 여러 겹의 원형 마법진.",
+    "tier": "rare",
+    "file": "rare/profile_060_rare.png",
+    "source_median_inner_diameter_px": 735.108,
+    "source_size": 1254,
+    "export_scale": 0.37337,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "8d982af3cec39d019d4b818b4554ceb5646417994c7a49eff74258b782014516"
+  },
+  {
+    "id": 61,
+    "name": "수정 숲",
+    "description": "맑고 투명한 수정과 작은 신비로운 식물들이 자라난 테두리.",
+    "tier": "rare",
+    "file": "rare/profile_061_rare.png",
+    "source_median_inner_diameter_px": 869.313,
+    "source_size": 1254,
+    "export_scale": 0.454668,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "88e3534517c10989e3b0765fc9f80b6c60d3b5c74f8e7cde40ab636d67bdef7a"
+  },
+  {
+    "id": 62,
+    "name": "사파이어 왕관",
+    "description": "푸른 사파이어와 은색 금속 세공으로 구성한 우아한 테두리.",
+    "tier": "rare",
+    "file": "rare/profile_062_rare.png",
+    "source_median_inner_diameter_px": 855.73,
+    "source_size": 1254,
+    "export_scale": 0.356468,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "2d23a04704b2100b8c0848861f89a5e26b3f09f043c444db4de9eef8391264fc"
+  },
+  {
+    "id": 63,
+    "name": "루비 덩굴",
+    "description": "붉은 루비와 검붉은 덩굴이 원을 감싸는 디자인.",
+    "tier": "rare",
+    "file": "rare/profile_063_rare.png",
+    "source_median_inner_diameter_px": 827.94,
+    "source_size": 1254,
+    "export_scale": 0.349658,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "c06f7d184fa6cfd2c9455fa8f1ee188fd05e00ff4c89c59a99044237b1f72d6c"
+  },
+  {
+    "id": 64,
+    "name": "에메랄드 세공",
+    "description": "초록 에메랄드와 정교한 금속 세공의 장식.",
+    "tier": "rare",
+    "file": "rare/profile_064_rare.png",
+    "source_median_inner_diameter_px": 862.183,
+    "source_size": 1254,
+    "export_scale": 0.414687,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "ad3f773b9c04f1ba7d4c933e97545625b1ffb30a181b9341cce02e279f0e4b5a"
+  },
+  {
+    "id": 65,
+    "name": "오팔 파편",
+    "description": "오팔 특유의 다채로운 색이 비치는 결정 조각의 테두리.",
+    "tier": "rare",
+    "file": "rare/profile_065_rare.png",
+    "source_median_inner_diameter_px": 864.92,
+    "source_size": 1254,
+    "export_scale": 0.421364,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "9b77eac77ff00fa3c8e7106d38e0fafa29c541501c38e9236e27f4baca385d3f"
+  },
+  {
+    "id": 66,
+    "name": "얼음 결정",
+    "description": "푸른 수정 얼음과 섬세한 육각형 눈 결정이 결합한 구조.",
+    "tier": "rare",
+    "file": "rare/profile_066_rare.png",
+    "source_median_inner_diameter_px": 817.7,
+    "source_size": 1254,
+    "export_scale": 0.401155,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "d0c1c12b2b566602464c4a0a87c93c5f6fff1be38fd5dbe3ccf722b9b703ee66"
+  },
+  {
+    "id": 67,
+    "name": "작은 불꽃 정령",
+    "description": "주황빛 불꽃의 정령 형상이 테두리 바깥에서 춤추는 디자인.",
+    "tier": "rare",
+    "file": "rare/profile_067_rare.png",
+    "source_median_inner_diameter_px": 881.767,
+    "source_size": 1254,
+    "export_scale": 0.3006,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "d9bc785197f314cdac62f1dc54d8abdbda528ad45dd6ea4f35293cdb9b84a40e"
+  },
+  {
+    "id": 68,
+    "name": "폭풍의 고리",
+    "description": "푸른 회오리바람과 작은 번개가 원형으로 흐르는 테두리.",
+    "tier": "rare",
+    "file": "rare/profile_068_rare.png",
+    "source_median_inner_diameter_px": 791.941,
+    "source_size": 1254,
+    "export_scale": 0.434313,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "b789995a35ada5a2e48c120ba4c15cb92f95c94a723827244d9e28d28e9876c9"
+  },
+  {
+    "id": 69,
+    "name": "전자파 홀로그램",
+    "description": "반투명 청록색 HUD와 디지털 격자, 홀로그램 조각.",
+    "tier": "rare",
+    "file": "rare/profile_069_rare.png",
+    "source_median_inner_diameter_px": 855.406,
+    "source_size": 1254,
+    "export_scale": 0.468565,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "d3be892447ac4b6b8c985eabb0e26738ab5875a1c584b96aaac46cf142fc0c68"
+  },
+  {
+    "id": 70,
+    "name": "시공간 톱니",
+    "description": "서로 다른 크기의 금속 톱니바퀴와 빛나는 시간 문양.",
+    "tier": "rare",
+    "file": "rare/profile_070_rare.png",
+    "source_median_inner_diameter_px": 829.647,
+    "source_size": 1254,
+    "export_scale": 0.327757,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "8a4d6431295075e3dcd2f9bb593ca3d382eeec172c0a56ff512e2664d2222dc4"
+  },
+  {
+    "id": 71,
+    "name": "봉인의 문장",
+    "description": "고대 유물 같은 금속 봉인과 정교한 대칭 문양.",
+    "tier": "rare",
+    "file": "rare/profile_071_rare.png",
+    "source_median_inner_diameter_px": 783.407,
+    "source_size": 1254,
+    "export_scale": 0.35753,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "567da87b2acf0c0e67d6a861363fcc499f0820d6163ee3af5707562aadc72c84"
+  },
+  {
+    "id": 72,
+    "name": "마법 도서관",
+    "description": "펼쳐진 작은 마법책과 빛나는 책장, 떠다니는 마법 입자.",
+    "tier": "rare",
+    "file": "rare/profile_072_rare.png",
+    "source_median_inner_diameter_px": 903.805,
+    "source_size": 1254,
+    "export_scale": 0.411772,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "e87bd29cf348a2ba64bd5888e093f96244a7da412870a09c0e04c803adf0b393"
+  },
+  {
+    "id": 73,
+    "name": "푸른 용의 비늘",
+    "description": "반짝이는 푸른 용의 비늘과 뿔 모양 장식.",
+    "tier": "rare",
+    "file": "rare/profile_073_rare.png",
+    "source_median_inner_diameter_px": 864.779,
+    "source_size": 1254,
+    "export_scale": 0.335822,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "1ee0a0f7e176a14fcbc64edbe9b1a00b98955b40d597a17c9c1781838820457c"
+  },
+  {
+    "id": 74,
+    "name": "반딧불 요정",
+    "description": "초록빛 식물과 작은 반딧불들이 원 주위를 도는 디자인.",
+    "tier": "rare",
+    "file": "rare/profile_074_rare.png",
+    "source_median_inner_diameter_px": 841.842,
+    "source_size": 1254,
+    "export_scale": 0.467929,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "8a28a6d43307654ebe93bfc5b481f1d94a2d9fbe396dfc164881c1d2ed514a1c"
+  },
+  {
+    "id": 75,
+    "name": "심해 발광",
+    "description": "짙은 남색과 청록색, 심해 생물의 생물발광을 연상시키는 장식.",
+    "tier": "rare",
+    "file": "rare/profile_075_rare.png",
+    "source_median_inner_diameter_px": 885.564,
+    "source_size": 1254,
+    "export_scale": 0.449261,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "6a286a4349eaf9522f604f39cdd3e65f8de606352bd2fc7e0c27a9ee89097f13"
+  },
+  {
+    "id": 76,
+    "name": "불사조의 깃털",
+    "description": "금빛과 붉은색으로 타오르는 불사조 깃털이 원을 감싸는 디자인.",
+    "tier": "epic",
+    "file": "epic/profile_076_epic.png",
+    "source_median_inner_diameter_px": 806.402,
+    "source_size": 1254,
+    "export_scale": 0.322234,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "6f3efbdcdfabc55bc171a00f3594c8f7783f0d3f3034162a3b273d367fe603f0"
+  },
+  {
+    "id": 77,
+    "name": "설원의 군주",
+    "description": "거대한 얼음 결정과 백금 금속 장식, 푸른 냉기가 흐르는 테두리.",
+    "tier": "epic",
+    "file": "epic/profile_077_epic.png",
+    "source_median_inner_diameter_px": 807.162,
+    "source_size": 1254,
+    "export_scale": 0.306164,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "3778a45e75ff7f764a34ea470873f2a9769d78a89c4f5890f6486f852fc334dd"
+  },
+  {
+    "id": 78,
+    "name": "황금 사자",
+    "description": "정교한 황금 사자 문장과 왕실 장식으로 이루어진 테두리.",
+    "tier": "epic",
+    "file": "epic/profile_078_epic.png",
+    "source_median_inner_diameter_px": 773.525,
+    "source_size": 1254,
+    "export_scale": 0.310746,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "89712eeb236f50b549ee447d2953597a92d2419dc88d23652d6e03f241367097"
+  },
+  {
+    "id": 79,
+    "name": "심연의 장미",
+    "description": "검은 장미와 보랏빛 마력, 은빛 가시가 결합한 고딕 장식.",
+    "tier": "epic",
+    "file": "epic/profile_079_epic.png",
+    "source_median_inner_diameter_px": 804.754,
+    "source_size": 1254,
+    "export_scale": 0.351536,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "d4398ac69a2c2babee71fe5b7e669354dbb31eaec319778408f0ee513bbbc422"
+  },
+  {
+    "id": 80,
+    "name": "붉은 월식",
+    "description": "붉은 달과 검은 그림자, 어두운 금속으로 구성한 월식 테마.",
+    "tier": "epic",
+    "file": "epic/profile_080_epic.png",
+    "source_median_inner_diameter_px": 802.457,
+    "source_size": 1254,
+    "export_scale": 0.343662,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "ce3318a32712b2edbce2ddd06c0ade78d80b917f9a8a0aa09d7d19cdbf25a24a"
+  },
+  {
+    "id": 81,
+    "name": "우주의 시계",
+    "description": "여러 겹의 고리와 톱니바퀴, 행성 궤도로 구성한 천체 시계.",
+    "tier": "epic",
+    "file": "epic/profile_081_epic.png",
+    "source_median_inner_diameter_px": 792.76,
+    "source_size": 1254,
+    "export_scale": 0.311432,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "29ce0d242714d9a40155dc4dd2b057d86793d82eb5697630569b91e12f69b97c"
+  },
+  {
+    "id": 82,
+    "name": "여명의 성기사",
+    "description": "백금색 갑옷을 연상시키는 세공과 황금빛 날개 장식.",
+    "tier": "epic",
+    "file": "epic/profile_082_epic.png",
+    "source_median_inner_diameter_px": 801.675,
+    "source_size": 1254,
+    "export_scale": 0.287013,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "aaade68e44921aa0258c5045c2f06bab5e8f61abac8bed92492124cb4aaba50d"
+  },
+  {
+    "id": 83,
+    "name": "별똥별 궤도",
+    "description": "여러 개의 별똥별이 곡선을 그리며 원을 감싸는 환상적인 구조.",
+    "tier": "epic",
+    "file": "epic/profile_083_epic.png",
+    "source_median_inner_diameter_px": 834.877,
+    "source_size": 1254,
+    "export_scale": 0.343545,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "69cdda95bd9a1aaf3ac25f3dd1d99e278b6d37978a347bc66d65a2ad1bb20b18"
+  },
+  {
+    "id": 84,
+    "name": "전류 지배자",
+    "description": "푸른 전기 에너지와 정교한 검은 금속 프레임, 번개 결정.",
+    "tier": "epic",
+    "file": "epic/profile_084_epic.png",
+    "source_median_inner_diameter_px": 848.983,
+    "source_size": 1254,
+    "export_scale": 0.341817,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "e7396bd778ab1200b48cf81d7d3763dd8debc0bffa1ad8fe5bff8ceb0b05dd06"
+  },
+  {
+    "id": 85,
+    "name": "고대 룬",
+    "description": "금빛 고대 문자와 청록색 마력석, 겹겹의 신비로운 문양.",
+    "tier": "epic",
+    "file": "epic/profile_085_epic.png",
+    "source_median_inner_diameter_px": 772.467,
+    "source_size": 1254,
+    "export_scale": 0.333701,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "abc394b6f29755a3fda0d0d8d3bbd6a2f3943ea2a6fdc184528f6ab46bdbcca1"
+  },
+  {
+    "id": 86,
+    "name": "행성의 수호자",
+    "description": "토성과 유사한 고리 행성, 작은 위성, 우주 에너지를 결합한 디자인.",
+    "tier": "epic",
+    "file": "epic/profile_086_epic.png",
+    "source_median_inner_diameter_px": 748.412,
+    "source_size": 1254,
+    "export_scale": 0.345806,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "1e2d8b4f79723609a62bc82693ea7cc41827b78c99069674253ef9a7bcbb081d"
+  },
+  {
+    "id": 87,
+    "name": "창공의 날개",
+    "description": "하얀 깃털과 푸른 바람, 은빛 날개 장식이 양쪽으로 뻗은 테두리.",
+    "tier": "epic",
+    "file": "epic/profile_087_epic.png",
+    "source_median_inner_diameter_px": 794.75,
+    "source_size": 1254,
+    "export_scale": 0.285778,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "9d9e1306cf8b8f330be4ce1eb3ffa8712e48b3c0883799d8aa458219cf88d04f"
+  },
+  {
+    "id": 88,
+    "name": "심해의 왕관",
+    "description": "남색 보석과 심해 산호, 진주, 고대 해양 왕국의 왕관을 결합한 디자인.",
+    "tier": "epic",
+    "file": "epic/profile_088_epic.png",
+    "source_median_inner_diameter_px": 802.769,
+    "source_size": 1254,
+    "export_scale": 0.373157,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "7b349343b325e8c5bbc9dbbdd2b7adb333c9f627fc91a0747c1dcd7465685635"
+  },
+  {
+    "id": 89,
+    "name": "흑룡의 숨결",
+    "description": "검은 용의 뿔과 비늘, 보랏빛 화염이 테두리를 감싸는 디자인.",
+    "tier": "epic",
+    "file": "epic/profile_089_epic.png",
+    "source_median_inner_diameter_px": 795.178,
+    "source_size": 1254,
+    "export_scale": 0.340025,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "670cefe161b0070223937c39f16dcaff0a53a35a5e1b41b37653e1e84cc6ab2c"
+  },
+  {
+    "id": 90,
+    "name": "천둥의 왕좌",
+    "description": "황금 장식과 보라색 번개, 폭풍 구름을 결합한 왕실 테두리.",
+    "tier": "epic",
+    "file": "epic/profile_090_epic.png",
+    "source_median_inner_diameter_px": 792.508,
+    "source_size": 1254,
+    "export_scale": 0.338423,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "d6c22b35908a49e6ec38badf26baa9bfd9f237c2a3525d4ba6937648a4e5598b"
+  },
+  {
+    "id": 91,
+    "name": "태초의 별",
+    "description": "태초의 별 탄생을 표현한 황금빛 별핵과 푸른 우주 에너지의 고리. 불규칙한 별 결정들이 균형 있는 형태로 결합한다.",
+    "tier": "legendary",
+    "file": "legendary/profile_091_legendary.png",
+    "source_median_inner_diameter_px": 835.665,
+    "source_size": 1254,
+    "export_scale": 0.392251,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "e25d7d532b4644c15e124fe0b8a57db74d4f48a141f45ed2efce0db3b37c2e66"
+  },
+  {
+    "id": 92,
+    "name": "끝없는 은하",
+    "description": "서로 다른 색상의 은하수 여러 개가 하나의 원을 중심으로 교차하는 장식. 작은 별들과 성운이 정교하게 배치된다.",
+    "tier": "legendary",
+    "file": "legendary/profile_092_legendary.png",
+    "source_median_inner_diameter_px": 818.088,
+    "source_size": 1254,
+    "export_scale": 0.427363,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "cd60a3cf4e57cb966eaf11c394324d94273cdb15976d6bd45773d4aeed5f9df8"
+  },
+  {
+    "id": 93,
+    "name": "영원한 일식",
+    "description": "검은 태양, 붉은 일식 광륜, 황금빛 태양 코로나가 겹쳐진 웅장한 디자인. 어둠과 빛의 대비를 강조한다.",
+    "tier": "legendary",
+    "file": "legendary/profile_093_legendary.png",
+    "source_median_inner_diameter_px": 777.691,
+    "source_size": 1254,
+    "export_scale": 0.339935,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "730afc3e69c5e5c23af1d8026c7b947f22496d559e14ff98d402c0ac5bb26c42"
+  },
+  {
+    "id": 94,
+    "name": "시간의 왕관",
+    "description": "정교한 황금 시계 기어와 푸른 시공간 결정, 왕관의 뾰족한 세공이 합쳐진 구조. 시간의 흐름을 상징한다.",
+    "tier": "legendary",
+    "file": "legendary/profile_094_legendary.png",
+    "source_median_inner_diameter_px": 798.177,
+    "source_size": 1254,
+    "export_scale": 0.343423,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "5a55a8e2808d6d558d79afa3df66db37acaeb5b237aeda0c2be848332e3a31bf"
+  },
+  {
+    "id": 95,
+    "name": "차원의 균열",
+    "description": "보라색과 청록색의 공간 균열 조각이 둥근 포털을 이루는 디자인. 유리처럼 갈라진 차원 파편을 표현한다.",
+    "tier": "legendary",
+    "file": "legendary/profile_095_legendary.png",
+    "source_median_inner_diameter_px": 778.755,
+    "source_size": 1254,
+    "export_scale": 0.383867,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "d1f32a8f4bb203036fc0dc7b3229f5b8601f160be45df0e238d520b5f642252d"
+  },
+  {
+    "id": 96,
+    "name": "창세의 세계수",
+    "description": "거대한 신비로운 나무의 가지와 뿌리가 원형으로 연결된 장식. 금빛 잎과 에메랄드 결정, 별빛이 정교하게 어우러진다.",
+    "tier": "legendary",
+    "file": "legendary/profile_096_legendary.png",
+    "source_median_inner_diameter_px": 772.506,
+    "source_size": 1254,
+    "export_scale": 0.340495,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "eec952ea5e27c9ce4f44198d794ed516cdd2a86b3feaa9642edf5094d6c68e6e"
+  },
+  {
+    "id": 97,
+    "name": "천상의 심판",
+    "description": "순백의 천사 날개와 여러 겹의 금빛 후광, 푸른 성스러운 보석을 결합한 대칭형 장식. 장엄하고 고결한 분위기.",
+    "tier": "legendary",
+    "file": "legendary/profile_097_legendary.png",
+    "source_median_inner_diameter_px": 725.952,
+    "source_size": 1254,
+    "export_scale": 0.319569,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "070fb2ef3d465f42ef8808a9b42c0595f9a08cc47025dc143f6aad2f2f26e2f2"
+  },
+  {
+    "id": 98,
+    "name": "영겁의 용",
+    "description": "고대의 동양풍 신룡이 자기 몸을 둥글게 말아 테두리를 이루는 디자인. 청금빛 비늘과 보석 같은 뿔, 신비로운 구름 장식.",
+    "tier": "legendary",
+    "file": "legendary/profile_098_legendary.png",
+    "source_median_inner_diameter_px": 780.677,
+    "source_size": 1254,
+    "export_scale": 0.335475,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "f6b41cd7290de7e0760a75cd078735eda456bd3e980d74bccb8d66101d323150"
+  },
+  {
+    "id": 99,
+    "name": "무한의 프리즘",
+    "description": "여러 색의 빛을 반사하는 수정 프리즘과 작은 별 조각이 원형으로 연결된 구조. 각 결정은 개별적으로 정교하게 표현한다.",
+    "tier": "legendary",
+    "file": "legendary/profile_099_legendary.png",
+    "source_median_inner_diameter_px": 823.718,
+    "source_size": 1254,
+    "export_scale": 0.384536,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "d3fdecaaf2cacab77b5fdbaa921431946b7bf57b43546d37f65b135f25a93a5d"
+  },
+  {
+    "id": 100,
+    "name": "우주의 중심",
+    "description": "중앙의 투명 프로필 공간을 둘러싸는 여러 개의 천체 궤도, 별 결정, 금빛 에너지 고리로 구성된 궁극의 테두리. 전체가 하나의 거대한 천체 장치처럼 보이되 중심부는 완전히 투명하게 유지한다.",
+    "tier": "legendary",
+    "file": "legendary/profile_100_legendary.png",
+    "source_median_inner_diameter_px": 806.791,
+    "source_size": 1254,
+    "export_scale": 0.341899,
+    "size": [
+      1024,
+      1024
+    ],
+    "mode": "RGBA",
+    "center": [
+      512,
+      512
+    ],
+    "inner_diameter_px": 716,
+    "central_nontransparent_pixels": 0,
+    "inner_contour_pass": true,
+    "safe_margin_pass": true,
+    "sha256": "799ad675135ad3ead9c347c67fdde71bf36847547a038ea6494e2b1d4772dce7"
+  }
+]
