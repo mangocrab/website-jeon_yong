@@ -1,0 +1,332 @@
+{
+  "status": "passed",
+  "browser": "Chromium 155.0.8059.79",
+  "assets_checked": 25,
+  "rendered_phases_checked": 125,
+  "center": [
+    512,
+    512
+  ],
+  "inner_diameter_px": 716,
+  "original_pngs_modified": false,
+  "results": [
+    {
+      "id": 76,
+      "tier": "epic",
+      "svg_sha256": "3e2b5c9e1b9945729805f13bdb2092cf59e121037f24f998fdb9ae6b9a60a16c",
+      "phases_checked": 5,
+      "central_alpha_pass": true,
+      "identical_inner_contour_pass": true,
+      "safe_margin_pass": true,
+      "stationary_effect_geometry_pass": true,
+      "loop_closure_pass": true,
+      "reduced_motion_pass": true
+    },
+    {
+      "id": 77,
+      "tier": "epic",
+      "svg_sha256": "1c5091bacf8fe21fbdd0b01f4450b8f74e8a0e79005089abaccd122226860425",
+      "phases_checked": 5,
+      "central_alpha_pass": true,
+      "identical_inner_contour_pass": true,
+      "safe_margin_pass": true,
+      "stationary_effect_geometry_pass": true,
+      "loop_closure_pass": true,
+      "reduced_motion_pass": true
+    },
+    {
+      "id": 78,
+      "tier": "epic",
+      "svg_sha256": "ae9ca62c3f7726fc5a31a3a29927bacbb9e24c99814541269e66ebdb41e0a74d",
+      "phases_checked": 5,
+      "central_alpha_pass": true,
+      "identical_inner_contour_pass": true,
+      "safe_margin_pass": true,
+      "stationary_effect_geometry_pass": true,
+      "loop_closure_pass": true,
+      "reduced_motion_pass": true
+    },
+    {
+      "id": 79,
+      "tier": "epic",
+      "svg_sha256": "ac71020a25b3d8e6be9f5fcefa606025ee5cbe77ab23bda5ff68a63334abe274",
+      "phases_checked": 5,
+      "central_alpha_pass": true,
+      "identical_inner_contour_pass": true,
+      "safe_margin_pass": true,
+      "stationary_effect_geometry_pass": true,
+      "loop_closure_pass": true,
+      "reduced_motion_pass": true
+    },
+    {
+      "id": 80,
+      "tier": "epic",
+      "svg_sha256": "2a923c6e6430a1251ae9281b6ca22457f7cacb87c0b708a2c6eddb7f4e80a48e",
+      "phases_checked": 5,
+      "central_alpha_pass": true,
+      "identical_inner_contour_pass": true,
+      "safe_margin_pass": true,
+      "stationary_effect_geometry_pass": true,
+      "loop_closure_pass": true,
+      "reduced_motion_pass": true
+    },
+    {
+      "id": 81,
+      "tier": "epic",
+      "svg_sha256": "a8a3a2e732f0ac8aeef1948554c41125f3e2d58ec9989a651f3a04ecd9530d5e",
+      "phases_checked": 5,
+      "central_alpha_pass": true,
+      "identical_inner_contour_pass": true,
+      "safe_margin_pass": true,
+      "stationary_effect_geometry_pass": true,
+      "loop_closure_pass": true,
+      "reduced_motion_pass": true
+    },
+    {
+      "id": 82,
+      "tier": "epic",
+      "svg_sha256": "2419b5c2811024f872118034e0a667b676f24ce5bd8e3f9fb19983886e8d0b10",
+      "phases_checked": 5,
+      "central_alpha_pass": true,
+      "identical_inner_contour_pass": true,
+      "safe_margin_pass": true,
+      "stationary_effect_geometry_pass": true,
+      "loop_closure_pass": true,
+      "reduced_motion_pass": true
+    },
+    {
+      "id": 83,
+      "tier": "epic",
+      "svg_sha256": "47d0823d28892702a77ee703b33a0e1eae61c6e278242e5919fe43d4c4322172",
+      "phases_checked": 5,
+      "central_alpha_pass": true,
+      "identical_inner_contour_pass": true,
+      "safe_margin_pass": true,
+      "stationary_effect_geometry_pass": true,
+      "loop_closure_pass": true,
+      "reduced_motion_pass": true
+    },
+    {
+      "id": 84,
+      "tier": "epic",
+      "svg_sha256": "1b8266f63a9a26c3e2c2b195c1b6353c7a430b709353397309b3ab3ace0466bd",
+      "phases_checked": 5,
+      "central_alpha_pass": true,
+      "identical_inner_contour_pass": true,
+      "safe_margin_pass": true,
+      "stationary_effect_geometry_pass": true,
+      "loop_closure_pass": true,
+      "reduced_motion_pass": true
+    },
+    {
+      "id": 85,
+      "tier": "epic",
+      "svg_sha256": "9bdded399a40ab2c311fa5a2945fd3d60a8c1b215e0ad2b986b1838567f8bf8d",
+      "phases_checked": 5,
+      "central_alpha_pass": true,
+      "identical_inner_contour_pass": true,
+      "safe_margin_pass": true,
+      "stationary_effect_geometry_pass": true,
+      "loop_closure_pass": true,
+      "reduced_motion_pass": true
+    },
+    {
+      "id": 86,
+      "tier": "epic",
+      "svg_sha256": "22a1e3a32eac93164a7699a5665c22f1b198d0b168adc89deac118136fd69f9e",
+      "phases_checked": 5,
+      "central_alpha_pass": true,
+      "identical_inner_contour_pass": true,
+      "safe_margin_pass": true,
+      "stationary_effect_geometry_pass": true,
+      "loop_closure_pass": true,
+      "reduced_motion_pass": true
+    },
+    {
+      "id": 87,
+      "tier": "epic",
+      "svg_sha256": "343e9a472a6da32856e811de16635871f76a5291f1be7d947d0fd25138e9e03e",
+      "phases_checked": 5,
+      "central_alpha_pass": true,
+      "identical_inner_contour_pass": true,
+      "safe_margin_pass": true,
+      "stationary_effect_geometry_pass": true,
+      "loop_closure_pass": true,
+      "reduced_motion_pass": true
+    },
+    {
+      "id": 88,
+      "tier": "epic",
+      "svg_sha256": "dba1802726390c713ba22df595f12f9ec42f6d9989107040c1f7b55d1716c674",
+      "phases_checked": 5,
+      "central_alpha_pass": true,
+      "identical_inner_contour_pass": true,
+      "safe_margin_pass": true,
+      "stationary_effect_geometry_pass": true,
+      "loop_closure_pass": true,
+      "reduced_motion_pass": true
+    },
+    {
+      "id": 89,
+      "tier": "epic",
+      "svg_sha256": "b65a3e151669dd9a635ce3eb00d14c4a8549eeb38bc563ee479b0bc1d949b04a",
+      "phases_checked": 5,
+      "central_alpha_pass": true,
+      "identical_inner_contour_pass": true,
+      "safe_margin_pass": true,
+      "stationary_effect_geometry_pass": true,
+      "loop_closure_pass": true,
+      "reduced_motion_pass": true
+    },
+    {
+      "id": 90,
+      "tier": "epic",
+      "svg_sha256": "902aae5f780663dc6003b6cfb6e23613f8cac5e9bf817bdadbe676f3b2efee03",
+      "phases_checked": 5,
+      "central_alpha_pass": true,
+      "identical_inner_contour_pass": true,
+      "safe_margin_pass": true,
+      "stationary_effect_geometry_pass": true,
+      "loop_closure_pass": true,
+      "reduced_motion_pass": true
+    },
+    {
+      "id": 91,
+      "tier": "legendary",
+      "svg_sha256": "b173a5d023debaf6dccae072af56b8f78a49e01e044af926c28f3038fbca4401",
+      "phases_checked": 5,
+      "central_alpha_pass": true,
+      "identical_inner_contour_pass": true,
+      "safe_margin_pass": true,
+      "stationary_effect_geometry_pass": true,
+      "loop_closure_pass": true,
+      "reduced_motion_pass": true
+    },
+    {
+      "id": 92,
+      "tier": "legendary",
+      "svg_sha256": "90880c9725ef845ee0749df3d91e4f27af5828e6447588d2b4b595f8df5a3c34",
+      "phases_checked": 5,
+      "central_alpha_pass": true,
+      "identical_inner_contour_pass": true,
+      "safe_margin_pass": true,
+      "stationary_effect_geometry_pass": true,
+      "loop_closure_pass": true,
+      "reduced_motion_pass": true
+    },
+    {
+      "id": 93,
+      "tier": "legendary",
+      "svg_sha256": "9c85710e43b54dccfb7815db0be0247d83d64b72cdb37de75f076561b236be69",
+      "phases_checked": 5,
+      "central_alpha_pass": true,
+      "identical_inner_contour_pass": true,
+      "safe_margin_pass": true,
+      "stationary_effect_geometry_pass": true,
+      "loop_closure_pass": true,
+      "reduced_motion_pass": true
+    },
+    {
+      "id": 94,
+      "tier": "legendary",
+      "svg_sha256": "83a73ae20ef6187a0f0e11854dcf6d581c3616c363552e680634c019792749d6",
+      "phases_checked": 5,
+      "central_alpha_pass": true,
+      "identical_inner_contour_pass": true,
+      "safe_margin_pass": true,
+      "stationary_effect_geometry_pass": true,
+      "loop_closure_pass": true,
+      "reduced_motion_pass": true
+    },
+    {
+      "id": 95,
+      "tier": "legendary",
+      "svg_sha256": "512e3d52dd934f8b2898f9f7dc71687d47eb6dd0fa53ea91563b79a3a0cc36aa",
+      "phases_checked": 5,
+      "central_alpha_pass": true,
+      "identical_inner_contour_pass": true,
+      "safe_margin_pass": true,
+      "stationary_effect_geometry_pass": true,
+      "loop_closure_pass": true,
+      "reduced_motion_pass": true
+    },
+    {
+      "id": 96,
+      "tier": "legendary",
+      "svg_sha256": "44a387320770c57ccfcabce4a9df1a1117ec7539090283a3832285e78285fd19",
+      "phases_checked": 5,
+      "central_alpha_pass": true,
+      "identical_inner_contour_pass": true,
+      "safe_margin_pass": true,
+      "stationary_effect_geometry_pass": true,
+      "loop_closure_pass": true,
+      "reduced_motion_pass": true
+    },
+    {
+      "id": 97,
+      "tier": "legendary",
+      "svg_sha256": "09bfbdc79f4fd9b7a5307bdfcfd96cef8292f8ee89d92b32348a0a02f34c239b",
+      "phases_checked": 5,
+      "central_alpha_pass": true,
+      "identical_inner_contour_pass": true,
+      "safe_margin_pass": true,
+      "stationary_effect_geometry_pass": true,
+      "loop_closure_pass": true,
+      "reduced_motion_pass": true
+    },
+    {
+      "id": 98,
+      "tier": "legendary",
+      "svg_sha256": "4cbc5621c542a2b484c6115620800d4bb4c9209fe44f4c6d6cb1572e2659eccb",
+      "phases_checked": 5,
+      "central_alpha_pass": true,
+      "identical_inner_contour_pass": true,
+      "safe_margin_pass": true,
+      "stationary_effect_geometry_pass": true,
+      "loop_closure_pass": true,
+      "reduced_motion_pass": true
+    },
+    {
+      "id": 99,
+      "tier": "legendary",
+      "svg_sha256": "f220790a387f02a64d90eb153e579f902d2b32ba02df4de64aca309d905810f5",
+      "phases_checked": 5,
+      "central_alpha_pass": true,
+      "identical_inner_contour_pass": true,
+      "safe_margin_pass": true,
+      "stationary_effect_geometry_pass": true,
+      "loop_closure_pass": true,
+      "reduced_motion_pass": true
+    },
+    {
+      "id": 100,
+      "tier": "legendary",
+      "svg_sha256": "b292802fdc85e35ba8d78a63974eada93c298d73bff789bbcf32dfacd74d3c32",
+      "phases_checked": 5,
+      "central_alpha_pass": true,
+      "identical_inner_contour_pass": true,
+      "safe_margin_pass": true,
+      "stationary_effect_geometry_pass": true,
+      "loop_closure_pass": true,
+      "reduced_motion_pass": true
+    }
+  ],
+  "gallery": {
+    "status": "passed",
+    "embedded_img_checks": [
+      {
+        "tier": "epic",
+        "visible": 15,
+        "embedded_img_animation_pass": true
+      },
+      {
+        "tier": "legendary",
+        "visible": 10,
+        "embedded_img_animation_pass": true
+      }
+    ],
+    "pause_resume_pass": true,
+    "background_controls_pass": true,
+    "javascript_errors": 0
+  }
+}
