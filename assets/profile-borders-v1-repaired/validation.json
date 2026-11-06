@@ -1,0 +1,1020 @@
+{
+  "status": "passed",
+  "reference_commit": "844e7c29e9e0fa80ff2d8c9fc89322eb059e66bf",
+  "static_pngs_checked": 100,
+  "legendary_layer_sets": 10,
+  "epic_layer_sets": 0,
+  "ordinary_layer_sets": 0,
+  "animations_checked": 25,
+  "rendered_phases_checked": 125,
+  "center": [
+    512,
+    512
+  ],
+  "inner_diameter_px": 716,
+  "browser": "Chromium 155.0.8059.79",
+  "reference_files": [
+    {
+      "id": 1,
+      "reference_sha256": "7caa7b6b20f6e622f947becbec335b776c38026521a268a133037a4412a46f34",
+      "sha256": "7caa7b6b20f6e622f947becbec335b776c38026521a268a133037a4412a46f34",
+      "status": "preserved_without_changes"
+    },
+    {
+      "id": 2,
+      "reference_sha256": "724cdcc9e7bf16eb8f7c728ab2ab5540be9d541f6ad22ec7c8dc9f5bbc2336f5",
+      "sha256": "724cdcc9e7bf16eb8f7c728ab2ab5540be9d541f6ad22ec7c8dc9f5bbc2336f5",
+      "status": "preserved_without_changes"
+    },
+    {
+      "id": 3,
+      "reference_sha256": "ad11ef5b9000fa3a19504ccf91507bd7e2deb7fa29acb0d998719b7390b040b7",
+      "sha256": "515e8dddb62c9dfcd06a0c2621c3dfd93c1736acd087f23382862d75bfdeb687",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 4,
+      "reference_sha256": "ae41e062f8e9e23def4b1a7dcbc27fbebb4b2d2c4789a7d670c0982099369030",
+      "sha256": "3e3d12d32539e0d86e78742d39ee518dec7dfc4f769bb60ffb4f629536dc0ad7",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 5,
+      "reference_sha256": "1de1e0442e6cc5ce3440be9834bd1e7cdd5c0be7cf8dbbf321574ee23be28ed8",
+      "sha256": "1de1e0442e6cc5ce3440be9834bd1e7cdd5c0be7cf8dbbf321574ee23be28ed8",
+      "status": "preserved_without_changes"
+    },
+    {
+      "id": 6,
+      "reference_sha256": "fe03cfd6f8369f06eb856973184d5e1513318de721c4306e8148134e93ebad03",
+      "sha256": "1b4b9e5c0b4e8835b10188e683373f2a6f91edce252deafdcfadf3d4fa954a8a",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 7,
+      "reference_sha256": "4df1ee0b84f80b31051c22a8c0afda70f365d91cebbbe604982893449056ca2c",
+      "sha256": "36d599b12571360d68cd3887bf284c8104988c5c327ca406058a7364a5d8e7a3",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 8,
+      "reference_sha256": "8cca2e6c25f08948abb361f27b7af49c47f567aea52243de0787b15e2806753d",
+      "sha256": "c3e37749e7e5c6f692c9bfd87bf6eca21bcddbc79b804cb1ce8d45135018efa6",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 9,
+      "reference_sha256": "1237de2ab1d9e4a247a1b3003b0fe720e565c1b5f75bff42e89eca4f63967653",
+      "sha256": "1088584a00dd007777b8023b3fbc05b17a67a3cd8613eafaa18105f71a9d02e8",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 10,
+      "reference_sha256": "74a9664b51339816992bb8131e97abe837906143ddf2e09062a7746e5a35d4d2",
+      "sha256": "990d3e1170a3f01ed3bc248d5da11700cef7773d461bb4e30b44e8c1274513e8",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 11,
+      "reference_sha256": "a1193ef3714d74bcc1dff09b5091ca9f270abb1b8db695d78d11ed09414eb916",
+      "sha256": "269b817028b5e2eebc30e869874aa3eca7155e56f0f54cd980b26f941c1e2a31",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 12,
+      "reference_sha256": "bced4fc8e7c20e545b83819b4ecffdcb4ea3d965e63acb077702983c1cc76e1b",
+      "sha256": "38f484f5149804b268ad0515c87fdb301bd65dd988f9fd8235f1a6602c318cf2",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 13,
+      "reference_sha256": "cf54e99f031344d809453a998ae523d90e2d849fd4eada8d544f66b61a7d577d",
+      "sha256": "cf54e99f031344d809453a998ae523d90e2d849fd4eada8d544f66b61a7d577d",
+      "status": "preserved_without_changes"
+    },
+    {
+      "id": 14,
+      "reference_sha256": "d8c970c4e4137f9e2ac4f0819cc59a76d76d7c67ceae2f7ca5d9ea6c8dbcd262",
+      "sha256": "97a64cd1dc61255609d7064be4cce769d5d02a36c4d5a497b0e2611255fd8325",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 15,
+      "reference_sha256": "3abf57be0d98b2b7dd50d9722a657e445c9d35ffb85917f036c3171aaf347c91",
+      "sha256": "819998227fd1475b684d02262aca744aa2abe2434ea4a8ba650589356405089c",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 16,
+      "reference_sha256": "60325a9fdc8c5cd5afdc6c03b8b82f8c62aed04ba284cb0d60b0008722f06abd",
+      "sha256": "409ae929483c1539c88873f07e80ec0350459b26eb4f274742c94ec23f4774af",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 17,
+      "reference_sha256": "3c47cce4e2e3b30f24984e051b898ba68b6162594ea48058d310db16181b9257",
+      "sha256": "f0b832f894a4930b9957976cf6b5f2df578b1be650e92d2ccf9cc909e25c0d23",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 18,
+      "reference_sha256": "b013677648d933b11fc2ffc31c94f60bb750344723fbe3848e4dacbb7f8f5d45",
+      "sha256": "848c0df3e56384eda997f9c11eb639f95427aa718e7286153c08f734b59410c0",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 19,
+      "reference_sha256": "58501a6cc347aaa92d280da1caf400c1045ec8e3d2a87abb5e1989949beb24f0",
+      "sha256": "fee3d2f27e49824a4051774a1f98ad2f6fe3f42ab1c5befdbc3f3347e9d74be5",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 20,
+      "reference_sha256": "37a9bc8dff6e706906b73c27d80a17bfc8e6b721f9ca792a091df215bd351de6",
+      "sha256": "8cab954800351ebd6b1ad5213f3c2c2a84dd17ac36c058e3f703923083f691b1",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 21,
+      "reference_sha256": "93f4c09a194cf1b3c31d0dc4b71a6a75c0870a8428a46dd21fd83432de565857",
+      "sha256": "93f4c09a194cf1b3c31d0dc4b71a6a75c0870a8428a46dd21fd83432de565857",
+      "status": "preserved_without_changes"
+    },
+    {
+      "id": 22,
+      "reference_sha256": "2a98a43e104a9f3c30c42e847f57bc9b792adfe3956fcdc15f7c09955fb6ff06",
+      "sha256": "7ff42caa0ff0bd079172af0e41e4f1b59897c86dda7d3e25e0f734e6e7b5b775",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 23,
+      "reference_sha256": "9688e271754048258ee3f05a27079e689ddbcbe5cb69ef500d54956c6e41657d",
+      "sha256": "02ac39e3046600662179b513bf1f5dcfbb8fc6c7d274d0b1181fc6cdbb7de2ae",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 24,
+      "reference_sha256": "b2c18b14949d3cc42bbb8fce52d6cd634d7a92d4c789533746315e952d4a39a9",
+      "sha256": "3d0618780be0c7231f7bf1c8dd093745ac0589334f7edc8b543fc7f4c6869c80",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 25,
+      "reference_sha256": "9b3095a8e399587b459e80142fc34462cf1c39bb5690ffe8508f504f054d46bb",
+      "sha256": "9b3095a8e399587b459e80142fc34462cf1c39bb5690ffe8508f504f054d46bb",
+      "status": "preserved_without_changes"
+    },
+    {
+      "id": 26,
+      "reference_sha256": "f677d5825eac66cd1be85454c50580d4018118dff7d1d4fd330955a63b2c7536",
+      "sha256": "f677d5825eac66cd1be85454c50580d4018118dff7d1d4fd330955a63b2c7536",
+      "status": "preserved_without_changes"
+    },
+    {
+      "id": 27,
+      "reference_sha256": "ec5b825aa02460f6c7e149fb937a9d97d5b68d06829b4d7f7e593936be3dc4ee",
+      "sha256": "6263543fb66e62d86efd9619843b87b7ca036f6368b4c45c54d54b0054ae154f",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 28,
+      "reference_sha256": "0cfab4fa087eae42a6e33fd122cdb02c991774336f4fd648db5d423f18c8b1e6",
+      "sha256": "d8d432f0d1a8a9cb48221bdea47adba59c6d92c703c23a655059949bc41f4b25",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 29,
+      "reference_sha256": "f775ab2cb24c59e62308751da6b67c8eae693df36625a674e743fad8d6048107",
+      "sha256": "0d55055b92ec0a5f168a061395bffa633099e6652536f34ea34cae04bd24e0fd",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 30,
+      "reference_sha256": "c40d6f34deb5170c7122fbb866701754379418d94d073b58e5c002b336e08829",
+      "sha256": "b487aa5fbd3b57c733484d353c9c0e9d2b83eb8a78c8df523df6b5eb69d89f7c",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 31,
+      "reference_sha256": "2e12de3a694d2a0e41ad87f0c8e16adb15b6fd5a1a7e19b5f87435bd1e7ccba0",
+      "sha256": "f5a56e9b74f1be95b8673380ba0eb5a0071631f62afba702109ea7e98038c2fb",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 32,
+      "reference_sha256": "c856b69840ad3c61bcea1277c69872e7a6d8c674bc03abef46376dce34a0ff97",
+      "sha256": "329276430096d320c3821e0f88c16d7b915505dc69836d58e9bc9c38de74c154",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 33,
+      "reference_sha256": "793417a584603debcea6f47c64caeaa4f6cee2c6639f1434f5076cdab4dfeead",
+      "sha256": "7a24ec7d3d26805f386be9ba990826dcca06cc9273232059454b459c1cb2f249",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 34,
+      "reference_sha256": "e7d8952502c5f571cc429f988e9034bc2ec2482e2e9731914ff9b37bda860d5f",
+      "sha256": "7ea56b2242472b1c85dcf2e61452465930b2e3ef31e276e3fe50ab3451183571",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 35,
+      "reference_sha256": "4e381f1fe7d65e3cea7608ec73a8fc0e585aa541de3ffd2a2acf993c2534981e",
+      "sha256": "7cf4f15bbb1e97ada7245b1d064bc6bf2c913ab672f2876354c128faddb1b695",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 36,
+      "reference_sha256": "c4c16f5a0ff9e14ab32a2003cbd1d355423087e98036b7a7e93dd1a6783d96f5",
+      "sha256": "ce41aec1bb9a418d1665101e7d750335590128396f19a913e68c1569f4949bdc",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 37,
+      "reference_sha256": "c246f7a44fdf5291641bc7f5138f2d2f92a82af09a96c0e1ce7ef8a84e5aee38",
+      "sha256": "3756d7957c92faee352b83f3687c1912b47a875c6d1bc14588e5e1f48471613a",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 38,
+      "reference_sha256": "f8709687ea56f7c229bb7cd43fabfa744591683e042a3aa242d12e08a5bb9c47",
+      "sha256": "0b0b55855764ad6fc2377f27bba1acc84506ffa3fdb91b8e38d10cdbf49405ed",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 39,
+      "reference_sha256": "2ad786e4b6823c31a095d09358daae4f2d182d981fca42a4bdf6caf1f121512b",
+      "sha256": "3979b5f8273b00de7017a2f010b37391b45204aceaf165bb7bdfafac0f740679",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 40,
+      "reference_sha256": "640e281d569e97a1e43c52532a8c89a1ae5318065674f3935c7a10af066035a4",
+      "sha256": "776d6bfbd66a3fd8b11bc594df69d31af9ce47f76417bb2fb2a2356dcc202aae",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 41,
+      "reference_sha256": "7c29614465bbeb60551915d387764c83b56d18d9c3f4986eee3dc49e483a34cb",
+      "sha256": "aa2c4675f79c3c6617aeaa32cd12fb1847cda1521ada2572c13a55dfbfffb9da",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 42,
+      "reference_sha256": "eb0f550bda24bd43a5ddfc0d941df8bfb89f52326e0ffb0e86122f9a53f95e6d",
+      "sha256": "3809b6649a2dce81e0ecdc51b9b4acc25970511147d7c93dfe56b1cf138405ad",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 43,
+      "reference_sha256": "8e4086b6c0478a0e0c10775bcf68ed2056e1d1c2d70dd6aa84a1d549636c5313",
+      "sha256": "11ea837f58f7f2ef51c4744fe4486cc5c964c2c3db9ad3587e66f57e5187d024",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 44,
+      "reference_sha256": "4dcd4d97ea8bdd72fb5dc5c60aa169074f3e162110829af864c547ed8c3b134a",
+      "sha256": "c1091e3cb8d05f329a7f637ec095162d10e75731317c9c07d3cc854fd21aee55",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 45,
+      "reference_sha256": "e253356d51c1cc3e315accc114b109174e8d6c7476e25f23bc2c049739acde98",
+      "sha256": "b309ce8e87862c23355e3a4df422d75cd8c52b09534e6962f4fc1e61a5f7e78e",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 46,
+      "reference_sha256": "28f02f21947599452f6d369216535391a22ff38f836187b95be85bbe58b8dd13",
+      "sha256": "9cb5751a28cd7d341b3083bfe97705bfd266692fd95adfc924f57dfbf934e5e6",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 47,
+      "reference_sha256": "9fce51be8685e215a08bb8c1ba9921e2789d451103c0478d540801b77aaf8aad",
+      "sha256": "ff9ab505cfba9afdc84ffde6f511af960da3ea366dfbe36f856d0c052c0e8d2c",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 48,
+      "reference_sha256": "1cd5a665ce6dbb4491e26a47bf0aa1a7f16239b07b1ece1b3f84bd826d71db58",
+      "sha256": "7b0dfd8cd1d215467d9f02d4b20b3adea26a7d7d8ef99d22925d5e08d38e54b7",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 49,
+      "reference_sha256": "4f46f0e3d5612e12c8c4c66a8c381d0ca859c9b8caa17a0996265cd6230e7149",
+      "sha256": "ae5ca68e856e53c59249e0a86dc0f9bea6b8596f120e2de9e79163f1bcfcd11a",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 50,
+      "reference_sha256": "73ce5d761be0b33ff35eccb0ac74f525c989c6c3f5a81cee8d64677030c7b01a",
+      "sha256": "f2c449b767887044aa9b62850be628ad14c1c6f6a4ef98469573a1bf6c352df3",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 51,
+      "reference_sha256": "5048d46b4b10d9828642a36207df6a90110791e7c326adeb4048ddd9976f2475",
+      "sha256": "6d15ad28a634d7972ca0600f55dd5171d79a052cb4a22d6b10a72ae701e9a463",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 52,
+      "reference_sha256": "e8f71227190aff01bbf170eb7f9d702034ddcaba85884621e89d6b0686a12243",
+      "sha256": "05081036bdac98212b622a24b7f84aae8bfe752c5e745bbe076cd6237f7e23fa",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 53,
+      "reference_sha256": "7d16700a2f88a986c5d275a6a14affc105dcf9523b221aece06df0aa46348717",
+      "sha256": "e2b05614b0ebea254463c669f115d790d5c881abb2d2d71d0a45f87c43dc17dd",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 54,
+      "reference_sha256": "072cd18e48e890fcdc6347adb4f0b8e5b24634cd6f2e0f80680353836e8c0222",
+      "sha256": "97034e1274a95c8e0ed6d5ed0c9012f3a820cd8e64d04cd51a7b9fa0bfdbe5f0",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 55,
+      "reference_sha256": "2c951bde9a7d54a08399b6cfe862a4ee61775bb86dba037d49f47abe7796cf65",
+      "sha256": "59873616d165d25db540e2a025444c21e07bb23a1a9d91a57745583d973c9e7d",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 56,
+      "reference_sha256": "0b0f6126896553abf9999f9860cadd9c2825d904922e19ed09a7c83ff0094170",
+      "sha256": "1e5c6278683923db7ea89ecceeaaba57fe46f5c5ace9bd77ab1daeab9eb99c71",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 57,
+      "reference_sha256": "769ebb1bc45d29a0896c288aa0b6de581dc8d95b3708993299011b7114ed1f2b",
+      "sha256": "7a679d5094bd48f373cc6475e44cccf868d61cd5c2aaa54e446da768be4bcad4",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 58,
+      "reference_sha256": "4b2f684a35ff4ba8f4d633bf45e53b8e795522d3bdf5e1c6fac61aba65e81fc6",
+      "sha256": "11e383d5dde34ab04e6550613113d65294bab8a275c4274ea31175018f344592",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 59,
+      "reference_sha256": "6ba1599f1f722de79a8c35649c59f1646e7cd7f81d8a285072de61d8aaf9641c",
+      "sha256": "48a029ce2ee6541ba276f2d386f0ac5163283110a4a5579d21f88a5c32f00e6b",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 60,
+      "reference_sha256": "8d982af3cec39d019d4b818b4554ceb5646417994c7a49eff74258b782014516",
+      "sha256": "138413cc81692deb241f14e5cbceaeb2da7c8fefdf5c8727e1d3e390b99506d4",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 61,
+      "reference_sha256": "88e3534517c10989e3b0765fc9f80b6c60d3b5c74f8e7cde40ab636d67bdef7a",
+      "sha256": "eefb2d116d9442834bab5063fb76e55e2aa7a4a3d89c1300adae8f7f79585a13",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 62,
+      "reference_sha256": "2d23a04704b2100b8c0848861f89a5e26b3f09f043c444db4de9eef8391264fc",
+      "sha256": "2f66c7c3db662236250e8aa130a364ca71f78736f9cb14d93c3dd5d578af6a56",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 63,
+      "reference_sha256": "c06f7d184fa6cfd2c9455fa8f1ee188fd05e00ff4c89c59a99044237b1f72d6c",
+      "sha256": "18280f94ba1508c9eff31c601209bb8b9c6a7dd841a424a76a462c7a1eb3a566",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 64,
+      "reference_sha256": "ad3f773b9c04f1ba7d4c933e97545625b1ffb30a181b9341cce02e279f0e4b5a",
+      "sha256": "237b09618c77070ca6a2168081818fbd771bc73f3ec64487f98a5736515018f7",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 65,
+      "reference_sha256": "9b77eac77ff00fa3c8e7106d38e0fafa29c541501c38e9236e27f4baca385d3f",
+      "sha256": "4cab55d78a65735088fd4d6f9cc77ee4c1d60854cfa70d00eb5f52092761eb63",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 66,
+      "reference_sha256": "d0c1c12b2b566602464c4a0a87c93c5f6fff1be38fd5dbe3ccf722b9b703ee66",
+      "sha256": "13684384c73028af2dfac76964cf0e1a68a1877dc0ca8ab184ab39fa7eb06e60",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 67,
+      "reference_sha256": "d9bc785197f314cdac62f1dc54d8abdbda528ad45dd6ea4f35293cdb9b84a40e",
+      "sha256": "bfb3e029cfeea915190674457975edd92bd7295922d3a48549209121afde55c9",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 68,
+      "reference_sha256": "b789995a35ada5a2e48c120ba4c15cb92f95c94a723827244d9e28d28e9876c9",
+      "sha256": "502322cedeb9e60a54de262b6651da4bcb9600633e533a72f20b1307665c9f1d",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 69,
+      "reference_sha256": "d3be892447ac4b6b8c985eabb0e26738ab5875a1c584b96aaac46cf142fc0c68",
+      "sha256": "2ed1dd1b8351a17168d9dc18fa86f520650f449190b60bd64621031aaac882f6",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 70,
+      "reference_sha256": "8a4d6431295075e3dcd2f9bb593ca3d382eeec172c0a56ff512e2664d2222dc4",
+      "sha256": "e1d261692ed06273b11d7596a4a51195e140216a29d254427a672d76ab591a8f",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 71,
+      "reference_sha256": "567da87b2acf0c0e67d6a861363fcc499f0820d6163ee3af5707562aadc72c84",
+      "sha256": "1842ecc5fce2aa2c2f9f2ad15f225caedf83b65e1b047fce8899a0001b72edd3",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 72,
+      "reference_sha256": "e87bd29cf348a2ba64bd5888e093f96244a7da412870a09c0e04c803adf0b393",
+      "sha256": "72aaed7cf671b673b8de5be8fe05de75c9c3aea7fd180770ab879ed87e8412ef",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 73,
+      "reference_sha256": "1ee0a0f7e176a14fcbc64edbe9b1a00b98955b40d597a17c9c1781838820457c",
+      "sha256": "5a82fd5b7a181b106e6c5a8cf0a55272e0ee48a58bd2929170337d44d75a6b6a",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 74,
+      "reference_sha256": "8a28a6d43307654ebe93bfc5b481f1d94a2d9fbe396dfc164881c1d2ed514a1c",
+      "sha256": "68891c4ad621684534cf5cb2aaa8a7d992953ece6a8ba88e8bc2380da975766d",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 75,
+      "reference_sha256": "6a286a4349eaf9522f604f39cdd3e65f8de606352bd2fc7e0c27a9ee89097f13",
+      "sha256": "171e2bec999ee0cd697e83bdaefe8684b22e7e0a60b751d51dc48c22d6aad811",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 76,
+      "reference_sha256": "6f3efbdcdfabc55bc171a00f3594c8f7783f0d3f3034162a3b273d367fe603f0",
+      "sha256": "d76b26942eac094ce0194e97158a71815e5174a2fbb4b14ae37a198b1ce5a8a8",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 77,
+      "reference_sha256": "3778a45e75ff7f764a34ea470873f2a9769d78a89c4f5890f6486f852fc334dd",
+      "sha256": "53f5e4de5641a17f9c7754c4960b185ab1d71b3e9916fe0a09cb3affca496ab6",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 78,
+      "reference_sha256": "89712eeb236f50b549ee447d2953597a92d2419dc88d23652d6e03f241367097",
+      "sha256": "8145a37da185f48d9d8b9ea478e9eef528581553ba3f444a3177a3e20c8c2181",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 79,
+      "reference_sha256": "d4398ac69a2c2babee71fe5b7e669354dbb31eaec319778408f0ee513bbbc422",
+      "sha256": "fe98650895c4fb3aa2bae3fff42a94faf031af6cedbc73c9add10d8cf001c539",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 80,
+      "reference_sha256": "ce3318a32712b2edbce2ddd06c0ade78d80b917f9a8a0aa09d7d19cdbf25a24a",
+      "sha256": "7230a619f3393dbe5801da7f3a923dae39614a6afd807acf325a84894590f28b",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 81,
+      "reference_sha256": "29ce0d242714d9a40155dc4dd2b057d86793d82eb5697630569b91e12f69b97c",
+      "sha256": "f8179c4b2ea6b8e209c66fe9deef066a4eca247d6c88e767c3b7a3c50d077d18",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 82,
+      "reference_sha256": "aaade68e44921aa0258c5045c2f06bab5e8f61abac8bed92492124cb4aaba50d",
+      "sha256": "d056ba76ee0694f25a05e0a1aef133b478bfab1e5925db687398e6c9b5c46494",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 83,
+      "reference_sha256": "69cdda95bd9a1aaf3ac25f3dd1d99e278b6d37978a347bc66d65a2ad1bb20b18",
+      "sha256": "2a1836168879ffb1afb0555c8d0220ca02d4c00d313f4a0d59656b953117233d",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 84,
+      "reference_sha256": "e7396bd778ab1200b48cf81d7d3763dd8debc0bffa1ad8fe5bff8ceb0b05dd06",
+      "sha256": "f09d660dfde990de4c3d4e45c9a13a181947e3add0d4e3c9ed31b73450e860aa",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 85,
+      "reference_sha256": "abc394b6f29755a3fda0d0d8d3bbd6a2f3943ea2a6fdc184528f6ab46bdbcca1",
+      "sha256": "4ab8fddba01544708921dd051e3f262572c80f73ee04f7be0b2987f2a54499a1",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 86,
+      "reference_sha256": "1e2d8b4f79723609a62bc82693ea7cc41827b78c99069674253ef9a7bcbb081d",
+      "sha256": "93827c2726f4556eff25530889f065ee41eb3ae5c5b81e4c19b07951e3abc8cb",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 87,
+      "reference_sha256": "9d9e1306cf8b8f330be4ce1eb3ffa8712e48b3c0883799d8aa458219cf88d04f",
+      "sha256": "42d20d75a77640c90177a611fa0ca496444aa9eeef93e78cfeb786d8f4761841",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 88,
+      "reference_sha256": "7b349343b325e8c5bbc9dbbdd2b7adb333c9f627fc91a0747c1dcd7465685635",
+      "sha256": "0e22cc1229a8154911f2bfcbc58745f5fa3698e2e7901d3852fbd667eac9779d",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 89,
+      "reference_sha256": "670cefe161b0070223937c39f16dcaff0a53a35a5e1b41b37653e1e84cc6ab2c",
+      "sha256": "09d3d519e3e54224d866572c206ec4265a1e9f73d20b2ed4f549d82169e41f72",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 90,
+      "reference_sha256": "d6c22b35908a49e6ec38badf26baa9bfd9f237c2a3525d4ba6937648a4e5598b",
+      "sha256": "673a0571f0f801d7f54cd14327efdf7993655981f66e7e531233c8d1ac918fb3",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 91,
+      "reference_sha256": "e25d7d532b4644c15e124fe0b8a57db74d4f48a141f45ed2efce0db3b37c2e66",
+      "sha256": "ac7fdf6a855511a4a3546bc44495bd5704841f2078b9489d7bc0ac9c4401b0d7",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 92,
+      "reference_sha256": "cd60a3cf4e57cb966eaf11c394324d94273cdb15976d6bd45773d4aeed5f9df8",
+      "sha256": "dcf807baecda37ecf113fde8ab745e54cb24f94cf9d025241ab6e474bd17f625",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 93,
+      "reference_sha256": "730afc3e69c5e5c23af1d8026c7b947f22496d559e14ff98d402c0ac5bb26c42",
+      "sha256": "caff569268ececc84505ba1d1969d0ee2458eefec1a8f751b00922e253afbc30",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 94,
+      "reference_sha256": "5a55a8e2808d6d558d79afa3df66db37acaeb5b237aeda0c2be848332e3a31bf",
+      "sha256": "654a2d486355751de8c71f23ff9eff1744dad01d9d3be6b3e49b49b7de73bd49",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 95,
+      "reference_sha256": "d1f32a8f4bb203036fc0dc7b3229f5b8601f160be45df0e238d520b5f642252d",
+      "sha256": "a7135cc43c24e64a6434bd7562e7a91314b10592ca64ed2b00392aec9c00c479",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 96,
+      "reference_sha256": "eec952ea5e27c9ce4f44198d794ed516cdd2a86b3feaa9642edf5094d6c68e6e",
+      "sha256": "490b145e287370e3ef67d28c1078df3ac9e5f3b5e055d6f1824e784e7ac9f42b",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 97,
+      "reference_sha256": "070fb2ef3d465f42ef8808a9b42c0595f9a08cc47025dc143f6aad2f2f26e2f2",
+      "sha256": "956dad756d7074f93ebd1b86a0a54781bdcb288e90aab66bdfc20269f6ba9a48",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 98,
+      "reference_sha256": "f6b41cd7290de7e0760a75cd078735eda456bd3e980d74bccb8d66101d323150",
+      "sha256": "d9773d2c6ebdede2ddcc3ad40b21dbc37b8733348f63b91980250b913e68de84",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 99,
+      "reference_sha256": "d3fdecaaf2cacab77b5fdbaa921431946b7bf57b43546d37f65b135f25a93a5d",
+      "sha256": "7dc33443ccb30aef17fec871485b6eb079825c0eb6dd12b40572a93521b51393",
+      "status": "reference_guided_deformation_repair"
+    },
+    {
+      "id": 100,
+      "reference_sha256": "799ad675135ad3ead9c347c67fdde71bf36847547a038ea6494e2b1d4772dce7",
+      "sha256": "2126c855dd8037afcbb7c5e54deaa2f6602ab2d9b8046b5e7c424055bf53fa9f",
+      "status": "reference_guided_deformation_repair"
+    }
+  ],
+  "results": [
+    {
+      "id": 76,
+      "animation_sha256": "b9ef105b7d70a310fe8e6b9dd11bb03ba36eeb4bf3ba8e347e99535e01f347ce",
+      "phases_checked": 5,
+      "frame_fixed": true,
+      "original_png_rest_pose": true,
+      "rest_pose_max_color_delta_128px": 1,
+      "inner_contour_preserved": true,
+      "center_alpha_zero": true,
+      "layer_separated": false,
+      "visible_effect_pixels_128px": {
+        "light": 206,
+        "dark": 157
+      },
+      "reduced_motion": true
+    },
+    {
+      "id": 77,
+      "animation_sha256": "a6918c07db4c8862151f58d4214db71517c6beb5e230bb43de3441d8e118cdde",
+      "phases_checked": 5,
+      "frame_fixed": true,
+      "original_png_rest_pose": true,
+      "rest_pose_max_color_delta_128px": 1,
+      "inner_contour_preserved": true,
+      "center_alpha_zero": true,
+      "layer_separated": false,
+      "visible_effect_pixels_128px": {
+        "light": 242,
+        "dark": 221
+      },
+      "reduced_motion": true
+    },
+    {
+      "id": 78,
+      "animation_sha256": "b2fc2790dabeadf8dc5b82c35606fe4af26565351691fc850fe95e09c1dbf292",
+      "phases_checked": 5,
+      "frame_fixed": true,
+      "original_png_rest_pose": true,
+      "rest_pose_max_color_delta_128px": 1,
+      "inner_contour_preserved": true,
+      "center_alpha_zero": true,
+      "layer_separated": false,
+      "visible_effect_pixels_128px": {
+        "light": 193,
+        "dark": 157
+      },
+      "reduced_motion": true
+    },
+    {
+      "id": 79,
+      "animation_sha256": "6328b33d9867d5f5edecc2a22aea917ba7eb33b705bec1a7efe6b00effa9e92e",
+      "phases_checked": 5,
+      "frame_fixed": true,
+      "original_png_rest_pose": true,
+      "rest_pose_max_color_delta_128px": 1,
+      "inner_contour_preserved": true,
+      "center_alpha_zero": true,
+      "layer_separated": false,
+      "visible_effect_pixels_128px": {
+        "light": 211,
+        "dark": 187
+      },
+      "reduced_motion": true
+    },
+    {
+      "id": 80,
+      "animation_sha256": "bb7d6a7eae7ff0fa4405086651294cac37335f324519fb1bb00afbe6ed8c0548",
+      "phases_checked": 5,
+      "frame_fixed": true,
+      "original_png_rest_pose": true,
+      "rest_pose_max_color_delta_128px": 1,
+      "inner_contour_preserved": true,
+      "center_alpha_zero": true,
+      "layer_separated": false,
+      "visible_effect_pixels_128px": {
+        "light": 426,
+        "dark": 399
+      },
+      "reduced_motion": true
+    },
+    {
+      "id": 81,
+      "animation_sha256": "ca1f6d634503a9e3f9c34472fb806406b62371be15de11654db7624cff5964ea",
+      "phases_checked": 5,
+      "frame_fixed": true,
+      "original_png_rest_pose": true,
+      "rest_pose_max_color_delta_128px": 1,
+      "inner_contour_preserved": true,
+      "center_alpha_zero": true,
+      "layer_separated": false,
+      "visible_effect_pixels_128px": {
+        "light": 298,
+        "dark": 294
+      },
+      "reduced_motion": true
+    },
+    {
+      "id": 82,
+      "animation_sha256": "edfb3db86b7c0d9be9387f84ecdf0d9eeca3b236efa0860bb6f19f912a51d901",
+      "phases_checked": 5,
+      "frame_fixed": true,
+      "original_png_rest_pose": true,
+      "rest_pose_max_color_delta_128px": 1,
+      "inner_contour_preserved": true,
+      "center_alpha_zero": true,
+      "layer_separated": false,
+      "visible_effect_pixels_128px": {
+        "light": 202,
+        "dark": 194
+      },
+      "reduced_motion": true
+    },
+    {
+      "id": 83,
+      "animation_sha256": "38d659946e89626b39e35faf7dfd2afae90bed6477dba4defe3a18125f387355",
+      "phases_checked": 5,
+      "frame_fixed": true,
+      "original_png_rest_pose": true,
+      "rest_pose_max_color_delta_128px": 1,
+      "inner_contour_preserved": true,
+      "center_alpha_zero": true,
+      "layer_separated": false,
+      "visible_effect_pixels_128px": {
+        "light": 358,
+        "dark": 368
+      },
+      "reduced_motion": true
+    },
+    {
+      "id": 84,
+      "animation_sha256": "d55a852f66026e92bdb55f4ec3168839014a9a5d2f746d940a73b8e050cfaf76",
+      "phases_checked": 5,
+      "frame_fixed": true,
+      "original_png_rest_pose": true,
+      "rest_pose_max_color_delta_128px": 1,
+      "inner_contour_preserved": true,
+      "center_alpha_zero": true,
+      "layer_separated": false,
+      "visible_effect_pixels_128px": {
+        "light": 204,
+        "dark": 172
+      },
+      "reduced_motion": true
+    },
+    {
+      "id": 85,
+      "animation_sha256": "3190dad77f5941e963fd9bc128362e924f8bd46d949f194fdd935955311b1b16",
+      "phases_checked": 5,
+      "frame_fixed": true,
+      "original_png_rest_pose": true,
+      "rest_pose_max_color_delta_128px": 1,
+      "inner_contour_preserved": true,
+      "center_alpha_zero": true,
+      "layer_separated": false,
+      "visible_effect_pixels_128px": {
+        "light": 208,
+        "dark": 214
+      },
+      "reduced_motion": true
+    },
+    {
+      "id": 86,
+      "animation_sha256": "5318fde9c3a67a80600e36f4a518c11403ea3430a3aa981f64b65ce5dd6ffa15",
+      "phases_checked": 5,
+      "frame_fixed": true,
+      "original_png_rest_pose": true,
+      "rest_pose_max_color_delta_128px": 1,
+      "inner_contour_preserved": true,
+      "center_alpha_zero": true,
+      "layer_separated": false,
+      "visible_effect_pixels_128px": {
+        "light": 187,
+        "dark": 178
+      },
+      "reduced_motion": true
+    },
+    {
+      "id": 87,
+      "animation_sha256": "102b539b639c78e68a093b82e2f7a5e5262a29ee06c3de7c2ea0b129d1c163e8",
+      "phases_checked": 5,
+      "frame_fixed": true,
+      "original_png_rest_pose": true,
+      "rest_pose_max_color_delta_128px": 1,
+      "inner_contour_preserved": true,
+      "center_alpha_zero": true,
+      "layer_separated": false,
+      "visible_effect_pixels_128px": {
+        "light": 308,
+        "dark": 309
+      },
+      "reduced_motion": true
+    },
+    {
+      "id": 88,
+      "animation_sha256": "65a80f302096bf6853be6dda72cd8378a51a47d2ea94b61a663b79b8f5515dcc",
+      "phases_checked": 5,
+      "frame_fixed": true,
+      "original_png_rest_pose": true,
+      "rest_pose_max_color_delta_128px": 1,
+      "inner_contour_preserved": true,
+      "center_alpha_zero": true,
+      "layer_separated": false,
+      "visible_effect_pixels_128px": {
+        "light": 182,
+        "dark": 170
+      },
+      "reduced_motion": true
+    },
+    {
+      "id": 89,
+      "animation_sha256": "f1eff272a8cdedc391aea8c6d9755b96094075144104b38c0dbd9e3aeedde091",
+      "phases_checked": 5,
+      "frame_fixed": true,
+      "original_png_rest_pose": true,
+      "rest_pose_max_color_delta_128px": 1,
+      "inner_contour_preserved": true,
+      "center_alpha_zero": true,
+      "layer_separated": false,
+      "visible_effect_pixels_128px": {
+        "light": 273,
+        "dark": 261
+      },
+      "reduced_motion": true
+    },
+    {
+      "id": 90,
+      "animation_sha256": "6ffbca2344ea4b3f4a19c78d20a85649eba8e0d5275a1faada6fca781f5ad566",
+      "phases_checked": 5,
+      "frame_fixed": true,
+      "original_png_rest_pose": true,
+      "rest_pose_max_color_delta_128px": 1,
+      "inner_contour_preserved": true,
+      "center_alpha_zero": true,
+      "layer_separated": false,
+      "visible_effect_pixels_128px": {
+        "light": 228,
+        "dark": 222
+      },
+      "reduced_motion": true
+    },
+    {
+      "id": 91,
+      "animation_sha256": "1ad41f812c987173d14e7ab46c742e482607ac4bcac4961f5ba11c8139cb4d64",
+      "phases_checked": 5,
+      "frame_fixed": true,
+      "original_png_rest_pose": true,
+      "rest_pose_max_color_delta_128px": 1,
+      "inner_contour_preserved": true,
+      "center_alpha_zero": true,
+      "layer_separated": true,
+      "visible_effect_pixels_128px": {
+        "light": 522,
+        "dark": 455
+      },
+      "reduced_motion": true
+    },
+    {
+      "id": 92,
+      "animation_sha256": "39485f482ae2f55c41a4ff5a783ecdf09e93e4000ff977e99e96600cd7b6b960",
+      "phases_checked": 5,
+      "frame_fixed": true,
+      "original_png_rest_pose": true,
+      "rest_pose_max_color_delta_128px": 1,
+      "inner_contour_preserved": true,
+      "center_alpha_zero": true,
+      "layer_separated": true,
+      "visible_effect_pixels_128px": {
+        "light": 1385,
+        "dark": 1312
+      },
+      "reduced_motion": true
+    },
+    {
+      "id": 93,
+      "animation_sha256": "76e3e09d0b05df9d9966a8214d5e5929f1ed52c73d0f5509d3478277aca021ba",
+      "phases_checked": 5,
+      "frame_fixed": true,
+      "original_png_rest_pose": true,
+      "rest_pose_max_color_delta_128px": 1,
+      "inner_contour_preserved": true,
+      "center_alpha_zero": true,
+      "layer_separated": true,
+      "visible_effect_pixels_128px": {
+        "light": 1520,
+        "dark": 1233
+      },
+      "reduced_motion": true
+    },
+    {
+      "id": 94,
+      "animation_sha256": "e596ddd097b9cd3d3163f9dfd475bc14db1b294734b347450dc97d493596c309",
+      "phases_checked": 5,
+      "frame_fixed": true,
+      "original_png_rest_pose": true,
+      "rest_pose_max_color_delta_128px": 1,
+      "inner_contour_preserved": true,
+      "center_alpha_zero": true,
+      "layer_separated": true,
+      "visible_effect_pixels_128px": {
+        "light": 534,
+        "dark": 489
+      },
+      "reduced_motion": true
+    },
+    {
+      "id": 95,
+      "animation_sha256": "01c1ed70e92593f46dcdd43202683e7487626001583470412c24ef3c9cc53b5a",
+      "phases_checked": 5,
+      "frame_fixed": true,
+      "original_png_rest_pose": true,
+      "rest_pose_max_color_delta_128px": 1,
+      "inner_contour_preserved": true,
+      "center_alpha_zero": true,
+      "layer_separated": true,
+      "visible_effect_pixels_128px": {
+        "light": 1529,
+        "dark": 1204
+      },
+      "reduced_motion": true
+    },
+    {
+      "id": 96,
+      "animation_sha256": "d919cad524cdda4cc26307a13f0623d2fb11de0758c0e397ae66deb9521477f1",
+      "phases_checked": 5,
+      "frame_fixed": true,
+      "original_png_rest_pose": true,
+      "rest_pose_max_color_delta_128px": 1,
+      "inner_contour_preserved": true,
+      "center_alpha_zero": true,
+      "layer_separated": true,
+      "visible_effect_pixels_128px": {
+        "light": 951,
+        "dark": 821
+      },
+      "reduced_motion": true
+    },
+    {
+      "id": 97,
+      "animation_sha256": "e710f7da0b5fb469b8b19ca39e4959361005dde838fd05cf6327b9a9ccacff8b",
+      "phases_checked": 5,
+      "frame_fixed": true,
+      "original_png_rest_pose": true,
+      "rest_pose_max_color_delta_128px": 1,
+      "inner_contour_preserved": true,
+      "center_alpha_zero": true,
+      "layer_separated": true,
+      "visible_effect_pixels_128px": {
+        "light": 1186,
+        "dark": 1076
+      },
+      "reduced_motion": true
+    },
+    {
+      "id": 98,
+      "animation_sha256": "f735ef4716bf7559eee83f26a7d1f0ab29a4514ea9dbc5780396761295f8b212",
+      "phases_checked": 5,
+      "frame_fixed": true,
+      "original_png_rest_pose": true,
+      "rest_pose_max_color_delta_128px": 1,
+      "inner_contour_preserved": true,
+      "center_alpha_zero": true,
+      "layer_separated": true,
+      "visible_effect_pixels_128px": {
+        "light": 732,
+        "dark": 666
+      },
+      "reduced_motion": true
+    },
+    {
+      "id": 99,
+      "animation_sha256": "28a8224fbbacf1464cea9e5cfd2020bfcdadb98b662245f87de04fc04ab390d6",
+      "phases_checked": 5,
+      "frame_fixed": true,
+      "original_png_rest_pose": true,
+      "rest_pose_max_color_delta_128px": 1,
+      "inner_contour_preserved": true,
+      "center_alpha_zero": true,
+      "layer_separated": true,
+      "visible_effect_pixels_128px": {
+        "light": 781,
+        "dark": 636
+      },
+      "reduced_motion": true
+    },
+    {
+      "id": 100,
+      "animation_sha256": "585558a168791bd98d6ef7dc1ebcfb53dcfda7a4d7f7788a041142ed5af81edc",
+      "phases_checked": 5,
+      "frame_fixed": true,
+      "original_png_rest_pose": true,
+      "rest_pose_max_color_delta_128px": 1,
+      "inner_contour_preserved": true,
+      "center_alpha_zero": true,
+      "layer_separated": true,
+      "visible_effect_pixels_128px": {
+        "light": 1218,
+        "dark": 1089
+      },
+      "reduced_motion": true
+    }
+  ]
+}

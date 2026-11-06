@@ -1,0 +1,107 @@
+{
+  "id": 100,
+  "reference_commit": "844e7c29e9e0fa80ff2d8c9fc89322eb059e66bf",
+  "source_sha256": "2126c855dd8037afcbb7c5e54deaa2f6602ab2d9b8046b5e7c424055bf53fa9f",
+  "frame": "layers/legendary/100/frame.png",
+  "frame_sha256": "7dff2c79f1bbc087e10847868b5fd5604de5321f607d93ae84a71a7f74ab9905",
+  "parts": [
+    {
+      "name": "orbit_bracket_0",
+      "file": "layers/legendary/100/orbit_bracket_0.png",
+      "origin": [
+        241.88520958673888,
+        241.88520958673882
+      ],
+      "sha256": "f48ab608bda7b792277b615f0e1cee5f99cc2e6a824f1bc11eeb339b6708b9a8",
+      "source_pixels": 15416,
+      "fixed_mount_radius": 410
+    },
+    {
+      "name": "orbit_bracket_1",
+      "file": "layers/legendary/100/orbit_bracket_1.png",
+      "origin": [
+        512.0,
+        130.0
+      ],
+      "sha256": "5636f434789c409e12b0cab81bed60d372ab0e3c4ac005e1b61fbe82b4bda83a",
+      "source_pixels": 22072,
+      "fixed_mount_radius": 410
+    },
+    {
+      "name": "orbit_bracket_2",
+      "file": "layers/legendary/100/orbit_bracket_2.png",
+      "origin": [
+        782.1147904132612,
+        241.88520958673888
+      ],
+      "sha256": "b6c768b3c87f7227aea9a0f11f2d7f742dcfabc8d7541631aced35bd54e8708b",
+      "source_pixels": 15667,
+      "fixed_mount_radius": 410
+    },
+    {
+      "name": "orbit_bracket_3",
+      "file": "layers/legendary/100/orbit_bracket_3.png",
+      "origin": [
+        894.0,
+        512.0
+      ],
+      "sha256": "deb9c212c97e1853f070678a3a98eacf4de4c6e803b58ba48606d935dd16724b",
+      "source_pixels": 16946,
+      "fixed_mount_radius": 410
+    },
+    {
+      "name": "orbit_bracket_4",
+      "file": "layers/legendary/100/orbit_bracket_4.png",
+      "origin": [
+        782.1147904132612,
+        782.1147904132611
+      ],
+      "sha256": "2731c674d11ab04e7661fe4f01ae09023ec0c49ad1371effb1d7414fe4abcf33",
+      "source_pixels": 15427,
+      "fixed_mount_radius": 410
+    },
+    {
+      "name": "orbit_bracket_5",
+      "file": "layers/legendary/100/orbit_bracket_5.png",
+      "origin": [
+        512.0,
+        894.0
+      ],
+      "sha256": "f4825144ef1d0dc4c543ba2e74cd79babc9e52867e10d67705f68d85d01d571a",
+      "source_pixels": 23579,
+      "fixed_mount_radius": 410
+    },
+    {
+      "name": "orbit_bracket_6",
+      "file": "layers/legendary/100/orbit_bracket_6.png",
+      "origin": [
+        241.88520958673888,
+        782.1147904132612
+      ],
+      "sha256": "e3c8ac516ecbf9945468555261a372ee7e44e99e1d4354d1e7f2c74ffada4c63",
+      "source_pixels": 16280,
+      "fixed_mount_radius": 410
+    },
+    {
+      "name": "orbit_bracket_7",
+      "file": "layers/legendary/100/orbit_bracket_7.png",
+      "origin": [
+        130.0,
+        512.0
+      ],
+      "sha256": "92337cba1963be14af057617f6307650b31bcad52a7f4baede6681cef97b8e2a",
+      "source_pixels": 17145,
+      "fixed_mount_radius": 410
+    }
+  ],
+  "rest_composite_changed_values": 0,
+  "layer_canvas": [
+    1024,
+    1024
+  ],
+  "fixed_mount_radius": 410,
+  "original_ornaments_replaced": false,
+  "underpaint_file": "layers/legendary/100/underpaint.png",
+  "underpaint_sha256": "5284f5ee00a1b97c83aa3202d4e58fb255980b709f3139c656092d58fb2e7f73",
+  "hidden_backing_pixels": 5419
+}

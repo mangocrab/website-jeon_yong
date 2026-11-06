@@ -1,49 +1,37 @@
-# 프로필 장식 테두리 — 최신 V2
+# 프로필 장식 테두리 — 첫 업로드 기준 보정본
 
-**현재 수정본: [assets/profile-borders-v2](assets/profile-borders-v2)**
+현재 적용할 파일은 **[assets/profile-borders-v1-repaired](assets/profile-borders-v1-repaired)**입니다.
 
-[실제 V2 미리보기](assets/profile-borders-v2/index.html) · [적용 방법·개별 레이어 안내](assets/profile-borders-v2/README.md)
+[원본과 나란히 비교하는 미리보기](assets/profile-borders-v1-repaired/index.html) · [적용 방법](assets/profile-borders-v1-repaired/README.md)
 
-전체 100종을 새 장식 레이어로 다시 구성했습니다.
-테두리와 장식을 독립적으로 만들고, 장식은 원래 가로·세로 비율을 유지해 배치합니다.
-영웅·전설 이펙트에는 후광과 명암을 넣었고, 전설은 별도로 그린 개별 장식 PNG를 연결해 움직입니다.
+기준은 두 번째 수정 후 처음 GitHub에 올린 [844e7c2의 PNG 100종](https://github.com/mangocrab/website-jeon_yong/tree/844e7c29e9e0fa80ff2d8c9fc89322eb059e66bf/assets/profile-borders)입니다. 기존 장식·색·구성을 유지하면서 찌그러진 비율을 보정했습니다. 비교 화면 왼쪽에서 해당 커밋의 실제 PNG를 확인할 수 있습니다.
 
-| 등급 | 최신 정지 파일 | 수량 | 효과·동작 |
+| 등급 | 정지 PNG | 수량 | 효과·동작 |
 |---|---|---:|---|
-| 일반 | [normal](assets/profile-borders-v2/normal) | 30 | 정지 |
-| 고급 | [premium](assets/profile-borders-v2/premium) | 25 | 정지 |
-| 희귀 | [rare](assets/profile-borders-v2/rare) | 20 | 정지 |
-| 영웅 | [epic](assets/profile-borders-v2/epic) | 15 | [이펙트 SVG](assets/profile-borders-v2/animations/epic) |
-| 전설 | [legendary](assets/profile-borders-v2/legendary) | 10 | [개별 레이어 동작 SVG](assets/profile-borders-v2/animations/legendary) |
+| 일반 | [normal](assets/profile-borders-v1-repaired/normal) | 30 | 정지, 그림 분리 없음 |
+| 고급 | [premium](assets/profile-borders-v1-repaired/premium) | 25 | 정지, 그림 분리 없음 |
+| 희귀 | [rare](assets/profile-borders-v1-repaired/rare) | 20 | 정지, 그림 분리 없음 |
+| 영웅 | [epic](assets/profile-borders-v1-repaired/epic) | 15 | [후광·명암 이펙트 점멸](assets/profile-borders-v1-repaired/animations/epic), 완성 그림 한 장 유지 |
+| 전설 | [legendary](assets/profile-borders-v1-repaired/legendary) | 10 | [개별 장식 동작·이펙트](assets/profile-borders-v1-repaired/animations/legendary), 전설만 레이어 분리 |
 
-공통 규격은 1024×1024px, 중심 (512, 512), 안쪽 원 지름 716px, 중앙 완전 투명입니다.
-PNG는 정지 조립본이고, 후광·명암 효과와 움직임은 animations의 SVG로 사용합니다.
-SVG는 일반 img 태그로 표시할 수 있으며 필요한 모든 그림이 파일 안에 포함돼 있습니다.
+PNG와 SVG 모두 1024×1024px, 중심 (512, 512), 안쪽 원 지름 716px입니다. 중앙은 완전 투명하며, SVG를 `<img>`로 표시하면 효과와 움직임을 재생합니다. ZIP 없이 개별 파일로 저장했습니다.
 
-[layers](assets/profile-borders-v2/layers)에는 테두리 PNG 100개와 새로 그린 장식 PNG 300개가 있습니다.
-전설 한 종류마다 테두리 1개와 장식 9개가 독립돼 있습니다.
-미리보기의 ‘독립 레이어’에서 각각 확인하고 다운로드할 수 있습니다. ZIP은 만들지 않았습니다.
-
-## 편집·재생성
+## 확인 및 재조립
 
 ```sh
 python -m pip install -r tools/requirements.txt
-python tools/build_profile_v2.py --from-layers
-python tools/build_profile_v2_preview.py
-```
-
-브라우저 검증:
-
-```sh
+python tools/build_v1_repair_animations.py
+python tools/preview_v1_repairs.py
 python -m pip install -r tools/browser-requirements.txt
-python tools/validate_profile_v2.py --browser /usr/bin/chromium
+python tools/validate_v1_repairs.py --browser /usr/bin/chromium
 ```
 
-검증 결과는 [V2 validation.json](assets/profile-borders-v2/validation.json)에 있습니다.
+보정 PNG가 애니메이션의 입력입니다. 전설 레이어를 정지 상태로 합치면 해당 보정 PNG와 픽셀 단위로 일치해야 합니다. 검증 결과는 [validation.json](assets/profile-borders-v1-repaired/validation.json)에 있습니다.
 
-## 이전 버전 보존
+## 이전 파일
 
-- [기존 PNG 100종](assets/profile-borders)
-- [기존 애니메이션 25종](assets/profile-borders-animated)
+- [처음 업로드한 PNG](assets/profile-borders)
+- [이전 애니메이션](assets/profile-borders-animated)
+- [별도 재디자인 V2](assets/profile-borders-v2): 이번 보정의 기준이나 적용 대상이 아닙니다.
 
-이전 파일은 덮어쓰지 않았습니다. 새 적용 경로는 assets/profile-borders-v2/입니다.
+기존 폴더는 보존하고, 이번 결과는 `assets/profile-borders-v1-repaired/`에 따로 저장합니다.

@@ -1,0 +1,85 @@
+{
+  "id": 95,
+  "reference_commit": "844e7c29e9e0fa80ff2d8c9fc89322eb059e66bf",
+  "source_sha256": "a7135cc43c24e64a6434bd7562e7a91314b10592ca64ed2b00392aec9c00c479",
+  "frame": "layers/legendary/095/frame.png",
+  "frame_sha256": "f1b0c8dd04dc4713895da9fb64ce6e0c27becad5533f13bee0c453457cd3d527",
+  "parts": [
+    {
+      "name": "portal_shard_0",
+      "file": "layers/legendary/095/portal_shard_0.png",
+      "origin": [
+        181.1782957543444,
+        321.0
+      ],
+      "sha256": "70ebf720a891eecb286a22f062a2039495d72771477b1973e2b76cf14cb15b46",
+      "source_pixels": 23009,
+      "fixed_mount_radius": 410
+    },
+    {
+      "name": "portal_shard_1",
+      "file": "layers/legendary/095/portal_shard_1.png",
+      "origin": [
+        512.0,
+        130.0
+      ],
+      "sha256": "b0cf6643bdf3f32daf3d2b66b180fe04cac3367d4678812a222b7ec55648143b",
+      "source_pixels": 27505,
+      "fixed_mount_radius": 410
+    },
+    {
+      "name": "portal_shard_2",
+      "file": "layers/legendary/095/portal_shard_2.png",
+      "origin": [
+        842.8217042456556,
+        321.0
+      ],
+      "sha256": "623d475a7b881d40d86a577bea8418e0af7b08cdf6ccacb1091597db692232c9",
+      "source_pixels": 23412,
+      "fixed_mount_radius": 410
+    },
+    {
+      "name": "portal_shard_3",
+      "file": "layers/legendary/095/portal_shard_3.png",
+      "origin": [
+        842.8217042456556,
+        703.0
+      ],
+      "sha256": "7c698f48101c0dd26a0d2e78c4c8bf39ad4a051c830aed25b2a19b6243a137e5",
+      "source_pixels": 21527,
+      "fixed_mount_radius": 410
+    },
+    {
+      "name": "portal_shard_4",
+      "file": "layers/legendary/095/portal_shard_4.png",
+      "origin": [
+        512.0,
+        894.0
+      ],
+      "sha256": "c676bd987524d16f6d2d820e3c68faeda8e63fe3bb2f937afc7201a685d982f5",
+      "source_pixels": 22492,
+      "fixed_mount_radius": 410
+    },
+    {
+      "name": "portal_shard_5",
+      "file": "layers/legendary/095/portal_shard_5.png",
+      "origin": [
+        181.1782957543444,
+        703.0
+      ],
+      "sha256": "5e94bad2473c0badf8a1c9da07071e30073e8fab7043d6178bb6f587c37e6f17",
+      "source_pixels": 22625,
+      "fixed_mount_radius": 410
+    }
+  ],
+  "rest_composite_changed_values": 0,
+  "layer_canvas": [
+    1024,
+    1024
+  ],
+  "fixed_mount_radius": 410,
+  "original_ornaments_replaced": false,
+  "underpaint_file": "layers/legendary/095/underpaint.png",
+  "underpaint_sha256": "862e3e2c1fe9bfd479360574994a4617f6ae5811fa3aa000ec350c7c6019d3ad",
+  "hidden_backing_pixels": 724
+}

@@ -1,0 +1,74 @@
+{
+  "id": 94,
+  "reference_commit": "844e7c29e9e0fa80ff2d8c9fc89322eb059e66bf",
+  "source_sha256": "654a2d486355751de8c71f23ff9eff1744dad01d9d3be6b3e49b49b7de73bd49",
+  "frame": "layers/legendary/094/frame.png",
+  "frame_sha256": "7c9fa1e51ba72261206ce9c72ba00c802f57a5c8c252192a93f92beea006e100",
+  "parts": [
+    {
+      "name": "crown",
+      "file": "layers/legendary/094/crown.png",
+      "origin": [
+        512.0,
+        130.0
+      ],
+      "sha256": "2b394aac20fc004db4440f671e1c267ff3aa2cfa34559c36738ab2a61f6b5806",
+      "source_pixels": 23684,
+      "fixed_mount_radius": 410
+    },
+    {
+      "name": "gear_0",
+      "file": "layers/legendary/094/gear_0.png",
+      "origin": [
+        239,
+        245
+      ],
+      "sha256": "475d3b5c31cf0cfdebc0488378ee7ec26dc25afcf0013a51109549f79c3ca2fc",
+      "source_pixels": 3986,
+      "fixed_mount_radius": 360
+    },
+    {
+      "name": "gear_1",
+      "file": "layers/legendary/094/gear_1.png",
+      "origin": [
+        780,
+        781
+      ],
+      "sha256": "31dca14e234865c4d2a90332f9ed89b1df53916878fecdb7cf7fb66f490d6f73",
+      "source_pixels": 6809,
+      "fixed_mount_radius": 360
+    },
+    {
+      "name": "time_crystal_0",
+      "file": "layers/legendary/094/time_crystal_0.png",
+      "origin": [
+        824.9160809183949,
+        292.89380131390044
+      ],
+      "sha256": "d16bd69ae422e845de2dbcdd7bf29c955c65db43e20c3271b962afb6babf402f",
+      "source_pixels": 10075,
+      "fixed_mount_radius": 410
+    },
+    {
+      "name": "time_crystal_1",
+      "file": "layers/legendary/094/time_crystal_1.png",
+      "origin": [
+        199.08391908160507,
+        731.1061986860996
+      ],
+      "sha256": "81dc2ce2a302ef0924033aa0d46e4c82a46bddb5785cf72a3f6de139e9fd23f3",
+      "source_pixels": 6230,
+      "fixed_mount_radius": 410
+    }
+  ],
+  "rest_composite_changed_values": 0,
+  "layer_canvas": [
+    1024,
+    1024
+  ],
+  "fixed_mount_radius": 410,
+  "original_ornaments_replaced": false,
+  "underpaint_file": "layers/legendary/094/underpaint.png",
+  "underpaint_sha256": "f505023c2d787eb92747fbcfb8c0ff9ae4b80c623f78aa82c4d3fc4d37bf9624",
+  "hidden_backing_pixels": 10614
+}

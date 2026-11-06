@@ -1,0 +1,63 @@
+{
+  "id": 97,
+  "reference_commit": "844e7c29e9e0fa80ff2d8c9fc89322eb059e66bf",
+  "source_sha256": "956dad756d7074f93ebd1b86a0a54781bdcb288e90aab66bdfc20269f6ba9a48",
+  "frame": "layers/legendary/097/frame.png",
+  "frame_sha256": "0106bfa6571e5db970b0d4ae76c95de082e9ea5fffe62d62b1b290d70e7e80a7",
+  "parts": [
+    {
+      "name": "left_upper_wing",
+      "file": "layers/legendary/097/left_upper_wing.png",
+      "origin": [
+        218,
+        290
+      ],
+      "sha256": "7e573c858531cd6468e56a79c169c79b6df0a3103c9e8539a6a59228978714a4",
+      "source_pixels": 30316,
+      "fixed_mount_radius": 386
+    },
+    {
+      "name": "right_upper_wing",
+      "file": "layers/legendary/097/right_upper_wing.png",
+      "origin": [
+        806,
+        290
+      ],
+      "sha256": "35f15017867d09cdab18283e4462b0a55c1b8c526c2d30cdef42d4541a428f2a",
+      "source_pixels": 31441,
+      "fixed_mount_radius": 386
+    },
+    {
+      "name": "left_lower_wing",
+      "file": "layers/legendary/097/left_lower_wing.png",
+      "origin": [
+        300,
+        836
+      ],
+      "sha256": "0ab966b65acf57bc87cfaf99bdee738977046eb2720741b2ad998e4d65d60f24",
+      "source_pixels": 12202,
+      "fixed_mount_radius": 410
+    },
+    {
+      "name": "right_lower_wing",
+      "file": "layers/legendary/097/right_lower_wing.png",
+      "origin": [
+        724,
+        836
+      ],
+      "sha256": "4b3bdcae8dc36df8a369f116cdee81368773d76b17a5cd2de6bc27fd8eeac263",
+      "source_pixels": 11683,
+      "fixed_mount_radius": 410
+    }
+  ],
+  "rest_composite_changed_values": 0,
+  "layer_canvas": [
+    1024,
+    1024
+  ],
+  "fixed_mount_radius": 410,
+  "original_ornaments_replaced": false,
+  "underpaint_file": "layers/legendary/097/underpaint.png",
+  "underpaint_sha256": "731db3230378edc0258e1f793ec43e3bf0b4a177eafe72123047d5b344c3156f",
+  "hidden_backing_pixels": 8843
+}

@@ -1,0 +1,96 @@
+{
+  "id": 96,
+  "reference_commit": "844e7c29e9e0fa80ff2d8c9fc89322eb059e66bf",
+  "source_sha256": "490b145e287370e3ef67d28c1078df3ac9e5f3b5e055d6f1824e784e7ac9f42b",
+  "frame": "layers/legendary/096/frame.png",
+  "frame_sha256": "f64c90fe3140407f4c996f2071fd43c24be7aee2c79fec9ac921cbecf28a6376",
+  "parts": [
+    {
+      "name": "branch_0",
+      "file": "layers/legendary/096/branch_0.png",
+      "origin": [
+        199.08391908160507,
+        292.89380131390044
+      ],
+      "sha256": "b71b68980026d48ebe9c5634375e4d94872aec786f9561fa6db43b0986bb530d",
+      "source_pixels": 16137,
+      "fixed_mount_radius": 410
+    },
+    {
+      "name": "branch_1",
+      "file": "layers/legendary/096/branch_1.png",
+      "origin": [
+        368.90028131512156,
+        157.81576755548718
+      ],
+      "sha256": "acd968c1d9710bc90412db360d6c514b5f4074706d8656eb87e92518481379ec",
+      "source_pixels": 21698,
+      "fixed_mount_radius": 410
+    },
+    {
+      "name": "branch_2",
+      "file": "layers/legendary/096/branch_2.png",
+      "origin": [
+        655.0997186848783,
+        157.81576755548718
+      ],
+      "sha256": "a20aaacc36f0962f8456735a68103de4fd241921d5d67ba2fbb122c06120e402",
+      "source_pixels": 22074,
+      "fixed_mount_radius": 410
+    },
+    {
+      "name": "branch_3",
+      "file": "layers/legendary/096/branch_3.png",
+      "origin": [
+        824.9160809183949,
+        292.89380131390044
+      ],
+      "sha256": "4e30b3800ecc972219c699bf26e8b55394c474495afcc10fe4fe9e9966c535a7",
+      "source_pixels": 16535,
+      "fixed_mount_radius": 410
+    },
+    {
+      "name": "root_0",
+      "file": "layers/legendary/096/root_0.png",
+      "origin": [
+        731.1061986860997,
+        824.9160809183949
+      ],
+      "sha256": "09001a621c80078da4d1427e6ffc408a85020295091b71f0d87a146c277040e1",
+      "source_pixels": 17854,
+      "fixed_mount_radius": 410
+    },
+    {
+      "name": "root_1",
+      "file": "layers/legendary/096/root_1.png",
+      "origin": [
+        512.0,
+        894.0
+      ],
+      "sha256": "3fe2e0669237c74624f7db05de04d414f2fb98b774eb96ec3bdf9429cb338fd9",
+      "source_pixels": 25100,
+      "fixed_mount_radius": 410
+    },
+    {
+      "name": "root_2",
+      "file": "layers/legendary/096/root_2.png",
+      "origin": [
+        292.8938013139003,
+        824.9160809183948
+      ],
+      "sha256": "742982e2b10d5fb21823a2df3f22648a383bc7ccc52706e7d31376d3268ead40",
+      "source_pixels": 18589,
+      "fixed_mount_radius": 410
+    }
+  ],
+  "rest_composite_changed_values": 0,
+  "layer_canvas": [
+    1024,
+    1024
+  ],
+  "fixed_mount_radius": 410,
+  "original_ornaments_replaced": false,
+  "underpaint_file": "layers/legendary/096/underpaint.png",
+  "underpaint_sha256": "5cb2065391e4688fd1de298189e1b4833873670101bda01dbb6bf65d9d7ecea8",
+  "hidden_backing_pixels": 14363
+}
