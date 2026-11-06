@@ -1,0 +1,117 @@
+{
+  "status": "passed",
+  "animations": 10,
+  "poses": 50,
+  "results": [
+    {
+      "id": 91,
+      "phases": 5,
+      "ornament_clip_pixels": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 92,
+      "phases": 5,
+      "ornament_clip_pixels": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 93,
+      "phases": 5,
+      "ornament_clip_pixels": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 94,
+      "phases": 5,
+      "ornament_clip_pixels": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 95,
+      "phases": 5,
+      "ornament_clip_pixels": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 96,
+      "phases": 5,
+      "ornament_clip_pixels": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 97,
+      "phases": 5,
+      "ornament_clip_pixels": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 98,
+      "phases": 5,
+      "ornament_clip_pixels": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 99,
+      "phases": 5,
+      "ornament_clip_pixels": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 100,
+      "phases": 5,
+      "ornament_clip_pixels": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}
