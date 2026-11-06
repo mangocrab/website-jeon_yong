@@ -4,7 +4,7 @@
 
 일반·고급·희귀·영웅에 적용할 파일은 **[assets/profile-borders-v1-repaired](assets/profile-borders-v1-repaired)**입니다.
 
-[원본과 나란히 비교하는 미리보기](assets/profile-borders-v1-repaired/index.html) · [적용 방법](assets/profile-borders-v1-repaired/README.md)
+[기존 100종 비교 화면](assets/profile-borders-v1-repaired/index.html) · [적용 방법](assets/profile-borders-v1-repaired/README.md)
 
 기준은 두 번째 수정 후 처음 GitHub에 올린 [844e7c2의 PNG 100종](https://github.com/mangocrab/website-jeon_yong/tree/844e7c29e9e0fa80ff2d8c9fc89322eb059e66bf/assets/profile-borders)입니다. 기존 장식·색·구성을 유지하면서 찌그러진 비율을 보정했습니다. 비교 화면 왼쪽에서 해당 커밋의 실제 PNG를 확인할 수 있습니다.
 
@@ -14,7 +14,7 @@
 | 고급 | [premium](assets/profile-borders-v1-repaired/premium) | 25 | 정지, 그림 분리 없음 |
 | 희귀 | [rare](assets/profile-borders-v1-repaired/rare) | 20 | 정지, 그림 분리 없음 |
 | 영웅 | [epic](assets/profile-borders-v1-repaired/epic) | 15 | [후광·명암 이펙트 점멸](assets/profile-borders-v1-repaired/animations/epic), 완성 그림 한 장 유지 |
-| 전설 | [legendary](assets/profile-borders-v1-repaired/legendary) | 10 | [독립 장식 동작·이펙트](assets/profile-borders-legendary-independent), 전설만 레이어 분리 |
+| 전설 | [legendary](assets/profile-borders-legendary-independent) | 10 | [독립 장식 동작·이펙트](assets/profile-borders-legendary-independent), 전설만 레이어 분리 |
 
 PNG와 SVG 모두 1024×1024px, 중심 (512, 512), 안쪽 원 지름 716px입니다. 중앙은 완전 투명하며, SVG를 `<img>`로 표시하면 효과와 움직임을 재생합니다. ZIP 없이 개별 파일로 저장했습니다.
 
