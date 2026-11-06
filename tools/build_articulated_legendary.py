@@ -42,7 +42,8 @@ for n,layout in LAYOUT.items():
   parts.append(f'<image class="part part-{j}" x="{x}" y="{y}" width="{w}" height="{h}" href="{uri(p)}"/>');records.append(dict(file=str(p.relative_to(OUT)),position=[x,y],size=[w,h],pivot=list(pivot),motion=keys))
  css.append('@media(prefers-reduced-motion:reduce){.part,.fx{animation:none;transform:none}.fx{opacity:0}}')
  # Render complete moving ornaments in front of the fixed rail so their motion stays visible.
- body=f'<image class="fixed-frame" width="1024" height="1024" href="{uri(fp)}"/>'+''.join(parts)+fx
+ fixed=f'<image class="fixed-frame" width="1024" height="1024" href="{uri(fp)}"/>'
+ body=''.join(parts[:2])+fixed+''.join(parts[2:])+fx if n==94 else fixed+''.join(parts)+fx
  svg=f'<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024"><defs>{defs}<mask id="safe" maskUnits="userSpaceOnUse" style="mask-type:alpha"><image width="1024" height="1024" href="{mask_uri(MASK)}"/></mask></defs><style>{"".join(css)}</style><g mask="url(#safe)">{body}</g></svg>'
  (OUT/f'profile_{n:03}_legendary.svg').write_text(svg);items.append(dict(id=n,reference_commit='844e7c2',frame=str(fp.relative_to(OUT)),parts=records,geometry=stats))
 rig=json.loads((OUT/'097-rig.json').read_text());items.append(dict(id=97,reference_commit='844e7c2',frame='097-frame.png',parts=rig['parts'],bones=dict(shoulder=[128,500],elbow=[165,385],lower=[398,900])))
