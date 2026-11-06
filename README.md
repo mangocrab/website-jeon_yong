@@ -1,6 +1,6 @@
 # 프로필 장식 테두리 — 첫 업로드 기준 보정본
 
-**전설 최신 동작:** [독립 장식 레이어 수정본](assets/profile-borders-legendary-independent) · [원화 레이어와 동작 보기](assets/profile-borders-legendary-independent/index.html). 전설 10종은 완성된 장식을 각각 따로 그려 조립하는 방식으로 교체했습니다.
+**전설 최신 동작:** [관절·겹침 수정본](assets/profile-borders-articulated) · [원화 레이어와 동작 보기](assets/profile-borders-articulated/index.html). 97번 날개는 어깨·중간 관절·깃털의 연결 구조를 적용했고, 전설 10종의 장식 배치와 동작을 다시 조정했습니다.
 
 일반·고급·희귀·영웅에 적용할 파일은 **[assets/profile-borders-v1-repaired](assets/profile-borders-v1-repaired)**입니다.
 
@@ -14,7 +14,7 @@
 | 고급 | [premium](assets/profile-borders-v1-repaired/premium) | 25 | 정지, 그림 분리 없음 |
 | 희귀 | [rare](assets/profile-borders-v1-repaired/rare) | 20 | 정지, 그림 분리 없음 |
 | 영웅 | [epic](assets/profile-borders-v1-repaired/epic) | 15 | [후광·명암 이펙트 점멸](assets/profile-borders-v1-repaired/animations/epic), 완성 그림 한 장 유지 |
-| 전설 | [legendary](assets/profile-borders-legendary-independent) | 10 | [독립 장식 동작·이펙트](assets/profile-borders-legendary-independent), 전설만 레이어 분리 |
+| 전설 | [legendary](assets/profile-borders-articulated) | 10 | [독립 장식 동작·이펙트](assets/profile-borders-articulated), 전설만 레이어 분리 |
 
 PNG와 SVG 모두 1024×1024px, 중심 (512, 512), 안쪽 원 지름 716px입니다. 중앙은 완전 투명하며, SVG를 `<img>`로 표시하면 효과와 움직임을 재생합니다. ZIP 없이 개별 파일로 저장했습니다.
 

@@ -1,0 +1,158 @@
+{
+  "reference_commit": "844e7c2",
+  "shared_roots": true,
+  "parts": [
+    {
+      "name": "upper0",
+      "file": "097-upper-feathers-0.png",
+      "root": [
+        215,
+        265
+      ],
+      "position": [
+        211.2,
+        159.4
+      ],
+      "size": [
+        95,
+        110
+      ],
+      "closed_angle": -22,
+      "open_angle": -20,
+      "mirrored_right": true
+    },
+    {
+      "name": "upper1",
+      "file": "097-upper-feathers-1.png",
+      "root": [
+        195,
+        320
+      ],
+      "position": [
+        190.68,
+        200.0
+      ],
+      "size": [
+        108,
+        125
+      ],
+      "closed_angle": -35,
+      "open_angle": -40,
+      "mirrored_right": true
+    },
+    {
+      "name": "upper2",
+      "file": "097-upper-feathers-2.png",
+      "root": [
+        165,
+        385
+      ],
+      "position": [
+        160.52,
+        260.2
+      ],
+      "size": [
+        112,
+        130
+      ],
+      "closed_angle": -52,
+      "open_angle": -60,
+      "mirrored_right": true
+    },
+    {
+      "name": "upper3",
+      "file": "097-upper-feathers-3.png",
+      "root": [
+        140,
+        445
+      ],
+      "position": [
+        135.84,
+        329.8
+      ],
+      "size": [
+        104,
+        120
+      ],
+      "closed_angle": -65,
+      "open_angle": -75,
+      "mirrored_right": true
+    },
+    {
+      "name": "upper4",
+      "file": "097-upper-feathers-4.png",
+      "root": [
+        128,
+        500
+      ],
+      "position": [
+        125.24,
+        423.2
+      ],
+      "size": [
+        69,
+        80
+      ],
+      "closed_angle": -80,
+      "open_angle": -90,
+      "mirrored_right": true
+    },
+    {
+      "name": "lower0",
+      "file": "097-lower-feathers-0.png",
+      "root": [
+        370,
+        890
+      ],
+      "position": [
+        157.84,
+        884.2
+      ],
+      "size": [
+        221,
+        145
+      ],
+      "closed_angle": 69,
+      "open_angle": 65,
+      "mirrored_right": true
+    },
+    {
+      "name": "lower1",
+      "file": "097-lower-feathers-1.png",
+      "root": [
+        315,
+        865
+      ],
+      "position": [
+        185.4,
+        860.6
+      ],
+      "size": [
+        135,
+        110
+      ],
+      "closed_angle": 72,
+      "open_angle": 75,
+      "mirrored_right": true
+    },
+    {
+      "name": "lower2",
+      "file": "097-lower-feathers-2.png",
+      "root": [
+        260,
+        830
+      ],
+      "position": [
+        178.4,
+        826.6
+      ],
+      "size": [
+        85,
+        85
+      ],
+      "closed_angle": 74,
+      "open_angle": 80,
+      "mirrored_right": true
+    }
+  ]
+}
