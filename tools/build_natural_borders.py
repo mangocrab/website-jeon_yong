@@ -51,7 +51,7 @@ for row in catalog:
    im,factor=frame_restore(decoded,1/float(audit[str(n)]),ref);stats=dict(method='inverse_radial_compression_on_fixed_rail',restoration_factor=factor)
   im.save(ART/f'{n:03}-frame.png');fixed.set('href',uri(im));fixed.set('width','1280');fixed.set('height','1280')
   def point(x,y):
-   dx=x-512;dy=y-512;r=math.hypot(dx,dy);z=(358+(r-358)*factor)/r if r else 1;return (640+dx*z,640+dy*z)
+   dx=x-512;dy=y-512;r=math.hypot(dx,dy);z=max(405,358+(r-358)*factor)/r if r else 1;return (640+dx*z,640+dy*z)
   parents={c:p for p in svg.iter() for c in p}
   for e in list(svg.iter(NS+'image')):
    if e is fixed:continue
@@ -74,21 +74,20 @@ for row in catalog:
   for e in svg.iter():
    if e.get('transform')=='translate(1024 0) scale(-1 1)':e.set('transform','translate(1280 0) scale(-1 1)')
    if e.tag==NS+'mask':e.set('maskUnits','userSpaceOnUse');e.set('x','0');e.set('y','0');e.set('width','1280');e.set('height','1280')
-   if e.tag==NS+'feGaussianBlur':e.set('stdDeviation','10')
-   if e.tag==NS+'feDropShadow':e.set('stdDeviation','3.2');e.set('dy','4');e.set('flood-opacity','.8')
 
   if n==97:
+   # Keep the approved hierarchy, but avoid hiding the enlarged feather layers.
    parent=parents[fixed];parent.remove(fixed);parent.insert(0,fixed)
   text=re.sub(r'transform-origin:([\d.]+)px ([\d.]+)px',lambda m:'transform-origin:%spx %spx'%point(float(m[1]),float(m[2])),text)
   def translate(m):
    vals=re.findall(r'-?[\d.]+',m[1]);return 'translate('+','.join(f'{float(v)*1.4:.4f}px' for v in vals)+')' if len(vals)==2 else m[0]
-  text=re.sub(r'translate\(([^)]*)\)',translate,text);style.text=text+' .fx polygon,.fx circle,.fx path,.fx ellipse{transform-box:fill-box;transform-origin:center;transform:scale(1.4)}'
+  text=re.sub(r'translate\(([^)]*)\)',translate,text);style.text=text
   if n==94:
    for cls in ['part-0','part-1']:
     ox,oy=origins[cls];px,py=point(ox,oy);vr=math.hypot(px-640,py-640);nx=px+25*(px-640)/vr;ny=py+25*(py-640)/vr
     style.text=style.text.replace(f'.{cls}{{transform-origin:{px}px {py}px',f'.{cls}{{transform-origin:{nx}px {ny}px')
-  # Only effect artwork receives halo/shadow and the larger display transform.
-  fx=next(e for e in svg.iter() if e.get('class')=='fx');parent=parents[fx];index=list(parent).index(fx);parent.remove(fx);wrapper=ET.Element(NS+'g',{'transform':'translate(640 640) scale(1.25) translate(-512 -512)'});wrapper.append(fx);parent.insert(index,wrapper)
+  # Effects keep original geometry and filter sizes: translate by the new transparent margin only.
+  fx=next(e for e in svg.iter() if e.get('class')=='fx');parent=parents[fx];index=list(parent).index(fx);parent.remove(fx);wrapper=ET.Element(NS+'g',{'transform':'translate(128 128)'});wrapper.append(fx);parent.insert(index,wrapper)
   svg.set('width','1280');svg.set('height','1280');svg.set('viewBox','0 0 1280 1280');ET.ElementTree(svg).write(target,encoding='unicode')
  r={k:row[k] for k in ['id','name','tier']};r.update(file=rel,animated=n>=76,width=1280,height=1280,center=[640,640],inner_diameter_px=716,avatar_fraction=716/1280,geometry=stats,sha256=hashlib.sha256(target.read_bytes()).hexdigest());records.append(r);print('Built',n,stats,flush=True)
 (OUT/'manifest.json').write_text(json.dumps(records,ensure_ascii=False,indent=2)+'\n')

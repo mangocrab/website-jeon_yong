@@ -1,4 +1,4 @@
-import json,io,re,functools,threading
+import json,io,re,functools,threading,xml.etree.ElementTree as E
 from pathlib import Path
 from http.server import SimpleHTTPRequestHandler,ThreadingHTTPServer
 from PIL import Image,ImageDraw
@@ -10,6 +10,29 @@ class Q(SimpleHTTPRequestHandler):
 items=json.loads((OUT/'manifest.json').read_text());assert len(items)==100
 for a in items[:75]:
  im=Image.open(OUT/a['file']);assert im.size==(1280,1280);assert not np.array(im)[:,:,3][hole].any()
+# Each approved independent part and every effect primitive/filter must survive unchanged.
+NS='{http://www.w3.org/2000/svg}'
+base=json.loads((ROOT/'assets/profile-borders-v1-repaired/manifest.json').read_text())
+for a in items[75:]:
+ n=a['id'];source=ROOT/'assets/profile-borders-v1-repaired'/base[n-1]['animation'] if n<91 else ROOT/f'assets/profile-borders-articulated-visible/profile_{n:03}_legendary.svg'
+ old=E.parse(source).getroot();new=E.parse(OUT/a['file']).getroot()
+ def signature(t):
+  fx=next(e for e in t.iter() if e.get('class')=='fx')
+  return [(e.tag,sorted(e.attrib.items())) for e in fx.iter()]
+ assert signature(old)==signature(new),(n,'Effect geometry changed')
+ def filters(t):return [(e.tag,sorted(e.attrib.items())) for e in t.iter() if e.tag in (NS+'feGaussianBlur',NS+'feDropShadow')]
+ assert filters(old)==filters(new),(n,'Effect filters changed')
+ def parts(t):
+  parents={c:p for p in t.iter() for c in p};out=[]
+  for e in t.iter(NS+'image'):
+   p=parents.get(e);masked=False
+   while p is not None:
+    if p.tag==NS+'mask':masked=True;break
+    p=parents.get(p)
+   if not masked and e.get('class')!='fixed-frame':out.append(e.get('href'))
+  return out
+ assert parts(old)==parts(new),(n,'Independent PNG parts changed or disappeared')
+print('PASS: approved part PNGs, effect shapes and effect filter sizes preserved',flush=True)
 server=ThreadingHTTPServer(('127.0.0.1',0),functools.partial(Q,directory=str(ROOT)));threading.Thread(target=server.serve_forever,daemon=True).start();results=[];review=Image.new('RGB',(1600,320*5),'#dfe5ec');d=ImageDraw.Draw(review)
 try:
  with sync_playwright() as p:
@@ -34,4 +57,4 @@ try:
    results.append(dict(id=n,visible_pixels_128px=change,effect_only=n<91,center_transparent=True,inner_diameter_px=716))
   b.close()
 finally:server.shutdown()
-review.save('/tmp/natural-review.jpg');(OUT/'geometry-and-motion-validation.json').write_text(json.dumps(dict(status='passed',canvas=1280,center=[640,640],static_pngs=75,animations=25,results=results),indent=2)+'\n')
+review.save('/tmp/natural-review.jpg');(OUT/'geometry-and-motion-validation.json').write_text(json.dumps(dict(status='passed',approved_independent_parts_preserved=True,effect_geometry_preserved=True,effect_filter_sizes_preserved=True,effect_artwork_scale=1.0,effect_screen_size_ratio=.8,part_screen_size_ratio=1.12,canvas=1280,center=[640,640],static_pngs=75,animations=25,results=results),indent=2)+'\n')

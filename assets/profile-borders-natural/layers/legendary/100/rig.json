@@ -1,0 +1,80 @@
+{
+  "id": 100,
+  "canvas": [
+    1280,
+    1280
+  ],
+  "parts": [
+    {
+      "file": "fixed-frame.png",
+      "class_name": "fixed-frame",
+      "moving": false,
+      "x": 0.0,
+      "y": 0.0,
+      "render_width": 1280.0,
+      "render_height": 1280.0,
+      "ancestors": [
+        {
+          "mask": "url(#safe)"
+        }
+      ]
+    },
+    {
+      "file": "part-0.png",
+      "class_name": "part part-0",
+      "moving": true,
+      "x": 514.0,
+      "y": 121.95,
+      "render_width": 251.99999999999997,
+      "render_height": 133.0,
+      "ancestors": [
+        {
+          "mask": "url(#safe)"
+        }
+      ]
+    },
+    {
+      "file": "part-1.png",
+      "class_name": "part part-1",
+      "moving": true,
+      "x": 1050.2472003432001,
+      "y": 556.6864135954136,
+      "render_width": 100.8,
+      "render_height": 189.0,
+      "ancestors": [
+        {
+          "mask": "url(#safe)"
+        }
+      ]
+    },
+    {
+      "file": "part-2.png",
+      "class_name": "part part-2",
+      "moving": true,
+      "x": 128.95279965679978,
+      "y": 556.6864135954136,
+      "render_width": 100.8,
+      "render_height": 189.0,
+      "ancestors": [
+        {
+          "mask": "url(#safe)"
+        }
+      ]
+    },
+    {
+      "file": "part-3.png",
+      "class_name": "part part-3",
+      "moving": true,
+      "x": 521.0,
+      "y": 1027.57,
+      "render_width": 237.99999999999997,
+      "render_height": 116.19999999999999,
+      "ancestors": [
+        {
+          "mask": "url(#safe)"
+        }
+      ]
+    }
+  ],
+  "css": ".fx{opacity:0;animation:effects 6s ease-in-out infinite}@keyframes effects{0%,100%{opacity:0}50%{opacity:.85}}.part-0{transform-origin:640.0px 235.0px;animation:part0 6s cubic-bezier(.4,0,.6,1) infinite}@keyframes part0{0%,100%{transform:translate(0.0000px,0.0000px) rotate(0deg) scale(1)}50%{transform:translate(0.0000px,-33.6000px)}}.part-1{transform-origin:1100.6472003432002px 585.0364135954136px;animation:part1 6s cubic-bezier(.4,0,.6,1) infinite}@keyframes part1{0%,100%{transform:translate(0.0000px,0.0000px) rotate(0deg) scale(1)}50%{transform:rotate(18deg)}}.part-2{transform-origin:179.3527996567998px 585.0364135954136px;animation:part2 6s cubic-bezier(.4,0,.6,1) infinite}@keyframes part2{0%,100%{transform:translate(0.0000px,0.0000px) rotate(0deg) scale(1)}50%{transform:rotate(-18deg)}}.part-3{transform-origin:640.0px 1045.0px;animation:part3 6s cubic-bezier(.4,0,.6,1) infinite}@keyframes part3{0%,100%{transform:translate(0.0000px,0.0000px) rotate(0deg) scale(1)}50%{transform:rotate(12deg)}}@media(prefers-reduced-motion:reduce){.part,.fx{animation:none;transform:none}.fx{opacity:0}}"
+}

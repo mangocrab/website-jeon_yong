@@ -6,10 +6,11 @@
 
 원본 장식을 좁은 띠에 맞추는 대신 전체 캔버스를 1280×1280으로 넓혔습니다. 모든 등급의 중심은 (640,640), 안쪽 원 지름은 716px입니다. 일반·고급·희귀의 그림은 기존 픽셀 그대로 투명 여백만 추가했습니다.
 
-영웅·전설 원화에 새 조명이나 그림자를 추가하지 않았습니다. 이펙트의 크기·후광·그림자만 강화했습니다. 움직이는 그림은 기존 종횡비를 보존했고, 화면상 약 12% 더 크게 보이도록 맞췄습니다. 94번의 기어는 테두리 뒤 순서를 유지합니다.
+영웅·전설 원화에 새 조명이나 그림자를 추가하지 않았습니다. 이펙트 도형·후광·그림자 크기는 파츠 보정 전 값으로 유지했습니다. 움직이는 그림은 기존 종횡비를 보존했고, 화면상 약 12% 더 크게 보이도록 맞췄습니다. 94번의 기어는 테두리 뒤 순서를 유지합니다.
 
 ```sh
 python3 tools/build_natural_borders.py
+python3 tools/export_natural_rig_layers.py
 python3 tools/validate_natural_borders.py
 python3 tools/assemble_final_borders.py
 ```
@@ -17,3 +18,11 @@ python3 tools/assemble_final_borders.py
 `geometry-and-motion-validation.json`은 실제 렌더링에서 공통 원, 투명도, 동작 줄이기와 128px 가시성을 확인한 결과입니다. 최종 사용 폴더에는 작업용 자료를 넣지 않습니다. ZIP은 만들지 않습니다.
 
 [영웅·전설 25종 보정 모습](review-25.jpg) — 검토용 배경이 있는 합성 화면입니다. 실제 사용 파일은 모두 투명 PNG·SVG입니다.
+
+## 레전더리 독립 파츠
+
+`layers/legendary/091`부터 `100`까지 실제 SVG에 사용된 개별 PNG와 `rig.json`을 저장했습니다. PNG 자체의 원본 화질·종횡비는 유지하고, SVG의 표시 크기와 위치로 확대·재배치를 적용합니다. `rig.json`에 표시 크기, 연결점의 상위 그룹과 CSS 관절 동작이 있습니다. 사이트에는 여전히 최종 사용 폴더의 SVG 한 개만 적용하면 됩니다.
+
+[테두리·이펙트를 숨긴 파츠만 비교](legendary-parts-only.png)
+
+[개별 파츠 실제 재생 확인](legendary-parts-preview.html) — 이펙트를 숨기고, 테두리 포함·파츠만 보기를 전환할 수 있습니다.
