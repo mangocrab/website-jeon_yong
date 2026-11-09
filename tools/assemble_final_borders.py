@@ -40,3 +40,11 @@ SVG에는 필요한 그림이 모두 들어 있습니다. 다른 폴더의 레�
 ''')
 assert len(items)==100
 print('Collected 75 PNGs and 25 self-contained SVGs')
+# Expose actual embedded legendary layers from the same runtime SVGs.
+parts_page=(BASE/'legendary-parts-preview.html').read_text()
+parts_page=parts_page.replace('data="legendary/profile_','data="profile_').replace('let only=false,paused=false','let only=true,paused=false').replace('<body class="small">','<body>')
+parts_page=parts_page.replace('‘파츠만 보기’를 누르면 고정 테두리도 숨겨 각각 움직이는 장식을 확인할 수 있습니다.','처음에는 고정 테두리도 숨기고 실제 독립 파츠만 재생합니다. ‘테두리도 보기’로 전체 조립 상태를 확인할 수 있습니다.')
+parts_page=parts_page.replace('<button id="parts">파츠만 보기</button>','<button id="parts">테두리도 보기</button>')
+(OUT/'legendary'/'parts-preview.html').write_text(parts_page)
+p=OUT/'index.html';page=p.read_text();page=page.replace('<nav>','<p><a href="legendary/parts-preview.html">레전더리 독립 파츠만 재생해서 확인</a></p><nav>',1);p.write_text(page)
+p=OUT/'README.md';page=p.read_text();page+='\n[레전더리 독립 파츠만 실제 재생하기](legendary/parts-preview.html) · [개별 파츠 PNG·관절 정보](../profile-borders-natural/layers/legendary/)\n\n전설은 테두리와 독립 파츠·관절 동작을 그대로 포함합니다. 확대·재배치는 움직이는 파츠에 적용하며, 이펙트 도형과 필터의 크기는 보정 전 값으로 유지합니다.\n';p.write_text(page)
