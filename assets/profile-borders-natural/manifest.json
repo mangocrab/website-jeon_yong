@@ -1,0 +1,1972 @@
+[
+  {
+    "id": 1,
+    "name": "순백의 선",
+    "tier": "normal",
+    "file": "normal/profile_001_normal.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "3bb719768e920f496a85dc4fe1ce280a715a815753573eda13e941c6f661e46a",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 2,
+    "name": "먹빛 미니멀",
+    "tier": "normal",
+    "file": "normal/profile_002_normal.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "8376337337988ceda77a11877ff443c1ea7b765bc4c71f0b077db68c515681b6",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 3,
+    "name": "복숭아빛",
+    "tier": "normal",
+    "file": "normal/profile_003_normal.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "6a2522089db94184f3d6ff11fbc29aa651ed6e5457b46fb8ba9fd51625353d29",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 4,
+    "name": "하늘 구름",
+    "tier": "normal",
+    "file": "normal/profile_004_normal.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "6109c3a84a619b1783db743af845d3cd991b9167ba4d7ec4c7fb2210af818366",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 5,
+    "name": "민트 새싹",
+    "tier": "normal",
+    "file": "normal/profile_005_normal.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "8ba1e29ea54b6495d452d936d90eb53f04f82d89b0ad41f1912789bf36972940",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 6,
+    "name": "레몬 소다",
+    "tier": "normal",
+    "file": "normal/profile_006_normal.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "e8740c32928bd114a3ff1eba2550360fd7033046cf67a610362a9a41e830d365",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 7,
+    "name": "블루 체크",
+    "tier": "normal",
+    "file": "normal/profile_007_normal.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "3bd1688fa84261a4cdd590a621dcd61271ec0d83e57f85288a16810d15244697",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 8,
+    "name": "빨간 스티치",
+    "tier": "normal",
+    "file": "normal/profile_008_normal.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "06b00affd91895536955ad2539cbecf380c05a3aa130508d88e5d6fa8bf00e3c",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 9,
+    "name": "코코아 리본",
+    "tier": "normal",
+    "file": "normal/profile_009_normal.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "babc4adf57901b3a86a6ed18b9cf4072fdcf48d1b932cba611bf3b075f61cc6b",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 10,
+    "name": "작은 별",
+    "tier": "normal",
+    "file": "normal/profile_010_normal.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "64c967e051954d1708fe05e59814428213a85a79c9eef46e876c1fcd0c06cf13",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 11,
+    "name": "체리 한 쌍",
+    "tier": "normal",
+    "file": "normal/profile_011_normal.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "043aa8778a173a29fec9c169a0d869943d3235416467261ae22401f1d6d81807",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 12,
+    "name": "데이지 한 송이",
+    "tier": "normal",
+    "file": "normal/profile_012_normal.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "27af16c2485dcc101d104977f16e8a4be88d704db0f9bdc1d4a9336de60d3c9b",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 13,
+    "name": "라벤더 향기",
+    "tier": "normal",
+    "file": "normal/profile_013_normal.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "a640f85bd93960d7ec497c5b72fc59d0a27e4878300d6b6e457f74f11de75b4f",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 14,
+    "name": "단풍 한 잎",
+    "tier": "normal",
+    "file": "normal/profile_014_normal.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "8ce268dcd16265b98b671747fce7e9afd2d3185108c71c311a5fa0aac153b994",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 15,
+    "name": "첫눈",
+    "tier": "normal",
+    "file": "normal/profile_015_normal.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "a7d62723c9c42371a4415a50c4adf3db84fbcd31da1c64e18715c7c96cb4e75c",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 16,
+    "name": "잔잔한 파도",
+    "tier": "normal",
+    "file": "normal/profile_016_normal.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "6bf02111c33c65be7b2230b2d641dbaca7fddfba1a7dbbd7c1f9a61f731d74f3",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 17,
+    "name": "자연 조약돌",
+    "tier": "normal",
+    "file": "normal/profile_017_normal.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "0c96cfe281a33c960779e6971c20d70f707558c88c0121d2a6262839ee75ba2c",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 18,
+    "name": "종이비행기",
+    "tier": "normal",
+    "file": "normal/profile_018_normal.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "c234a0c0fb6954f39bcfacf2fb2937f0e68f83003f45721a436f9e72f33ea2ab",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 19,
+    "name": "연필 스케치",
+    "tier": "normal",
+    "file": "normal/profile_019_normal.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "4e90bdd0f57ab29291de831ed5ed832849cb15f64a248190e94183fc43736f56",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 20,
+    "name": "책갈피",
+    "tier": "normal",
+    "file": "normal/profile_020_normal.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "684b9142c16a14d5e4f6b7cb0c073737b84092fe1c7da97d1c5231fc3093a0c3",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 21,
+    "name": "픽셀 테두리",
+    "tier": "normal",
+    "file": "normal/profile_021_normal.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "e13ba6602ffafaa3f832280dc8eeef06ea01dc7c4e48711bb292f28c09d0956e",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 22,
+    "name": "하트 실",
+    "tier": "normal",
+    "file": "normal/profile_022_normal.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "ab2777fe10db1527c990fd2b27fa0e0b01f229f730e382e9d3c868e0147b2eb2",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 23,
+    "name": "말풍선",
+    "tier": "normal",
+    "file": "normal/profile_023_normal.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "3efa09ba49e1dd62279b25ba4300b9e1145ef1dcdaa0f6491122eb0282367a7d",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 24,
+    "name": "음표 산책",
+    "tier": "normal",
+    "file": "normal/profile_024_normal.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "c9d34842fd830c7498719522ecb0fb7045b585cdc04cb2c9169ce9c306cfe2fa",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 25,
+    "name": "아침 햇살",
+    "tier": "normal",
+    "file": "normal/profile_025_normal.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "556f216e7447cc96657aa0b75b02e9e724e0a40be2d15159c17b763b9196ed74",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 26,
+    "name": "네잎클로버",
+    "tier": "normal",
+    "file": "normal/profile_026_normal.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "10d05924d6424ad1a8fac83f5c7fe06fa06c715b18d2c699acefb008153efbb9",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 27,
+    "name": "쿠키 크럼블",
+    "tier": "normal",
+    "file": "normal/profile_027_normal.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "f5d04f516c2ed391e382638e34358bd23203741f4cda30cdb26f49aaa612bd37",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 28,
+    "name": "커피 향기",
+    "tier": "normal",
+    "file": "normal/profile_028_normal.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "8751e6cdcad0cd07dad0950891030eaac57f381ecb3149b338d35402f6418132",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 29,
+    "name": "나비 한 마리",
+    "tier": "normal",
+    "file": "normal/profile_029_normal.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "a5806c33a952c49278e9f69e15da550172b0ba52742e46de5ea59acc32cfdcd7",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 30,
+    "name": "무지개 실",
+    "tier": "normal",
+    "file": "normal/profile_030_normal.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "53fc5ad48cfa86e2fa7e886baa06648ac01f39a6faad018db48d135038837719",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 31,
+    "name": "벚꽃 정원",
+    "tier": "premium",
+    "file": "premium/profile_031_premium.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "475e1cb549268a8b67c510dfb3b45f9643c7ee147b4a28c8c94d347549dae67c",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 32,
+    "name": "장미 리본",
+    "tier": "premium",
+    "file": "premium/profile_032_premium.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "05674f7ee7cd47c91359d580538ea72b79dfb685490280a70353060e3a5e8b5f",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 33,
+    "name": "해바라기 춤",
+    "tier": "premium",
+    "file": "premium/profile_033_premium.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "41404797370c66be7d8e06f08eacbf7f2f0652841c555dff133467edead1e72b",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 34,
+    "name": "아이비 정원",
+    "tier": "premium",
+    "file": "premium/profile_034_premium.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "f7a42b8b2a3d488f867e8ae3cd0af61824fb9ff7f297da9f23f50c5ddeeb35e6",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 35,
+    "name": "산호빛 바다",
+    "tier": "premium",
+    "file": "premium/profile_035_premium.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "b0f34957b26db0d3c9f876e431b8c9db5abe93d2ddb22d8e3e4c5f4d139c8a78",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 36,
+    "name": "진주 조개",
+    "tier": "premium",
+    "file": "premium/profile_036_premium.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "8212e705b2cbc3e06beb4ad0715110632152e18a3d1a01d6d94d19c03dee7dff",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 37,
+    "name": "노을의 구름",
+    "tier": "premium",
+    "file": "premium/profile_037_premium.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "160e61a8b0188718493ef8913ef7b8b6a2fa1f4b42cf17c3a34332243af80ce7",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 38,
+    "name": "자정의 별",
+    "tier": "premium",
+    "file": "premium/profile_038_premium.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "f8dddce7e372267205bddcebc872e69193f47ace0b253c1ad296a2a3534dda82",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 39,
+    "name": "여우 꼬리",
+    "tier": "premium",
+    "file": "premium/profile_039_premium.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "bf0b92c23723afc160474f1ecc8bcf9d01a4bcdfa683ccfdb176d4a42820da4d",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 40,
+    "name": "고양이 카페",
+    "tier": "premium",
+    "file": "premium/profile_040_premium.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "264a8d0735a9865afdcb584a1d6a04c421a766926a23738a2c99353110d302d8",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 41,
+    "name": "토끼 우체국",
+    "tier": "premium",
+    "file": "premium/profile_041_premium.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "7ee42796e6f532e81083d80b8bda5ab4a1bb731b56e104c136ac5406ed47e032",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 42,
+    "name": "강아지 산책",
+    "tier": "premium",
+    "file": "premium/profile_042_premium.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "b86230ba5a008d51e3b2a2e781e89408ec162deb4f7420b3c91cdd7b49d40c2f",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 43,
+    "name": "곰돌이 포근",
+    "tier": "premium",
+    "file": "premium/profile_043_premium.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "12057f44a0bbeaea04a703854af88746c6654d39807345f38242faa5e4ef20fb",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 44,
+    "name": "펭귄 빙수",
+    "tier": "premium",
+    "file": "premium/profile_044_premium.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "89cda6b12f8ae7c6932ff096b47b21beea9b52ee748b86a6d3b2ee814c8cadfc",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 45,
+    "name": "딸기 생크림",
+    "tier": "premium",
+    "file": "premium/profile_045_premium.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "85c332914efa0c6e284e6b9049057f5ad2b57c2f91b89179d10afbb1d8b59387",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 46,
+    "name": "마카롱 파티",
+    "tier": "premium",
+    "file": "premium/profile_046_premium.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "6bf47866cbb9141603cd518ce973737f5133eaad5f8dc13397eda57d97fee327",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 47,
+    "name": "초코 도넛",
+    "tier": "premium",
+    "file": "premium/profile_047_premium.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "e208abe23ea7c17e7c3febe75e55e883d71dcfcef923310bb99b81fb9012f63a",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 48,
+    "name": "레트로 오락실",
+    "tier": "premium",
+    "file": "premium/profile_048_premium.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "3b5767a999dccae9b914764d241c8e890460c40f3c5431dfb25e5899b17fcd12",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 49,
+    "name": "픽셀 러브",
+    "tier": "premium",
+    "file": "premium/profile_049_premium.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "11bef73a9d2e7f6d10ec71afb960e421b0fababe2376d7ccd2a03bbea3a2bb36",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 50,
+    "name": "청록 회로",
+    "tier": "premium",
+    "file": "premium/profile_050_premium.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "e7f8dcb8ee4e67d53396d6c9038debd728281611f1c581c81f070d2d9e0ec2b9",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 51,
+    "name": "체스의 밤",
+    "tier": "premium",
+    "file": "premium/profile_051_premium.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "54e485522947bdb8cc6340aff156f0249d48135ee5775d2489051d3f54dba53a",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 52,
+    "name": "피아노의 밤",
+    "tier": "premium",
+    "file": "premium/profile_052_premium.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "21f6fb7e5e4b616ffdbcb099a68b6de40164021391148191c0d4993869588550",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 53,
+    "name": "필름 카메라",
+    "tier": "premium",
+    "file": "premium/profile_053_premium.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "149fab83738a7317330ce17fd94a79fcdde420fe73dfbe99018fc527831a2f0c",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 54,
+    "name": "화가의 팔레트",
+    "tier": "premium",
+    "file": "premium/profile_054_premium.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "7ef558ac3955a89f3f0e31a7321dd10577595d580b4b669f5ac6b2fa74decac0",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 55,
+    "name": "별을 보는 밤",
+    "tier": "premium",
+    "file": "premium/profile_055_premium.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "73c70b000972309037fdff4798d889e885774e9bdbc950f756b145e4aefd5026",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 56,
+    "name": "달빛의 서약",
+    "tier": "rare",
+    "file": "rare/profile_056_rare.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "9edbfd5fa95ac13e3b2dff1a8a3bfd6dae555a6073c06c03d34681e4c971ceb5",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 57,
+    "name": "태양과 달",
+    "tier": "rare",
+    "file": "rare/profile_057_rare.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "ee47542365f8a37b3ff63204ab510fbff43e95d5e4f77693bdf3a16c2ff43a34",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 58,
+    "name": "별자리 항해",
+    "tier": "rare",
+    "file": "rare/profile_058_rare.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "27965f962a7fb375a2565f3ac11e013651dcedb816b55b7a16d8fdeae5a0004f",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 59,
+    "name": "은하수 리본",
+    "tier": "rare",
+    "file": "rare/profile_059_rare.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "4b9c18e28edf08f1fb0514e5f6319cf24e353c3fd741d43190ea479798750e97",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 60,
+    "name": "보랏빛 마법진",
+    "tier": "rare",
+    "file": "rare/profile_060_rare.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "410248f37a0dfd90907859183e5e277722fa2efefbdd58b6efa62c784028bfde",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 61,
+    "name": "수정 숲",
+    "tier": "rare",
+    "file": "rare/profile_061_rare.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "6167ef419e3cb8d9e63228efd9c3f972484be1c82aaf5199a9aaa932350dd494",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 62,
+    "name": "사파이어 왕관",
+    "tier": "rare",
+    "file": "rare/profile_062_rare.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "cd6bd6dda120c1c1e9e0bd1dddda3a045121ad4fb58049274f6acf1ec3a5217c",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 63,
+    "name": "루비 덩굴",
+    "tier": "rare",
+    "file": "rare/profile_063_rare.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "c458366133c2c985482346513badf85fdaa55e7a2f7db7541f646c1b5b65b046",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 64,
+    "name": "에메랄드 세공",
+    "tier": "rare",
+    "file": "rare/profile_064_rare.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "82d9500abdcb814dcb4224b54b47c4e574feabc40abbebe4a8a42644cffed1b0",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 65,
+    "name": "오팔 파편",
+    "tier": "rare",
+    "file": "rare/profile_065_rare.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "37d9f249deeeb14367e34b18b55bd94d0c6f138226befb0a3309d361b22c8985",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 66,
+    "name": "얼음 결정",
+    "tier": "rare",
+    "file": "rare/profile_066_rare.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "6493f8670a9ed437a73ea610411b8c6a7527da1c9b5b00da449433854b20e743",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 67,
+    "name": "작은 불꽃 정령",
+    "tier": "rare",
+    "file": "rare/profile_067_rare.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "f958a310a9a50612858b848c576d41896c5e5d2d3665a179b948b9e838f6039d",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 68,
+    "name": "폭풍의 고리",
+    "tier": "rare",
+    "file": "rare/profile_068_rare.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "37849d1cdd21bc1d1bfb51afadacd96764344dc28463f4d434341cc36e85c0bf",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 69,
+    "name": "전자파 홀로그램",
+    "tier": "rare",
+    "file": "rare/profile_069_rare.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "dc47a1a9298d368470114a8d8b9d1a5810e532b5c5641a33290903b4e0bfa294",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 70,
+    "name": "시공간 톱니",
+    "tier": "rare",
+    "file": "rare/profile_070_rare.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "6a2ad3b48387be10f7425c60ffb4bb9923620dc04430281f9b7bdd48dd46652e",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 71,
+    "name": "봉인의 문장",
+    "tier": "rare",
+    "file": "rare/profile_071_rare.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "6309b91e6095f920955aff3837b706f277348a6faa60f526ddc591fd0ec96360",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 72,
+    "name": "마법 도서관",
+    "tier": "rare",
+    "file": "rare/profile_072_rare.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "568330292f9860254e631a577a8d35dcb1658508a87d657ce78e580aceb192c9",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 73,
+    "name": "푸른 용의 비늘",
+    "tier": "rare",
+    "file": "rare/profile_073_rare.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "5a58e42b018f014c4df2e9a8a30963aeead00c7c41ba11d6255146a9cda7dc9e",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 74,
+    "name": "반딧불 요정",
+    "tier": "rare",
+    "file": "rare/profile_074_rare.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "821717291f4e6761f9c2e8ac1794fba700da2a74e7c119fff8e849c6c3817ae7",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 75,
+    "name": "심해 발광",
+    "tier": "rare",
+    "file": "rare/profile_075_rare.png",
+    "animated": false,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "de828e44c66bc9a1f52491592025c52c43f56d834161be19cd16d9e13db81c48",
+    "avatar_fraction": 0.559375,
+    "geometry": {}
+  },
+  {
+    "id": 76,
+    "name": "불사조의 깃털",
+    "tier": "epic",
+    "file": "epic/profile_076_epic.svg",
+    "animated": true,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "c3bc93015471d662e48fa2adbe791d982256d305161afd49a1b35e65f0fdefba",
+    "avatar_fraction": 0.559375,
+    "geometry": {
+      "method": "matte_preexport_global_alignment",
+      "original_center_offset": [
+        -4.716877469834473,
+        -20.398626786202097
+      ],
+      "global_matrix": [
+        [
+          1.0434074725535494,
+          0.0026297189138561796
+        ],
+        [
+          0.002629718913856178,
+          1.1500650890251112
+        ]
+      ]
+    }
+  },
+  {
+    "id": 77,
+    "name": "설원의 군주",
+    "tier": "epic",
+    "file": "epic/profile_077_epic.svg",
+    "animated": true,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "59bc746996d4d5be4094de551a3f6739f1ed6b8b785b0eb5cf459588088a9f89",
+    "avatar_fraction": 0.559375,
+    "geometry": {
+      "method": "matte_preexport_global_alignment",
+      "original_center_offset": [
+        -2.1914091712663537,
+        -16.321757160248236
+      ],
+      "global_matrix": [
+        [
+          1.031204329074911,
+          -0.0023115834457742594
+        ],
+        [
+          -0.0023115834457742594,
+          1.1724780907293368
+        ]
+      ]
+    }
+  },
+  {
+    "id": 78,
+    "name": "황금 사자",
+    "tier": "epic",
+    "file": "epic/profile_078_epic.svg",
+    "animated": true,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "b1bffe32eeec538f1d4019949e9dffea062d8cf61b3a6402bcd1a5f4a6729d42",
+    "avatar_fraction": 0.559375,
+    "geometry": {
+      "method": "matte_preexport_global_alignment",
+      "original_center_offset": [
+        -3.38737331029188,
+        33.12644494447213
+      ],
+      "global_matrix": [
+        [
+          1.0775745811934927,
+          0.0012118964726021192
+        ],
+        [
+          0.0012118964726021224,
+          1.1389282333800383
+        ]
+      ]
+    }
+  },
+  {
+    "id": 79,
+    "name": "심연의 장미",
+    "tier": "epic",
+    "file": "epic/profile_079_epic.svg",
+    "animated": true,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "71eb8b1791ec49c83308723b6234c1c5d2f6b8a6846f6d82d8e42355d8f0b890",
+    "avatar_fraction": 0.559375,
+    "geometry": {
+      "method": "matte_preexport_global_alignment",
+      "original_center_offset": [
+        -1.6335304164869169,
+        -4.7112317988183
+      ],
+      "global_matrix": [
+        [
+          1.030257335590353,
+          -0.00337737457899339
+        ],
+        [
+          -0.0033773745789933874,
+          1.1505255845991658
+        ]
+      ]
+    }
+  },
+  {
+    "id": 80,
+    "name": "붉은 월식",
+    "tier": "epic",
+    "file": "epic/profile_080_epic.svg",
+    "animated": true,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "9f1234180bffc9470d3ea78b6f6c3e727b11128121ea37ee4f20d5caa7092e5f",
+    "avatar_fraction": 0.559375,
+    "geometry": {
+      "method": "matte_preexport_global_alignment",
+      "original_center_offset": [
+        -9.80606441272802,
+        -4.70207438732676
+      ],
+      "global_matrix": [
+        [
+          1.039029321238284,
+          -0.004901724755450329
+        ],
+        [
+          -0.004901724755450327,
+          1.124231718376066
+        ]
+      ]
+    }
+  },
+  {
+    "id": 81,
+    "name": "우주의 시계",
+    "tier": "epic",
+    "file": "epic/profile_081_epic.svg",
+    "animated": true,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "721447f1cf3a3a8dc757734f56406dde85dc5bdd5681676fd2485698bd70501f",
+    "avatar_fraction": 0.559375,
+    "geometry": {
+      "method": "matte_preexport_global_alignment",
+      "original_center_offset": [
+        -10.335079783742131,
+        -13.694543632463802
+      ],
+      "global_matrix": [
+        [
+          1.0782249861825888,
+          0.0019920131904331466
+        ],
+        [
+          0.0019920131904331466,
+          1.146270198765221
+        ]
+      ]
+    }
+  },
+  {
+    "id": 82,
+    "name": "여명의 성기사",
+    "tier": "epic",
+    "file": "epic/profile_082_epic.svg",
+    "animated": true,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "ecb23418f7ea719ca77d5542aab736ab6941220fa30685cdd4b5a65b6b83a66b",
+    "avatar_fraction": 0.559375,
+    "geometry": {
+      "method": "matte_preexport_global_alignment",
+      "original_center_offset": [
+        -6.705090953570492,
+        19.82061606741295
+      ],
+      "global_matrix": [
+        [
+          1.0521508392908347,
+          0.0022207408392851493
+        ],
+        [
+          0.00222074083928515,
+          1.139183738729189
+        ]
+      ]
+    }
+  },
+  {
+    "id": 83,
+    "name": "별똥별 궤도",
+    "tier": "epic",
+    "file": "epic/profile_083_epic.svg",
+    "animated": true,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "736013a02c7b1c02ea3dbe8fdb9efaaa8e013f79bbe66659ab3b6439f43b48fb",
+    "avatar_fraction": 0.559375,
+    "geometry": {
+      "method": "matte_preexport_global_alignment",
+      "original_center_offset": [
+        -6.905214378827603,
+        -22.448712397940362
+      ],
+      "global_matrix": [
+        [
+          1.0139020562176708,
+          -0.0001739981421306062
+        ],
+        [
+          -0.00017399814213060633,
+          1.0630859107957504
+        ]
+      ]
+    }
+  },
+  {
+    "id": 84,
+    "name": "전류 지배자",
+    "tier": "epic",
+    "file": "epic/profile_084_epic.svg",
+    "animated": true,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "3f440957df53ff0438a84c37cce3a98c7ed8ab529b86fc7f97ffaff4303ea2c1",
+    "avatar_fraction": 0.559375,
+    "geometry": {
+      "method": "matte_preexport_global_alignment",
+      "original_center_offset": [
+        -2.1572570308737347,
+        -15.597096434653512
+      ],
+      "global_matrix": [
+        [
+          1.0163845863217253,
+          -0.0033376309062993184
+        ],
+        [
+          -0.00333763090629932,
+          1.0874669820388574
+        ]
+      ]
+    }
+  },
+  {
+    "id": 85,
+    "name": "고대 룬",
+    "tier": "epic",
+    "file": "epic/profile_085_epic.svg",
+    "animated": true,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "14973232ffcc0b0d478f88f29020bc2b11c38e156be48a20f5f1411148ffec55",
+    "avatar_fraction": 0.559375,
+    "geometry": {
+      "method": "matte_preexport_global_alignment",
+      "original_center_offset": [
+        -3.4377102967986195,
+        -10.093516536537013
+      ],
+      "global_matrix": [
+        [
+          1.1111739364438653,
+          -0.002205246870721066
+        ],
+        [
+          -0.0022052468707210717,
+          1.1656622660667197
+        ]
+      ]
+    }
+  },
+  {
+    "id": 86,
+    "name": "행성의 수호자",
+    "tier": "epic",
+    "file": "epic/profile_086_epic.svg",
+    "animated": true,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "dc1ccef764a9fd789625a01ecda9114f2f91a14eeed814000de7ee96a58928a1",
+    "avatar_fraction": 0.559375,
+    "geometry": {
+      "method": "matte_preexport_global_alignment",
+      "original_center_offset": [
+        -5.949078805219036,
+        7.080919288020823
+      ],
+      "global_matrix": [
+        [
+          1.141303855437632,
+          0.0002040309633793791
+        ],
+        [
+          0.00020403096337937913,
+          1.190523195392019
+        ]
+      ]
+    }
+  },
+  {
+    "id": 87,
+    "name": "창공의 날개",
+    "tier": "epic",
+    "file": "epic/profile_087_epic.svg",
+    "animated": true,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "c5e97399ca2b1a32d947a729bbc83bf00d32cb5cd1c4c026f77ee61d43cacb8f",
+    "avatar_fraction": 0.559375,
+    "geometry": {
+      "method": "matte_preexport_global_alignment",
+      "original_center_offset": [
+        -3.6483497579159567,
+        -10.639069315720599
+      ],
+      "global_matrix": [
+        [
+          1.0766910153478844,
+          0.0007444351968239748
+        ],
+        [
+          0.0007444351968239762,
+          1.1495369229466694
+        ]
+      ]
+    }
+  },
+  {
+    "id": 88,
+    "name": "심해의 왕관",
+    "tier": "epic",
+    "file": "epic/profile_088_epic.svg",
+    "animated": true,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "6aae4b34d913fbd6eeb1358be0dbea3fe768e2bd4bd4f182cee233fd883d0402",
+    "avatar_fraction": 0.559375,
+    "geometry": {
+      "method": "matte_preexport_global_alignment",
+      "original_center_offset": [
+        -1.76243107714841,
+        17.87348221512937
+      ],
+      "global_matrix": [
+        [
+          1.0361834570374089,
+          -0.0023828757799432766
+        ],
+        [
+          -0.0023828757799432723,
+          1.0936376577833973
+        ]
+      ]
+    }
+  },
+  {
+    "id": 89,
+    "name": "흑룡의 숨결",
+    "tier": "epic",
+    "file": "epic/profile_089_epic.svg",
+    "animated": true,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "33640d4efaf9310bd41c1c1ddb6195c868d55986989183b121406d5ee70b973c",
+    "avatar_fraction": 0.559375,
+    "geometry": {
+      "method": "matte_preexport_global_alignment",
+      "original_center_offset": [
+        -1.3825435553803278,
+        -12.511563644903507
+      ],
+      "global_matrix": [
+        [
+          1.0358458905301462,
+          -0.0012231498540492428
+        ],
+        [
+          -0.0012231498540492423,
+          1.1438119236572735
+        ]
+      ]
+    }
+  },
+  {
+    "id": 90,
+    "name": "천둥의 왕좌",
+    "tier": "epic",
+    "file": "epic/profile_090_epic.svg",
+    "animated": true,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "640d55b1beb422f40bdde54b016f45721abf36698e06810750a631ee3b52b55d",
+    "avatar_fraction": 0.559375,
+    "geometry": {
+      "method": "matte_preexport_global_alignment",
+      "original_center_offset": [
+        -2.7510581478421585,
+        3.093268068452504
+      ],
+      "global_matrix": [
+        [
+          1.0765395454092417,
+          0.0023968788356399586
+        ],
+        [
+          0.00239687883563996,
+          1.1316190555635741
+        ]
+      ]
+    }
+  },
+  {
+    "id": 91,
+    "name": "태초의 별",
+    "tier": "legendary",
+    "file": "legendary/profile_091_legendary.svg",
+    "animated": true,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "ddbe52cf44b88a661e66d6d1256257cc18bdfe255930144ea2f8a8f36b425c06",
+    "avatar_fraction": 0.559375,
+    "geometry": {
+      "method": "inverse_radial_compression_on_fixed_rail",
+      "restoration_factor": 2.18435998252512
+    }
+  },
+  {
+    "id": 92,
+    "name": "끝없는 은하",
+    "tier": "legendary",
+    "file": "legendary/profile_092_legendary.svg",
+    "animated": true,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "d33580cec0cb04d2a1d74018e0c2a6839970e0633800bf236a52aff4eece4489",
+    "avatar_fraction": 0.559375,
+    "geometry": {
+      "method": "inverse_radial_compression_on_fixed_rail",
+      "restoration_factor": 2.047921359819783
+    }
+  },
+  {
+    "id": 93,
+    "name": "영원한 일식",
+    "tier": "legendary",
+    "file": "legendary/profile_093_legendary.svg",
+    "animated": true,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "e045330c998101a83a8d9ce02eabbaaa81b92e8f428e6d3ae15646d266228cd4",
+    "avatar_fraction": 0.559375,
+    "geometry": {
+      "method": "inverse_radial_compression_on_fixed_rail",
+      "restoration_factor": 2.041984415206173
+    }
+  },
+  {
+    "id": 94,
+    "name": "시간의 왕관",
+    "tier": "legendary",
+    "file": "legendary/profile_094_legendary.svg",
+    "animated": true,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "e78484f1f53ad7367890b0ccc903fe3a80295f7f1d2db84629698dc90492abff",
+    "avatar_fraction": 0.559375,
+    "geometry": {
+      "method": "inverse_radial_compression_on_fixed_rail",
+      "restoration_factor": 2.0772513810285513
+    }
+  },
+  {
+    "id": 95,
+    "name": "차원의 균열",
+    "tier": "legendary",
+    "file": "legendary/profile_095_legendary.svg",
+    "animated": true,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "63d1f251df38ef4621b09b8f7d477007ad8a314d9d7aac36f396004e2361395e",
+    "avatar_fraction": 0.559375,
+    "geometry": {
+      "method": "inverse_radial_compression_on_fixed_rail",
+      "restoration_factor": 2.3952095808383236
+    }
+  },
+  {
+    "id": 96,
+    "name": "창세의 세계수",
+    "tier": "legendary",
+    "file": "legendary/profile_096_legendary.svg",
+    "animated": true,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "a62baa06174522966367af83b6b8e2a87b087726175794fb94fce661c3aa0d82",
+    "avatar_fraction": 0.559375,
+    "geometry": {
+      "method": "inverse_radial_compression_on_fixed_rail",
+      "restoration_factor": 2.113535168564353
+    }
+  },
+  {
+    "id": 97,
+    "name": "천상의 심판",
+    "tier": "legendary",
+    "file": "legendary/profile_097_legendary.svg",
+    "animated": true,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "fb6f619fa8a2408f6c30fc677f2c2b29f174023806580382c0bc396768f7ed06",
+    "avatar_fraction": 0.559375,
+    "geometry": {
+      "method": "inverse_radial_compression_on_fixed_rail",
+      "restoration_factor": 2.2511411589980628
+    }
+  },
+  {
+    "id": 98,
+    "name": "영겁의 용",
+    "tier": "legendary",
+    "file": "legendary/profile_098_legendary.svg",
+    "animated": true,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "d6deae69f8af7300b3b2a456d0ea8bcedd579129eb2093b337dda20a2c791257",
+    "avatar_fraction": 0.559375,
+    "geometry": {
+      "method": "inverse_radial_compression_on_fixed_rail",
+      "restoration_factor": 2.7121967898501356
+    }
+  },
+  {
+    "id": 99,
+    "name": "무한의 프리즘",
+    "tier": "legendary",
+    "file": "legendary/profile_099_legendary.svg",
+    "animated": true,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "b72b9ae2a90f6a60dea6bf4643858b987a47ea9b9f5b2d1c3512b6564b5f5256",
+    "avatar_fraction": 0.559375,
+    "geometry": {
+      "method": "inverse_radial_compression_on_fixed_rail",
+      "restoration_factor": 2.260397830018083
+    }
+  },
+  {
+    "id": 100,
+    "name": "우주의 중심",
+    "tier": "legendary",
+    "file": "legendary/profile_100_legendary.svg",
+    "animated": true,
+    "width": 1280,
+    "height": 1280,
+    "center": [
+      640,
+      640
+    ],
+    "inner_diameter_px": 716,
+    "sha256": "72d1c6b2d135b3a26f58dc63b754d63ac6fcf584b8d70ee98718cf1951372c4b",
+    "avatar_fraction": 0.559375,
+    "geometry": {
+      "method": "inverse_radial_compression_on_fixed_rail",
+      "restoration_factor": 2.5953802232026995
+    }
+  }
+]

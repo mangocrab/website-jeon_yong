@@ -5,14 +5,15 @@
     "tier": "normal",
     "file": "normal/profile_001_normal.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "7caa7b6b20f6e622f947becbec335b776c38026521a268a133037a4412a46f34"
+    "avatar_fraction": 0.559375,
+    "sha256": "3bb719768e920f496a85dc4fe1ce280a715a815753573eda13e941c6f661e46a"
   },
   {
     "id": 2,
@@ -20,14 +21,15 @@
     "tier": "normal",
     "file": "normal/profile_002_normal.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "724cdcc9e7bf16eb8f7c728ab2ab5540be9d541f6ad22ec7c8dc9f5bbc2336f5"
+    "avatar_fraction": 0.559375,
+    "sha256": "8376337337988ceda77a11877ff443c1ea7b765bc4c71f0b077db68c515681b6"
   },
   {
     "id": 3,
@@ -35,14 +37,15 @@
     "tier": "normal",
     "file": "normal/profile_003_normal.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "515e8dddb62c9dfcd06a0c2621c3dfd93c1736acd087f23382862d75bfdeb687"
+    "avatar_fraction": 0.559375,
+    "sha256": "6a2522089db94184f3d6ff11fbc29aa651ed6e5457b46fb8ba9fd51625353d29"
   },
   {
     "id": 4,
@@ -50,14 +53,15 @@
     "tier": "normal",
     "file": "normal/profile_004_normal.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "3e3d12d32539e0d86e78742d39ee518dec7dfc4f769bb60ffb4f629536dc0ad7"
+    "avatar_fraction": 0.559375,
+    "sha256": "6109c3a84a619b1783db743af845d3cd991b9167ba4d7ec4c7fb2210af818366"
   },
   {
     "id": 5,
@@ -65,14 +69,15 @@
     "tier": "normal",
     "file": "normal/profile_005_normal.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "1de1e0442e6cc5ce3440be9834bd1e7cdd5c0be7cf8dbbf321574ee23be28ed8"
+    "avatar_fraction": 0.559375,
+    "sha256": "8ba1e29ea54b6495d452d936d90eb53f04f82d89b0ad41f1912789bf36972940"
   },
   {
     "id": 6,
@@ -80,14 +85,15 @@
     "tier": "normal",
     "file": "normal/profile_006_normal.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "1b4b9e5c0b4e8835b10188e683373f2a6f91edce252deafdcfadf3d4fa954a8a"
+    "avatar_fraction": 0.559375,
+    "sha256": "e8740c32928bd114a3ff1eba2550360fd7033046cf67a610362a9a41e830d365"
   },
   {
     "id": 7,
@@ -95,14 +101,15 @@
     "tier": "normal",
     "file": "normal/profile_007_normal.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "36d599b12571360d68cd3887bf284c8104988c5c327ca406058a7364a5d8e7a3"
+    "avatar_fraction": 0.559375,
+    "sha256": "3bd1688fa84261a4cdd590a621dcd61271ec0d83e57f85288a16810d15244697"
   },
   {
     "id": 8,
@@ -110,14 +117,15 @@
     "tier": "normal",
     "file": "normal/profile_008_normal.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "c3e37749e7e5c6f692c9bfd87bf6eca21bcddbc79b804cb1ce8d45135018efa6"
+    "avatar_fraction": 0.559375,
+    "sha256": "06b00affd91895536955ad2539cbecf380c05a3aa130508d88e5d6fa8bf00e3c"
   },
   {
     "id": 9,
@@ -125,14 +133,15 @@
     "tier": "normal",
     "file": "normal/profile_009_normal.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "1088584a00dd007777b8023b3fbc05b17a67a3cd8613eafaa18105f71a9d02e8"
+    "avatar_fraction": 0.559375,
+    "sha256": "babc4adf57901b3a86a6ed18b9cf4072fdcf48d1b932cba611bf3b075f61cc6b"
   },
   {
     "id": 10,
@@ -140,14 +149,15 @@
     "tier": "normal",
     "file": "normal/profile_010_normal.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "990d3e1170a3f01ed3bc248d5da11700cef7773d461bb4e30b44e8c1274513e8"
+    "avatar_fraction": 0.559375,
+    "sha256": "64c967e051954d1708fe05e59814428213a85a79c9eef46e876c1fcd0c06cf13"
   },
   {
     "id": 11,
@@ -155,14 +165,15 @@
     "tier": "normal",
     "file": "normal/profile_011_normal.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "269b817028b5e2eebc30e869874aa3eca7155e56f0f54cd980b26f941c1e2a31"
+    "avatar_fraction": 0.559375,
+    "sha256": "043aa8778a173a29fec9c169a0d869943d3235416467261ae22401f1d6d81807"
   },
   {
     "id": 12,
@@ -170,14 +181,15 @@
     "tier": "normal",
     "file": "normal/profile_012_normal.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "38f484f5149804b268ad0515c87fdb301bd65dd988f9fd8235f1a6602c318cf2"
+    "avatar_fraction": 0.559375,
+    "sha256": "27af16c2485dcc101d104977f16e8a4be88d704db0f9bdc1d4a9336de60d3c9b"
   },
   {
     "id": 13,
@@ -185,14 +197,15 @@
     "tier": "normal",
     "file": "normal/profile_013_normal.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "cf54e99f031344d809453a998ae523d90e2d849fd4eada8d544f66b61a7d577d"
+    "avatar_fraction": 0.559375,
+    "sha256": "a640f85bd93960d7ec497c5b72fc59d0a27e4878300d6b6e457f74f11de75b4f"
   },
   {
     "id": 14,
@@ -200,14 +213,15 @@
     "tier": "normal",
     "file": "normal/profile_014_normal.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "97a64cd1dc61255609d7064be4cce769d5d02a36c4d5a497b0e2611255fd8325"
+    "avatar_fraction": 0.559375,
+    "sha256": "8ce268dcd16265b98b671747fce7e9afd2d3185108c71c311a5fa0aac153b994"
   },
   {
     "id": 15,
@@ -215,14 +229,15 @@
     "tier": "normal",
     "file": "normal/profile_015_normal.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "819998227fd1475b684d02262aca744aa2abe2434ea4a8ba650589356405089c"
+    "avatar_fraction": 0.559375,
+    "sha256": "a7d62723c9c42371a4415a50c4adf3db84fbcd31da1c64e18715c7c96cb4e75c"
   },
   {
     "id": 16,
@@ -230,14 +245,15 @@
     "tier": "normal",
     "file": "normal/profile_016_normal.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "409ae929483c1539c88873f07e80ec0350459b26eb4f274742c94ec23f4774af"
+    "avatar_fraction": 0.559375,
+    "sha256": "6bf02111c33c65be7b2230b2d641dbaca7fddfba1a7dbbd7c1f9a61f731d74f3"
   },
   {
     "id": 17,
@@ -245,14 +261,15 @@
     "tier": "normal",
     "file": "normal/profile_017_normal.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "f0b832f894a4930b9957976cf6b5f2df578b1be650e92d2ccf9cc909e25c0d23"
+    "avatar_fraction": 0.559375,
+    "sha256": "0c96cfe281a33c960779e6971c20d70f707558c88c0121d2a6262839ee75ba2c"
   },
   {
     "id": 18,
@@ -260,14 +277,15 @@
     "tier": "normal",
     "file": "normal/profile_018_normal.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "848c0df3e56384eda997f9c11eb639f95427aa718e7286153c08f734b59410c0"
+    "avatar_fraction": 0.559375,
+    "sha256": "c234a0c0fb6954f39bcfacf2fb2937f0e68f83003f45721a436f9e72f33ea2ab"
   },
   {
     "id": 19,
@@ -275,14 +293,15 @@
     "tier": "normal",
     "file": "normal/profile_019_normal.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "fee3d2f27e49824a4051774a1f98ad2f6fe3f42ab1c5befdbc3f3347e9d74be5"
+    "avatar_fraction": 0.559375,
+    "sha256": "4e90bdd0f57ab29291de831ed5ed832849cb15f64a248190e94183fc43736f56"
   },
   {
     "id": 20,
@@ -290,14 +309,15 @@
     "tier": "normal",
     "file": "normal/profile_020_normal.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "8cab954800351ebd6b1ad5213f3c2c2a84dd17ac36c058e3f703923083f691b1"
+    "avatar_fraction": 0.559375,
+    "sha256": "684b9142c16a14d5e4f6b7cb0c073737b84092fe1c7da97d1c5231fc3093a0c3"
   },
   {
     "id": 21,
@@ -305,14 +325,15 @@
     "tier": "normal",
     "file": "normal/profile_021_normal.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "93f4c09a194cf1b3c31d0dc4b71a6a75c0870a8428a46dd21fd83432de565857"
+    "avatar_fraction": 0.559375,
+    "sha256": "e13ba6602ffafaa3f832280dc8eeef06ea01dc7c4e48711bb292f28c09d0956e"
   },
   {
     "id": 22,
@@ -320,14 +341,15 @@
     "tier": "normal",
     "file": "normal/profile_022_normal.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "7ff42caa0ff0bd079172af0e41e4f1b59897c86dda7d3e25e0f734e6e7b5b775"
+    "avatar_fraction": 0.559375,
+    "sha256": "ab2777fe10db1527c990fd2b27fa0e0b01f229f730e382e9d3c868e0147b2eb2"
   },
   {
     "id": 23,
@@ -335,14 +357,15 @@
     "tier": "normal",
     "file": "normal/profile_023_normal.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "02ac39e3046600662179b513bf1f5dcfbb8fc6c7d274d0b1181fc6cdbb7de2ae"
+    "avatar_fraction": 0.559375,
+    "sha256": "3efa09ba49e1dd62279b25ba4300b9e1145ef1dcdaa0f6491122eb0282367a7d"
   },
   {
     "id": 24,
@@ -350,14 +373,15 @@
     "tier": "normal",
     "file": "normal/profile_024_normal.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "3d0618780be0c7231f7bf1c8dd093745ac0589334f7edc8b543fc7f4c6869c80"
+    "avatar_fraction": 0.559375,
+    "sha256": "c9d34842fd830c7498719522ecb0fb7045b585cdc04cb2c9169ce9c306cfe2fa"
   },
   {
     "id": 25,
@@ -365,14 +389,15 @@
     "tier": "normal",
     "file": "normal/profile_025_normal.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "9b3095a8e399587b459e80142fc34462cf1c39bb5690ffe8508f504f054d46bb"
+    "avatar_fraction": 0.559375,
+    "sha256": "556f216e7447cc96657aa0b75b02e9e724e0a40be2d15159c17b763b9196ed74"
   },
   {
     "id": 26,
@@ -380,14 +405,15 @@
     "tier": "normal",
     "file": "normal/profile_026_normal.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "f677d5825eac66cd1be85454c50580d4018118dff7d1d4fd330955a63b2c7536"
+    "avatar_fraction": 0.559375,
+    "sha256": "10d05924d6424ad1a8fac83f5c7fe06fa06c715b18d2c699acefb008153efbb9"
   },
   {
     "id": 27,
@@ -395,14 +421,15 @@
     "tier": "normal",
     "file": "normal/profile_027_normal.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "6263543fb66e62d86efd9619843b87b7ca036f6368b4c45c54d54b0054ae154f"
+    "avatar_fraction": 0.559375,
+    "sha256": "f5d04f516c2ed391e382638e34358bd23203741f4cda30cdb26f49aaa612bd37"
   },
   {
     "id": 28,
@@ -410,14 +437,15 @@
     "tier": "normal",
     "file": "normal/profile_028_normal.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "d8d432f0d1a8a9cb48221bdea47adba59c6d92c703c23a655059949bc41f4b25"
+    "avatar_fraction": 0.559375,
+    "sha256": "8751e6cdcad0cd07dad0950891030eaac57f381ecb3149b338d35402f6418132"
   },
   {
     "id": 29,
@@ -425,14 +453,15 @@
     "tier": "normal",
     "file": "normal/profile_029_normal.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "0d55055b92ec0a5f168a061395bffa633099e6652536f34ea34cae04bd24e0fd"
+    "avatar_fraction": 0.559375,
+    "sha256": "a5806c33a952c49278e9f69e15da550172b0ba52742e46de5ea59acc32cfdcd7"
   },
   {
     "id": 30,
@@ -440,14 +469,15 @@
     "tier": "normal",
     "file": "normal/profile_030_normal.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "b487aa5fbd3b57c733484d353c9c0e9d2b83eb8a78c8df523df6b5eb69d89f7c"
+    "avatar_fraction": 0.559375,
+    "sha256": "53fc5ad48cfa86e2fa7e886baa06648ac01f39a6faad018db48d135038837719"
   },
   {
     "id": 31,
@@ -455,14 +485,15 @@
     "tier": "premium",
     "file": "premium/profile_031_premium.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "f5a56e9b74f1be95b8673380ba0eb5a0071631f62afba702109ea7e98038c2fb"
+    "avatar_fraction": 0.559375,
+    "sha256": "475e1cb549268a8b67c510dfb3b45f9643c7ee147b4a28c8c94d347549dae67c"
   },
   {
     "id": 32,
@@ -470,14 +501,15 @@
     "tier": "premium",
     "file": "premium/profile_032_premium.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "329276430096d320c3821e0f88c16d7b915505dc69836d58e9bc9c38de74c154"
+    "avatar_fraction": 0.559375,
+    "sha256": "05674f7ee7cd47c91359d580538ea72b79dfb685490280a70353060e3a5e8b5f"
   },
   {
     "id": 33,
@@ -485,14 +517,15 @@
     "tier": "premium",
     "file": "premium/profile_033_premium.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "7a24ec7d3d26805f386be9ba990826dcca06cc9273232059454b459c1cb2f249"
+    "avatar_fraction": 0.559375,
+    "sha256": "41404797370c66be7d8e06f08eacbf7f2f0652841c555dff133467edead1e72b"
   },
   {
     "id": 34,
@@ -500,14 +533,15 @@
     "tier": "premium",
     "file": "premium/profile_034_premium.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "7ea56b2242472b1c85dcf2e61452465930b2e3ef31e276e3fe50ab3451183571"
+    "avatar_fraction": 0.559375,
+    "sha256": "f7a42b8b2a3d488f867e8ae3cd0af61824fb9ff7f297da9f23f50c5ddeeb35e6"
   },
   {
     "id": 35,
@@ -515,14 +549,15 @@
     "tier": "premium",
     "file": "premium/profile_035_premium.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "7cf4f15bbb1e97ada7245b1d064bc6bf2c913ab672f2876354c128faddb1b695"
+    "avatar_fraction": 0.559375,
+    "sha256": "b0f34957b26db0d3c9f876e431b8c9db5abe93d2ddb22d8e3e4c5f4d139c8a78"
   },
   {
     "id": 36,
@@ -530,14 +565,15 @@
     "tier": "premium",
     "file": "premium/profile_036_premium.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "ce41aec1bb9a418d1665101e7d750335590128396f19a913e68c1569f4949bdc"
+    "avatar_fraction": 0.559375,
+    "sha256": "8212e705b2cbc3e06beb4ad0715110632152e18a3d1a01d6d94d19c03dee7dff"
   },
   {
     "id": 37,
@@ -545,14 +581,15 @@
     "tier": "premium",
     "file": "premium/profile_037_premium.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "3756d7957c92faee352b83f3687c1912b47a875c6d1bc14588e5e1f48471613a"
+    "avatar_fraction": 0.559375,
+    "sha256": "160e61a8b0188718493ef8913ef7b8b6a2fa1f4b42cf17c3a34332243af80ce7"
   },
   {
     "id": 38,
@@ -560,14 +597,15 @@
     "tier": "premium",
     "file": "premium/profile_038_premium.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "0b0b55855764ad6fc2377f27bba1acc84506ffa3fdb91b8e38d10cdbf49405ed"
+    "avatar_fraction": 0.559375,
+    "sha256": "f8dddce7e372267205bddcebc872e69193f47ace0b253c1ad296a2a3534dda82"
   },
   {
     "id": 39,
@@ -575,14 +613,15 @@
     "tier": "premium",
     "file": "premium/profile_039_premium.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "3979b5f8273b00de7017a2f010b37391b45204aceaf165bb7bdfafac0f740679"
+    "avatar_fraction": 0.559375,
+    "sha256": "bf0b92c23723afc160474f1ecc8bcf9d01a4bcdfa683ccfdb176d4a42820da4d"
   },
   {
     "id": 40,
@@ -590,14 +629,15 @@
     "tier": "premium",
     "file": "premium/profile_040_premium.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "776d6bfbd66a3fd8b11bc594df69d31af9ce47f76417bb2fb2a2356dcc202aae"
+    "avatar_fraction": 0.559375,
+    "sha256": "264a8d0735a9865afdcb584a1d6a04c421a766926a23738a2c99353110d302d8"
   },
   {
     "id": 41,
@@ -605,14 +645,15 @@
     "tier": "premium",
     "file": "premium/profile_041_premium.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "aa2c4675f79c3c6617aeaa32cd12fb1847cda1521ada2572c13a55dfbfffb9da"
+    "avatar_fraction": 0.559375,
+    "sha256": "7ee42796e6f532e81083d80b8bda5ab4a1bb731b56e104c136ac5406ed47e032"
   },
   {
     "id": 42,
@@ -620,14 +661,15 @@
     "tier": "premium",
     "file": "premium/profile_042_premium.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "3809b6649a2dce81e0ecdc51b9b4acc25970511147d7c93dfe56b1cf138405ad"
+    "avatar_fraction": 0.559375,
+    "sha256": "b86230ba5a008d51e3b2a2e781e89408ec162deb4f7420b3c91cdd7b49d40c2f"
   },
   {
     "id": 43,
@@ -635,14 +677,15 @@
     "tier": "premium",
     "file": "premium/profile_043_premium.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "11ea837f58f7f2ef51c4744fe4486cc5c964c2c3db9ad3587e66f57e5187d024"
+    "avatar_fraction": 0.559375,
+    "sha256": "12057f44a0bbeaea04a703854af88746c6654d39807345f38242faa5e4ef20fb"
   },
   {
     "id": 44,
@@ -650,14 +693,15 @@
     "tier": "premium",
     "file": "premium/profile_044_premium.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "c1091e3cb8d05f329a7f637ec095162d10e75731317c9c07d3cc854fd21aee55"
+    "avatar_fraction": 0.559375,
+    "sha256": "89cda6b12f8ae7c6932ff096b47b21beea9b52ee748b86a6d3b2ee814c8cadfc"
   },
   {
     "id": 45,
@@ -665,14 +709,15 @@
     "tier": "premium",
     "file": "premium/profile_045_premium.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "b309ce8e87862c23355e3a4df422d75cd8c52b09534e6962f4fc1e61a5f7e78e"
+    "avatar_fraction": 0.559375,
+    "sha256": "85c332914efa0c6e284e6b9049057f5ad2b57c2f91b89179d10afbb1d8b59387"
   },
   {
     "id": 46,
@@ -680,14 +725,15 @@
     "tier": "premium",
     "file": "premium/profile_046_premium.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "9cb5751a28cd7d341b3083bfe97705bfd266692fd95adfc924f57dfbf934e5e6"
+    "avatar_fraction": 0.559375,
+    "sha256": "6bf47866cbb9141603cd518ce973737f5133eaad5f8dc13397eda57d97fee327"
   },
   {
     "id": 47,
@@ -695,14 +741,15 @@
     "tier": "premium",
     "file": "premium/profile_047_premium.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "ff9ab505cfba9afdc84ffde6f511af960da3ea366dfbe36f856d0c052c0e8d2c"
+    "avatar_fraction": 0.559375,
+    "sha256": "e208abe23ea7c17e7c3febe75e55e883d71dcfcef923310bb99b81fb9012f63a"
   },
   {
     "id": 48,
@@ -710,14 +757,15 @@
     "tier": "premium",
     "file": "premium/profile_048_premium.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "7b0dfd8cd1d215467d9f02d4b20b3adea26a7d7d8ef99d22925d5e08d38e54b7"
+    "avatar_fraction": 0.559375,
+    "sha256": "3b5767a999dccae9b914764d241c8e890460c40f3c5431dfb25e5899b17fcd12"
   },
   {
     "id": 49,
@@ -725,14 +773,15 @@
     "tier": "premium",
     "file": "premium/profile_049_premium.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "ae5ca68e856e53c59249e0a86dc0f9bea6b8596f120e2de9e79163f1bcfcd11a"
+    "avatar_fraction": 0.559375,
+    "sha256": "11bef73a9d2e7f6d10ec71afb960e421b0fababe2376d7ccd2a03bbea3a2bb36"
   },
   {
     "id": 50,
@@ -740,14 +789,15 @@
     "tier": "premium",
     "file": "premium/profile_050_premium.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "f2c449b767887044aa9b62850be628ad14c1c6f6a4ef98469573a1bf6c352df3"
+    "avatar_fraction": 0.559375,
+    "sha256": "e7f8dcb8ee4e67d53396d6c9038debd728281611f1c581c81f070d2d9e0ec2b9"
   },
   {
     "id": 51,
@@ -755,14 +805,15 @@
     "tier": "premium",
     "file": "premium/profile_051_premium.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "6d15ad28a634d7972ca0600f55dd5171d79a052cb4a22d6b10a72ae701e9a463"
+    "avatar_fraction": 0.559375,
+    "sha256": "54e485522947bdb8cc6340aff156f0249d48135ee5775d2489051d3f54dba53a"
   },
   {
     "id": 52,
@@ -770,14 +821,15 @@
     "tier": "premium",
     "file": "premium/profile_052_premium.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "05081036bdac98212b622a24b7f84aae8bfe752c5e745bbe076cd6237f7e23fa"
+    "avatar_fraction": 0.559375,
+    "sha256": "21f6fb7e5e4b616ffdbcb099a68b6de40164021391148191c0d4993869588550"
   },
   {
     "id": 53,
@@ -785,14 +837,15 @@
     "tier": "premium",
     "file": "premium/profile_053_premium.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "e2b05614b0ebea254463c669f115d790d5c881abb2d2d71d0a45f87c43dc17dd"
+    "avatar_fraction": 0.559375,
+    "sha256": "149fab83738a7317330ce17fd94a79fcdde420fe73dfbe99018fc527831a2f0c"
   },
   {
     "id": 54,
@@ -800,14 +853,15 @@
     "tier": "premium",
     "file": "premium/profile_054_premium.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "97034e1274a95c8e0ed6d5ed0c9012f3a820cd8e64d04cd51a7b9fa0bfdbe5f0"
+    "avatar_fraction": 0.559375,
+    "sha256": "7ef558ac3955a89f3f0e31a7321dd10577595d580b4b669f5ac6b2fa74decac0"
   },
   {
     "id": 55,
@@ -815,14 +869,15 @@
     "tier": "premium",
     "file": "premium/profile_055_premium.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "59873616d165d25db540e2a025444c21e07bb23a1a9d91a57745583d973c9e7d"
+    "avatar_fraction": 0.559375,
+    "sha256": "73c70b000972309037fdff4798d889e885774e9bdbc950f756b145e4aefd5026"
   },
   {
     "id": 56,
@@ -830,14 +885,15 @@
     "tier": "rare",
     "file": "rare/profile_056_rare.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "1e5c6278683923db7ea89ecceeaaba57fe46f5c5ace9bd77ab1daeab9eb99c71"
+    "avatar_fraction": 0.559375,
+    "sha256": "9edbfd5fa95ac13e3b2dff1a8a3bfd6dae555a6073c06c03d34681e4c971ceb5"
   },
   {
     "id": 57,
@@ -845,14 +901,15 @@
     "tier": "rare",
     "file": "rare/profile_057_rare.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "7a679d5094bd48f373cc6475e44cccf868d61cd5c2aaa54e446da768be4bcad4"
+    "avatar_fraction": 0.559375,
+    "sha256": "ee47542365f8a37b3ff63204ab510fbff43e95d5e4f77693bdf3a16c2ff43a34"
   },
   {
     "id": 58,
@@ -860,14 +917,15 @@
     "tier": "rare",
     "file": "rare/profile_058_rare.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "11e383d5dde34ab04e6550613113d65294bab8a275c4274ea31175018f344592"
+    "avatar_fraction": 0.559375,
+    "sha256": "27965f962a7fb375a2565f3ac11e013651dcedb816b55b7a16d8fdeae5a0004f"
   },
   {
     "id": 59,
@@ -875,14 +933,15 @@
     "tier": "rare",
     "file": "rare/profile_059_rare.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "48a029ce2ee6541ba276f2d386f0ac5163283110a4a5579d21f88a5c32f00e6b"
+    "avatar_fraction": 0.559375,
+    "sha256": "4b9c18e28edf08f1fb0514e5f6319cf24e353c3fd741d43190ea479798750e97"
   },
   {
     "id": 60,
@@ -890,14 +949,15 @@
     "tier": "rare",
     "file": "rare/profile_060_rare.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "138413cc81692deb241f14e5cbceaeb2da7c8fefdf5c8727e1d3e390b99506d4"
+    "avatar_fraction": 0.559375,
+    "sha256": "410248f37a0dfd90907859183e5e277722fa2efefbdd58b6efa62c784028bfde"
   },
   {
     "id": 61,
@@ -905,14 +965,15 @@
     "tier": "rare",
     "file": "rare/profile_061_rare.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "eefb2d116d9442834bab5063fb76e55e2aa7a4a3d89c1300adae8f7f79585a13"
+    "avatar_fraction": 0.559375,
+    "sha256": "6167ef419e3cb8d9e63228efd9c3f972484be1c82aaf5199a9aaa932350dd494"
   },
   {
     "id": 62,
@@ -920,14 +981,15 @@
     "tier": "rare",
     "file": "rare/profile_062_rare.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "2f66c7c3db662236250e8aa130a364ca71f78736f9cb14d93c3dd5d578af6a56"
+    "avatar_fraction": 0.559375,
+    "sha256": "cd6bd6dda120c1c1e9e0bd1dddda3a045121ad4fb58049274f6acf1ec3a5217c"
   },
   {
     "id": 63,
@@ -935,14 +997,15 @@
     "tier": "rare",
     "file": "rare/profile_063_rare.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "18280f94ba1508c9eff31c601209bb8b9c6a7dd841a424a76a462c7a1eb3a566"
+    "avatar_fraction": 0.559375,
+    "sha256": "c458366133c2c985482346513badf85fdaa55e7a2f7db7541f646c1b5b65b046"
   },
   {
     "id": 64,
@@ -950,14 +1013,15 @@
     "tier": "rare",
     "file": "rare/profile_064_rare.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "237b09618c77070ca6a2168081818fbd771bc73f3ec64487f98a5736515018f7"
+    "avatar_fraction": 0.559375,
+    "sha256": "82d9500abdcb814dcb4224b54b47c4e574feabc40abbebe4a8a42644cffed1b0"
   },
   {
     "id": 65,
@@ -965,14 +1029,15 @@
     "tier": "rare",
     "file": "rare/profile_065_rare.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "4cab55d78a65735088fd4d6f9cc77ee4c1d60854cfa70d00eb5f52092761eb63"
+    "avatar_fraction": 0.559375,
+    "sha256": "37d9f249deeeb14367e34b18b55bd94d0c6f138226befb0a3309d361b22c8985"
   },
   {
     "id": 66,
@@ -980,14 +1045,15 @@
     "tier": "rare",
     "file": "rare/profile_066_rare.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "13684384c73028af2dfac76964cf0e1a68a1877dc0ca8ab184ab39fa7eb06e60"
+    "avatar_fraction": 0.559375,
+    "sha256": "6493f8670a9ed437a73ea610411b8c6a7527da1c9b5b00da449433854b20e743"
   },
   {
     "id": 67,
@@ -995,14 +1061,15 @@
     "tier": "rare",
     "file": "rare/profile_067_rare.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "bfb3e029cfeea915190674457975edd92bd7295922d3a48549209121afde55c9"
+    "avatar_fraction": 0.559375,
+    "sha256": "f958a310a9a50612858b848c576d41896c5e5d2d3665a179b948b9e838f6039d"
   },
   {
     "id": 68,
@@ -1010,14 +1077,15 @@
     "tier": "rare",
     "file": "rare/profile_068_rare.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "502322cedeb9e60a54de262b6651da4bcb9600633e533a72f20b1307665c9f1d"
+    "avatar_fraction": 0.559375,
+    "sha256": "37849d1cdd21bc1d1bfb51afadacd96764344dc28463f4d434341cc36e85c0bf"
   },
   {
     "id": 69,
@@ -1025,14 +1093,15 @@
     "tier": "rare",
     "file": "rare/profile_069_rare.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "2ed1dd1b8351a17168d9dc18fa86f520650f449190b60bd64621031aaac882f6"
+    "avatar_fraction": 0.559375,
+    "sha256": "dc47a1a9298d368470114a8d8b9d1a5810e532b5c5641a33290903b4e0bfa294"
   },
   {
     "id": 70,
@@ -1040,14 +1109,15 @@
     "tier": "rare",
     "file": "rare/profile_070_rare.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "e1d261692ed06273b11d7596a4a51195e140216a29d254427a672d76ab591a8f"
+    "avatar_fraction": 0.559375,
+    "sha256": "6a2ad3b48387be10f7425c60ffb4bb9923620dc04430281f9b7bdd48dd46652e"
   },
   {
     "id": 71,
@@ -1055,14 +1125,15 @@
     "tier": "rare",
     "file": "rare/profile_071_rare.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "1842ecc5fce2aa2c2f9f2ad15f225caedf83b65e1b047fce8899a0001b72edd3"
+    "avatar_fraction": 0.559375,
+    "sha256": "6309b91e6095f920955aff3837b706f277348a6faa60f526ddc591fd0ec96360"
   },
   {
     "id": 72,
@@ -1070,14 +1141,15 @@
     "tier": "rare",
     "file": "rare/profile_072_rare.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "72aaed7cf671b673b8de5be8fe05de75c9c3aea7fd180770ab879ed87e8412ef"
+    "avatar_fraction": 0.559375,
+    "sha256": "568330292f9860254e631a577a8d35dcb1658508a87d657ce78e580aceb192c9"
   },
   {
     "id": 73,
@@ -1085,14 +1157,15 @@
     "tier": "rare",
     "file": "rare/profile_073_rare.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "5a82fd5b7a181b106e6c5a8cf0a55272e0ee48a58bd2929170337d44d75a6b6a"
+    "avatar_fraction": 0.559375,
+    "sha256": "5a58e42b018f014c4df2e9a8a30963aeead00c7c41ba11d6255146a9cda7dc9e"
   },
   {
     "id": 74,
@@ -1100,14 +1173,15 @@
     "tier": "rare",
     "file": "rare/profile_074_rare.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "68891c4ad621684534cf5cb2aaa8a7d992953ece6a8ba88e8bc2380da975766d"
+    "avatar_fraction": 0.559375,
+    "sha256": "821717291f4e6761f9c2e8ac1794fba700da2a74e7c119fff8e849c6c3817ae7"
   },
   {
     "id": 75,
@@ -1115,14 +1189,15 @@
     "tier": "rare",
     "file": "rare/profile_075_rare.png",
     "animated": false,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "171e2bec999ee0cd697e83bdaefe8684b22e7e0a60b751d51dc48c22d6aad811"
+    "avatar_fraction": 0.559375,
+    "sha256": "de828e44c66bc9a1f52491592025c52c43f56d834161be19cd16d9e13db81c48"
   },
   {
     "id": 76,
@@ -1130,14 +1205,15 @@
     "tier": "epic",
     "file": "epic/profile_076_epic.svg",
     "animated": true,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "b9ef105b7d70a310fe8e6b9dd11bb03ba36eeb4bf3ba8e347e99535e01f347ce"
+    "avatar_fraction": 0.559375,
+    "sha256": "c3bc93015471d662e48fa2adbe791d982256d305161afd49a1b35e65f0fdefba"
   },
   {
     "id": 77,
@@ -1145,14 +1221,15 @@
     "tier": "epic",
     "file": "epic/profile_077_epic.svg",
     "animated": true,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "a6918c07db4c8862151f58d4214db71517c6beb5e230bb43de3441d8e118cdde"
+    "avatar_fraction": 0.559375,
+    "sha256": "59bc746996d4d5be4094de551a3f6739f1ed6b8b785b0eb5cf459588088a9f89"
   },
   {
     "id": 78,
@@ -1160,14 +1237,15 @@
     "tier": "epic",
     "file": "epic/profile_078_epic.svg",
     "animated": true,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "b2fc2790dabeadf8dc5b82c35606fe4af26565351691fc850fe95e09c1dbf292"
+    "avatar_fraction": 0.559375,
+    "sha256": "b1bffe32eeec538f1d4019949e9dffea062d8cf61b3a6402bcd1a5f4a6729d42"
   },
   {
     "id": 79,
@@ -1175,14 +1253,15 @@
     "tier": "epic",
     "file": "epic/profile_079_epic.svg",
     "animated": true,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "6328b33d9867d5f5edecc2a22aea917ba7eb33b705bec1a7efe6b00effa9e92e"
+    "avatar_fraction": 0.559375,
+    "sha256": "71eb8b1791ec49c83308723b6234c1c5d2f6b8a6846f6d82d8e42355d8f0b890"
   },
   {
     "id": 80,
@@ -1190,14 +1269,15 @@
     "tier": "epic",
     "file": "epic/profile_080_epic.svg",
     "animated": true,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "bb7d6a7eae7ff0fa4405086651294cac37335f324519fb1bb00afbe6ed8c0548"
+    "avatar_fraction": 0.559375,
+    "sha256": "9f1234180bffc9470d3ea78b6f6c3e727b11128121ea37ee4f20d5caa7092e5f"
   },
   {
     "id": 81,
@@ -1205,14 +1285,15 @@
     "tier": "epic",
     "file": "epic/profile_081_epic.svg",
     "animated": true,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "ca1f6d634503a9e3f9c34472fb806406b62371be15de11654db7624cff5964ea"
+    "avatar_fraction": 0.559375,
+    "sha256": "721447f1cf3a3a8dc757734f56406dde85dc5bdd5681676fd2485698bd70501f"
   },
   {
     "id": 82,
@@ -1220,14 +1301,15 @@
     "tier": "epic",
     "file": "epic/profile_082_epic.svg",
     "animated": true,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "edfb3db86b7c0d9be9387f84ecdf0d9eeca3b236efa0860bb6f19f912a51d901"
+    "avatar_fraction": 0.559375,
+    "sha256": "ecb23418f7ea719ca77d5542aab736ab6941220fa30685cdd4b5a65b6b83a66b"
   },
   {
     "id": 83,
@@ -1235,14 +1317,15 @@
     "tier": "epic",
     "file": "epic/profile_083_epic.svg",
     "animated": true,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "38d659946e89626b39e35faf7dfd2afae90bed6477dba4defe3a18125f387355"
+    "avatar_fraction": 0.559375,
+    "sha256": "736013a02c7b1c02ea3dbe8fdb9efaaa8e013f79bbe66659ab3b6439f43b48fb"
   },
   {
     "id": 84,
@@ -1250,14 +1333,15 @@
     "tier": "epic",
     "file": "epic/profile_084_epic.svg",
     "animated": true,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "d55a852f66026e92bdb55f4ec3168839014a9a5d2f746d940a73b8e050cfaf76"
+    "avatar_fraction": 0.559375,
+    "sha256": "3f440957df53ff0438a84c37cce3a98c7ed8ab529b86fc7f97ffaff4303ea2c1"
   },
   {
     "id": 85,
@@ -1265,14 +1349,15 @@
     "tier": "epic",
     "file": "epic/profile_085_epic.svg",
     "animated": true,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "3190dad77f5941e963fd9bc128362e924f8bd46d949f194fdd935955311b1b16"
+    "avatar_fraction": 0.559375,
+    "sha256": "14973232ffcc0b0d478f88f29020bc2b11c38e156be48a20f5f1411148ffec55"
   },
   {
     "id": 86,
@@ -1280,14 +1365,15 @@
     "tier": "epic",
     "file": "epic/profile_086_epic.svg",
     "animated": true,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "5318fde9c3a67a80600e36f4a518c11403ea3430a3aa981f64b65ce5dd6ffa15"
+    "avatar_fraction": 0.559375,
+    "sha256": "dc1ccef764a9fd789625a01ecda9114f2f91a14eeed814000de7ee96a58928a1"
   },
   {
     "id": 87,
@@ -1295,14 +1381,15 @@
     "tier": "epic",
     "file": "epic/profile_087_epic.svg",
     "animated": true,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "102b539b639c78e68a093b82e2f7a5e5262a29ee06c3de7c2ea0b129d1c163e8"
+    "avatar_fraction": 0.559375,
+    "sha256": "c5e97399ca2b1a32d947a729bbc83bf00d32cb5cd1c4c026f77ee61d43cacb8f"
   },
   {
     "id": 88,
@@ -1310,14 +1397,15 @@
     "tier": "epic",
     "file": "epic/profile_088_epic.svg",
     "animated": true,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "65a80f302096bf6853be6dda72cd8378a51a47d2ea94b61a663b79b8f5515dcc"
+    "avatar_fraction": 0.559375,
+    "sha256": "6aae4b34d913fbd6eeb1358be0dbea3fe768e2bd4bd4f182cee233fd883d0402"
   },
   {
     "id": 89,
@@ -1325,14 +1413,15 @@
     "tier": "epic",
     "file": "epic/profile_089_epic.svg",
     "animated": true,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "f1eff272a8cdedc391aea8c6d9755b96094075144104b38c0dbd9e3aeedde091"
+    "avatar_fraction": 0.559375,
+    "sha256": "33640d4efaf9310bd41c1c1ddb6195c868d55986989183b121406d5ee70b973c"
   },
   {
     "id": 90,
@@ -1340,14 +1429,15 @@
     "tier": "epic",
     "file": "epic/profile_090_epic.svg",
     "animated": true,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "6ffbca2344ea4b3f4a19c78d20a85649eba8e0d5275a1faada6fca781f5ad566"
+    "avatar_fraction": 0.559375,
+    "sha256": "640d55b1beb422f40bdde54b016f45721abf36698e06810750a631ee3b52b55d"
   },
   {
     "id": 91,
@@ -1355,14 +1445,15 @@
     "tier": "legendary",
     "file": "legendary/profile_091_legendary.svg",
     "animated": true,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "719096c3ea25c2203bec7ba0770814a9a215343f64ba1885e6a238eba101db78"
+    "avatar_fraction": 0.559375,
+    "sha256": "ddbe52cf44b88a661e66d6d1256257cc18bdfe255930144ea2f8a8f36b425c06"
   },
   {
     "id": 92,
@@ -1370,14 +1461,15 @@
     "tier": "legendary",
     "file": "legendary/profile_092_legendary.svg",
     "animated": true,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "463099560d7ed281207b925ccc6c463233c56ec765ac3d165e0b3ba578815be8"
+    "avatar_fraction": 0.559375,
+    "sha256": "d33580cec0cb04d2a1d74018e0c2a6839970e0633800bf236a52aff4eece4489"
   },
   {
     "id": 93,
@@ -1385,14 +1477,15 @@
     "tier": "legendary",
     "file": "legendary/profile_093_legendary.svg",
     "animated": true,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "f9e721a15103a9191ace23103cc9d2f5ebef2c270e2883892686647bc8825ed4"
+    "avatar_fraction": 0.559375,
+    "sha256": "e045330c998101a83a8d9ce02eabbaaa81b92e8f428e6d3ae15646d266228cd4"
   },
   {
     "id": 94,
@@ -1400,14 +1493,15 @@
     "tier": "legendary",
     "file": "legendary/profile_094_legendary.svg",
     "animated": true,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "5b84511085bd4fc0f78c8a898d84683520da628443290081eeb1761918e16c77"
+    "avatar_fraction": 0.559375,
+    "sha256": "e78484f1f53ad7367890b0ccc903fe3a80295f7f1d2db84629698dc90492abff"
   },
   {
     "id": 95,
@@ -1415,14 +1509,15 @@
     "tier": "legendary",
     "file": "legendary/profile_095_legendary.svg",
     "animated": true,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "9ba937c0fdd62a4de8ad76cfdf9305d33c639cfe40476d324578c15b5fdc6352"
+    "avatar_fraction": 0.559375,
+    "sha256": "63d1f251df38ef4621b09b8f7d477007ad8a314d9d7aac36f396004e2361395e"
   },
   {
     "id": 96,
@@ -1430,14 +1525,15 @@
     "tier": "legendary",
     "file": "legendary/profile_096_legendary.svg",
     "animated": true,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "7148e17649eb0b436c89c97f5221ef4fd5d51c637ee2fe2d45f485e810c32cc0"
+    "avatar_fraction": 0.559375,
+    "sha256": "a62baa06174522966367af83b6b8e2a87b087726175794fb94fce661c3aa0d82"
   },
   {
     "id": 97,
@@ -1445,14 +1541,15 @@
     "tier": "legendary",
     "file": "legendary/profile_097_legendary.svg",
     "animated": true,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "790562bb9b354c68df3ece3003d367f8853ffa26c30af0ec1924c75877d194e1"
+    "avatar_fraction": 0.559375,
+    "sha256": "fb6f619fa8a2408f6c30fc677f2c2b29f174023806580382c0bc396768f7ed06"
   },
   {
     "id": 98,
@@ -1460,14 +1557,15 @@
     "tier": "legendary",
     "file": "legendary/profile_098_legendary.svg",
     "animated": true,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "1dd7b08754500a38a677fb0faf1a11536321bfeed7cfa3b9980a085e21171c09"
+    "avatar_fraction": 0.559375,
+    "sha256": "d6deae69f8af7300b3b2a456d0ea8bcedd579129eb2093b337dda20a2c791257"
   },
   {
     "id": 99,
@@ -1475,14 +1573,15 @@
     "tier": "legendary",
     "file": "legendary/profile_099_legendary.svg",
     "animated": true,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "9fca3dcf558523241e8440cea82beac3c10a47391289de30b697a5d78e0d5ede"
+    "avatar_fraction": 0.559375,
+    "sha256": "b72b9ae2a90f6a60dea6bf4643858b987a47ea9b9f5b2d1c3512b6564b5f5256"
   },
   {
     "id": 100,
@@ -1490,13 +1589,14 @@
     "tier": "legendary",
     "file": "legendary/profile_100_legendary.svg",
     "animated": true,
-    "width": 1024,
-    "height": 1024,
+    "width": 1280,
+    "height": 1280,
     "center": [
-      512,
-      512
+      640,
+      640
     ],
     "inner_diameter_px": 716,
-    "sha256": "a49278c2542d52dbb77550cc989cae395a838c8d622b63a685775867722d074d"
+    "avatar_fraction": 0.559375,
+    "sha256": "72d1c6b2d135b3a26f58dc63b754d63ac6fcf584b8d70ee98718cf1951372c4b"
   }
 ]

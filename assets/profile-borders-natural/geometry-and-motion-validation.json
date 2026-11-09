@@ -1,0 +1,187 @@
+{
+  "status": "passed",
+  "canvas": 1280,
+  "center": [
+    640,
+    640
+  ],
+  "static_pngs": 75,
+  "animations": 25,
+  "results": [
+    {
+      "id": 76,
+      "visible_pixels_128px": 418,
+      "effect_only": true,
+      "center_transparent": true,
+      "inner_diameter_px": 716
+    },
+    {
+      "id": 77,
+      "visible_pixels_128px": 318,
+      "effect_only": true,
+      "center_transparent": true,
+      "inner_diameter_px": 716
+    },
+    {
+      "id": 78,
+      "visible_pixels_128px": 359,
+      "effect_only": true,
+      "center_transparent": true,
+      "inner_diameter_px": 716
+    },
+    {
+      "id": 79,
+      "visible_pixels_128px": 462,
+      "effect_only": true,
+      "center_transparent": true,
+      "inner_diameter_px": 716
+    },
+    {
+      "id": 80,
+      "visible_pixels_128px": 961,
+      "effect_only": true,
+      "center_transparent": true,
+      "inner_diameter_px": 716
+    },
+    {
+      "id": 81,
+      "visible_pixels_128px": 499,
+      "effect_only": true,
+      "center_transparent": true,
+      "inner_diameter_px": 716
+    },
+    {
+      "id": 82,
+      "visible_pixels_128px": 331,
+      "effect_only": true,
+      "center_transparent": true,
+      "inner_diameter_px": 716
+    },
+    {
+      "id": 83,
+      "visible_pixels_128px": 727,
+      "effect_only": true,
+      "center_transparent": true,
+      "inner_diameter_px": 716
+    },
+    {
+      "id": 84,
+      "visible_pixels_128px": 428,
+      "effect_only": true,
+      "center_transparent": true,
+      "inner_diameter_px": 716
+    },
+    {
+      "id": 85,
+      "visible_pixels_128px": 335,
+      "effect_only": true,
+      "center_transparent": true,
+      "inner_diameter_px": 716
+    },
+    {
+      "id": 86,
+      "visible_pixels_128px": 356,
+      "effect_only": true,
+      "center_transparent": true,
+      "inner_diameter_px": 716
+    },
+    {
+      "id": 87,
+      "visible_pixels_128px": 598,
+      "effect_only": true,
+      "center_transparent": true,
+      "inner_diameter_px": 716
+    },
+    {
+      "id": 88,
+      "visible_pixels_128px": 381,
+      "effect_only": true,
+      "center_transparent": true,
+      "inner_diameter_px": 716
+    },
+    {
+      "id": 89,
+      "visible_pixels_128px": 528,
+      "effect_only": true,
+      "center_transparent": true,
+      "inner_diameter_px": 716
+    },
+    {
+      "id": 90,
+      "visible_pixels_128px": 507,
+      "effect_only": true,
+      "center_transparent": true,
+      "inner_diameter_px": 716
+    },
+    {
+      "id": 91,
+      "visible_pixels_128px": 588,
+      "effect_only": false,
+      "center_transparent": true,
+      "inner_diameter_px": 716
+    },
+    {
+      "id": 92,
+      "visible_pixels_128px": 611,
+      "effect_only": false,
+      "center_transparent": true,
+      "inner_diameter_px": 716
+    },
+    {
+      "id": 93,
+      "visible_pixels_128px": 349,
+      "effect_only": false,
+      "center_transparent": true,
+      "inner_diameter_px": 716
+    },
+    {
+      "id": 94,
+      "visible_pixels_128px": 461,
+      "effect_only": false,
+      "center_transparent": true,
+      "inner_diameter_px": 716
+    },
+    {
+      "id": 95,
+      "visible_pixels_128px": 564,
+      "effect_only": false,
+      "center_transparent": true,
+      "inner_diameter_px": 716
+    },
+    {
+      "id": 96,
+      "visible_pixels_128px": 306,
+      "effect_only": false,
+      "center_transparent": true,
+      "inner_diameter_px": 716
+    },
+    {
+      "id": 97,
+      "visible_pixels_128px": 1485,
+      "effect_only": false,
+      "center_transparent": true,
+      "inner_diameter_px": 716
+    },
+    {
+      "id": 98,
+      "visible_pixels_128px": 552,
+      "effect_only": false,
+      "center_transparent": true,
+      "inner_diameter_px": 716
+    },
+    {
+      "id": 99,
+      "visible_pixels_128px": 637,
+      "effect_only": false,
+      "center_transparent": true,
+      "inner_diameter_px": 716
+    },
+    {
+      "id": 100,
+      "visible_pixels_128px": 527,
+      "effect_only": false,
+      "center_transparent": true,
+      "inner_diameter_px": 716
+    }
+  ]
+}
